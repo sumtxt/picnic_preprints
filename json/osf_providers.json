@@ -1,0 +1,130 @@
+{
+  "main": [
+    {
+      "name": "Open Science Framework",
+      "link": "https://osf.io/preprints/osf"
+    },
+    {
+      "name": "SocArXiv",
+      "link": "https://osf.io/preprints/socarxiv"
+    }
+  ],
+  "other": [
+    {
+      "name": "AfricArXiv",
+      "link": "https://osf.io/preprints/africarxiv"
+    },
+    {
+      "name": "AgriXiv",
+      "link": "https://osf.io/preprints/agrixiv"
+    },
+    {
+      "name": "Arabixiv",
+      "link": "https://osf.io/preprints/arabixiv"
+    },
+    {
+      "name": "BioHackrXiv",
+      "link": "https://osf.io/preprints/biohackrxiv"
+    },
+    {
+      "name": "BodoArXiv",
+      "link": "https://osf.io/preprints/bodoarxiv"
+    },
+    {
+      "name": "CoP",
+      "link": "https://osf.io/preprints/coppreprints"
+    },
+    {
+      "name": "EarthArXiv",
+      "link": "https://osf.io/preprints/eartharxiv"
+    },
+    {
+      "name": "EcoEvoRxiv",
+      "link": "https://osf.io/preprints/ecoevorxiv"
+    },
+    {
+      "name": "ECSarXiv",
+      "link": "https://osf.io/preprints/ecsarxiv"
+    },
+    {
+      "name": "EdArXiv",
+      "link": "https://osf.io/preprints/edarxiv"
+    },
+    {
+      "name": "engrXiv",
+      "link": "https://osf.io/preprints/engrxiv"
+    },
+    {
+      "name": "FocUS Archive",
+      "link": "https://osf.io/preprints/focusarchive"
+    },
+    {
+      "name": "Frenxiv",
+      "link": "https://osf.io/preprints/frenxiv"
+    },
+    {
+      "name": "INA-Rxiv",
+      "link": "https://osf.io/preprints/inarxiv"
+    },
+    {
+      "name": "IndiaRxiv",
+      "link": "https://osf.io/preprints/indiarxiv"
+    },
+    {
+      "name": "Law Archive",
+      "link": "https://osf.io/preprints/lawarchive"
+    },
+    {
+      "name": "LawArXiv",
+      "link": "https://osf.io/preprints/lawarxiv"
+    },
+    {
+      "name": "LIS Scholarship Archive",
+      "link": "https://osf.io/preprints/lissa"
+    },
+    {
+      "name": "MarXiv",
+      "link": "https://osf.io/preprints/marxiv"
+    },
+    {
+      "name": "MediArXiv",
+      "link": "https://osf.io/preprints/mediarxiv"
+    },
+    {
+      "name": "MetaArXiv",
+      "link": "https://osf.io/preprints/metaarxiv"
+    },
+    {
+      "name": "MindRxiv",
+      "link": "https://osf.io/preprints/mindrxiv"
+    },
+    {
+      "name": "NewAddictionsX",
+      "link": "https://osf.io/preprints/newaddictionsx"
+    },
+    {
+      "name": "NutriXiv",
+      "link": "https://osf.io/preprints/nutrixiv"
+    },
+    {
+      "name": "PaleorXiv",
+      "link": "https://osf.io/preprints/paleorxiv"
+    },
+    {
+      "name": "PsyArXiv",
+      "link": "https://osf.io/preprints/psyarxiv"
+    },
+    {
+      "name": "Research AZ",
+      "link": "https://osf.io/preprints/livedata"
+    },
+    {
+      "name": "SportRxiv",
+      "link": "https://osf.io/preprints/sportrxiv"
+    },
+    {
+      "name": "Thesis Commons",
+      "link": "https://osf.io/preprints/thesiscommons"
+    }
+  ]
+}
