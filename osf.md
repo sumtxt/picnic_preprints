@@ -1,5 +1,5 @@
 ---
-title: "Preprints"
+title: "OSF"
 layout: main
 ---
 
