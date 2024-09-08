@@ -73,6 +73,12 @@ read.csv2_check <- function(file, ...){
     }
 }
 
+# Sort 
+flag_in_list <- function(lst, flag){
+    unlist(lapply(lst, function(x) sum(x %in% flag)>0 ))
+    }
+
+
 # Crossref 
 
 call_osf_api_next <- function(url){

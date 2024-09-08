@@ -28,6 +28,10 @@ out$abstract <- strip_whitespace(out$abstract)
 out$title <- strip_whitespace(out$title)
 out$doi <- extract_doi_id(out$url)
 
+out_subjects <-aggregate(subjects ~ doi , out, function(x) paste0(x, collapse=", "))
+colnames(out_subjects)[2] <- "subjects_osf"
+out_subjects$subjects_osf[out_subjects$subjects_osf==""] <- NA
+
 # Classification 
 out$subjects <- ifelse(out$subjects=="", 
     "(Unspecified)", 
@@ -52,10 +56,21 @@ out <- aggregate(subjects ~ ., out, function(x) {
     return(list(as.character(x)))
     } )
 
+out <- merge(out, out_subjects, by="doi")
+
 # Flag to hide 
-out$hidden <- lapply(out$subjects, function(x) {
-    sum(x %in% c("(Other)", "(Unspecified)"))>0 
-    }) 
+out$hidden <- flag_in_list(out$subjects, c("(Other)", "(Unspecified)"))
+
+politics_flag <- flag_in_list(out$subjects, c("Politics"))
+economics_flag <- flag_in_list(out$subjects, c("Economics"))
+sociology_flag <- flag_in_list(out$subjects, c("Sociology"))
+other_flag <- flag_in_list(out$subjects, c("(Other)"))
+
+out <- rbind(out[politics_flag, ],
+        out[!politics_flag & economics_flag, ], 
+        out[!politics_flag & !economics_flag & sociology_flag, ], 
+        out[!politics_flag & !economics_flag & !sociology_flag & other_flag, ], 
+        out[!politics_flag & !economics_flag & !sociology_flag & !other_flag, ])
 
 # Output JSON
 out_json <- render_json(out, date=as.Date(now)) 
