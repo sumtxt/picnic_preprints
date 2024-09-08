@@ -4,10 +4,10 @@
         {% if filtered==1 %}
         <div class="card-header"> 
         {% if article.subjects=="(Other)" %} 
-        Hidden: Preprint not tagged with Politics, Economics or Sociology  
+        Classified as: {{ article.subjects_osf }}
         {% endif %}
         {% if article.subjects=="(Unspecified)" %} 
-        Hidden: No tag  
+        No classified.
         {% endif %}
         </div>
         {% endif %}
@@ -32,7 +32,6 @@
         </div>
     </div>
 </div>
-
 {% if filtered==0 %}
 <div class="col-2">
     {% for subject in article.subjects %}
