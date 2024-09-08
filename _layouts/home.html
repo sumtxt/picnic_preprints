@@ -4,14 +4,18 @@
 
 <body>
 
+  {% assign provider_count = site.data.osf_providers.main | size %}
+  {% assign provider_count_other = site.data.osf_providers.other | size %}
+  {% assign provider_count = provider_count | plus: provider_count_other %}
+
   {% include nav.html %}
 
   <div class="container my-1">
     <div class="p-5 text-center bg-body-tertiary rounded-3">
       <h1>Preprint Picnic 🧺</h1>
       <p class="col-lg-8 mx-auto fs-5 text-muted">
-        A weekly basket with the latest preprints in political science and adjacent fields. On Fridays at 2 AM UTC, we query the
-        OSF API for new research articles uploaded in the previous 7 days and tagged by the authors with the subject category "Social and Behavioral Sciences".
+        A weekly basket with the latest preprints in political science and adjacent fields. On Fridays at 2 AM UTC, we query {{ provider_count }}
+        OSF preprint providers such as SocArXiv for new preprints uploaded in the previous 7 days and tagged by the authors with the subject category "Social and Behavioral Sciences".
       </p>
 
       <div class="btn-group flex-wrap mt-3" role="group" aria-label="Landing Page Navigation">
@@ -37,11 +41,13 @@
     <div class="row row-cols-1 row-cols-md-1 align-items-md-start g-5">
       <div class="col">
         <ul class="list-group list-group">
-          {% for povider in site.data.providers %}
+          {% for povider in site.data.osf_providers.main %}
+          <li class="list-group-item"> {{ povider.name }} </li>
+          {% endfor %}
+          {% for povider in site.data.osf_providers.other %}
           <li class="list-group-item"> {{ povider.name }} </li>
           {% endfor %}
         </ul>
-
       </div>
     </div>
   </div>
