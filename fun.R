@@ -29,6 +29,11 @@ call_osf_api <- function(date, page=1){
 ##########
 
 render_json <- function(df,date){
+    df_hidden <- subset(df, hidden==TRUE, select=-hidden)
+    df <- subset(df, hidden==FALSE, select=-hidden)
+    df <- list(
+            "articles"=df, 
+            "articles_hidden"=df_hidden)
     to_json <- list("update"=date, "content"=df)
     json <- toJSON(to_json, pretty=TRUE, auto_unbox=TRUE) 
     return(json)

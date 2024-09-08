@@ -52,6 +52,11 @@ out <- aggregate(subjects ~ ., out, function(x) {
     return(list(as.character(x)))
     } )
 
+# Flag to hide 
+out$hidden <- lapply(out$subjects, function(x) {
+    sum(x %in% c("(Other)", "(Unspecified)"))>0 
+    }) 
+
 # Output JSON
 out_json <- render_json(out, date=as.Date(now)) 
 write(out_json, paste0("./output/osf.json"))
