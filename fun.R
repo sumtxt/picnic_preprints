@@ -77,24 +77,20 @@ call_osf_api_next <- function(url){
 
 get_osf_articles <- function(data){
     ll <- lapply(data$data, get_osf_article_info)
-    ll <- do.call(rbind, lapply(ll, function(x) as.data.frame(t(x))))
+    ll <- do.call(rbind, ll)
     return(ll)
 }
 
 get_osf_article_info <- function(item){
 
-    return((c(
+    return(data.frame(
         title=get_osf_title(item),
         authors=get_osf_authors(item),
         created=get_osf_date(item, "date_created"),
         abstract=get_osf_abstract(item), 
         url = get_osf_url(item), 
         subjects = get_osf_subjects2(item)
-#        tags = get_osf_tags(item), 
-#        politics = get_osf_subject_tag2(item, "Political Science"),
-#        sociology = get_osf_subject_tag2(item, "Sociology"),
-#        economics = get_osf_subject_tag2(item, "Economics")
-    )))
+    ))
 }
 
 get_osf_title <- function(item){
@@ -144,8 +140,9 @@ get_osf_total_pages <- function(data){
 
 get_osf_subjects2 <- function(item, name){
     out <- lapply(item$attributes$subjects, get_osf_subject2)
-    out <- paste0(unique(unlist(out)), collapse=", ")
-    return(out)
+    out <- unique(unlist(out))
+    if(is.null(out)) return("")
+    else return(out)
 }
 
 get_osf_subject2 <- function(item){
@@ -188,3 +185,39 @@ get_openai_finish_reason <- function(response){
 get_openai_usage <- function(response){
     return(unlist(response$usage$total_tokens))
 }
+
+
+# OSF Providers 
+
+call_osf_api_providers <- function(){
+    endpoint <- "https://api.osf.io/v2/providers/preprints/"    
+    res = GET(endpoint)
+    return(content(res, type="application/json"))
+    }
+
+get_osf_providers <- function(data){
+    ll <- lapply(data$data, get_osf_provider_info)
+    ll <- do.call(rbind, ll)
+    return(ll)
+}
+
+get_osf_provider_info <- function(item){
+    return(data.frame(
+        name=get_osf_provider_name(item),
+        link=get_osf_provider_link(item)
+    ))
+}
+
+get_osf_provider_name <- function(item){
+    return(item$attribute$name)
+    }
+
+get_osf_provider_type <- function(item){
+    return(item$type)
+    }
+
+get_osf_provider_link <- function(item){
+    return(item$links$iri)
+    }
+
+ 

@@ -29,11 +29,28 @@ out$title <- strip_whitespace(out$title)
 out$doi <- extract_doi_id(out$url)
 
 # Classification 
-out$politics <- as.numeric(grepl("Political Science", out$subjects))
-out$economics <- as.numeric(grepl("Economics", out$subjects))
-out$sociology <- as.numeric(grepl("Sociology", out$subjects))
-out$interdisciplinary <- as.numeric((out$politics + out$sociology + out$economics)>1)
-out$notclassified <- as.numeric(out$subjects=="")
+out$subjects <- ifelse(out$subjects=="", 
+    "(Unspecified)", 
+    out$subjects)
+out$subjects <- ifelse(out$subjects=="Political Science", 
+    "Politics",
+    out$subjects)
+
+out$subjects <- ifelse(out$subjects %in% 
+    c("Politics", "Economics", "Sociology", "(Unspecified)"), 
+    out$subjects, 
+    "(Other)")
+
+out$subjects <- factor(out$subjects, levels=c("Politics", "Economics", 
+    "Sociology", "(Other)", "(Unspecified)"))
+
+# Collapse 
+out <- unique(out)
+out <- out[order(out$subjects), ]
+out <- aggregate(subjects ~ ., out, function(x) {
+    if( sum(x == "(Other)")==1 & length(x)>1 ) x <- x[x!="(Other)"]
+    return(list(as.character(x)))
+    } )
 
 # Output JSON
 out_json <- render_json(out, date=as.Date(now)) 
@@ -48,4 +65,13 @@ write.table(out[,"url"],
     quote=FALSE, 
     col.names=FALSE,
     row.names=FALSE)
+
+# Provider list 
+lst <- get_osf_providers(call_osf_api_providers())
+lst <- list(
+    "main"=subset(lst, name %in% c("Open Science Framework", "SocArXiv")),
+    "other"=subset(lst, !(name %in% c("SocArXiv", "Open Science Framework")))
+    )
+out_json <- toJSON(lst, pretty=TRUE, auto_unbox=TRUE) 
+write(out_json, paste0("./output/osf_proviers.json"))
 
