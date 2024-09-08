@@ -65,12 +65,13 @@ politics_flag <- flag_in_list(out$subjects, c("Politics"))
 economics_flag <- flag_in_list(out$subjects, c("Economics"))
 sociology_flag <- flag_in_list(out$subjects, c("Sociology"))
 other_flag <- flag_in_list(out$subjects, c("(Other)"))
+unspecified_flag <- flag_in_list(out$subjects, c("(Unspecified)"))
 
 out <- rbind(out[politics_flag, ],
         out[!politics_flag & economics_flag, ], 
         out[!politics_flag & !economics_flag & sociology_flag, ], 
-        out[!politics_flag & !economics_flag & !sociology_flag & other_flag, ], 
-        out[!politics_flag & !economics_flag & !sociology_flag & !other_flag, ])
+        out[!politics_flag & !economics_flag & !sociology_flag & unspecified_flag, ], 
+        out[!politics_flag & !economics_flag & !sociology_flag & !unspecified_flag, ])
 
 # Output JSON
 out_json <- render_json(out, date=as.Date(now)) 
