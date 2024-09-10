@@ -1,17 +1,7 @@
 {
-  "update": "2024-09-08",
+  "update": "2024-09-10",
   "content": {
     "articles": [
-      {
-        "doi": "10.31235/osf.io/a2utr",
-        "title": "Rebooting the global consensus: norm entrepreneurship, data governance and the majority world",
-        "authors": "Linnet Taylor, Siddharth P. de Souza",
-        "created": "2024-09-02",
-        "abstract": "Over centuries, globalisation has led to the adoption of norms as a strategy for governing actions that have implications beyond the national level. This paper explores the potential of international norm-making for scaling up the governance of digital technologies and infrastructures, which have trans- and supra-national effects but are currently only governed within national jurisdictions. We chart the international neoliberal consensus currently being formalised, which affirms that data is primarly an economic commodity and must be treated according to free-market principles. We argue that this is inadequate because it cannot address interests beyond the commercial, namely data’s connections to bodies, land, community and labour. We then explore the history of norm-making and offer two assertions: first, that a norm-making lens can frame challenges to the primacy of market logics in law and governance, and second, that the conceptual exclusion of civil society actors as norm-makers is an obstacle to the recognition of counter-power in data governance. We therefore outline the features of existing norm-making work by civil-society movements with regard to data and its uses (including AI). Naming this as norm-making – in the form of the norm ‘nothing about us without us’ – answers the urgent need to foreground civil society actors’ agency in relation to the international governance of data. The main function of this norm is to place consent, or refusal, squarely in the gift of those groups represented (rather than identified) in the data, and to channel negotiation and permission through structures of democratic representation.",
-        "url": "https://doi.org/10.31235/osf.io/a2utr",
-        "subjects": "Politics",
-        "subjects_osf": "Science and Technology Law, Human Rights Law, International Law, International and Area Studies, Political Science, Science and Technology Studies"
-      },
       {
         "doi": "10.31235/osf.io/dahb6",
         "title": "Lies, Damned Lies and Statistics: Justice-Orientated Counter-Storytelling About Aid Flow to Gaza in 2023",
@@ -41,6 +31,16 @@
         "url": "https://doi.org/10.31235/osf.io/dngcj",
         "subjects": ["Politics", "Sociology"],
         "subjects_osf": "Psychology, Political Science, Communication, Sociology"
+      },
+      {
+        "doi": "10.31235/osf.io/g7a2d",
+        "title": "Digital Trace Data",
+        "authors": "Andreas Jungherr",
+        "created": "2024-09-08",
+        "abstract": "Digital trace data are an important resource for the study of social life and human behavior. Digital trace data document users’ interactions with digital information systems. This includes interactions on social media services – like Facebook, TikTok, or X (Twitter) – as well as interactions with devices – such as smart phones or smart speakers. This makes digital trace data into an important source for the analysis of communicative phenomena in digital media and beyond. But to realize their potential, researchers must first account for their characteristics as measures of society and behavior. This includes questions as to what phenomena they do speak directly, which can be inferred based on theorizing the links between specific data generating processes and phenomena of interest, what remains hidden, and how related uncertainty can be accounted for or even quantified.",
+        "url": "https://doi.org/10.31235/osf.io/g7a2d",
+        "subjects": "Politics",
+        "subjects_osf": "Political Science, Communication"
       },
       {
         "doi": "10.31235/osf.io/r6mva",
@@ -143,16 +143,6 @@
         "subjects_osf": "Sociology"
       },
       {
-        "doi": "10.31235/osf.io/k249t",
-        "title": "Smartphone Use in Germany in 2023: A Mixed-Method Investigation",
-        "authors": "Roland Toth, Douglas A. Parry, Martin Emmer",
-        "created": "2024-09-02",
-        "abstract": "Our understanding of typical smartphone behavior has only recently begun to advance due to the accessibility of increasingly valid data sources. Beyond analysing the frequency, duration, and content of smartphone activities, there is substantial value in understanding when people engage in particular forms of mobile media use, and data collection methods that go beyond simple retrospective self-reports provide the means to do so. This paper contributes to our understanding of contemporary smartphone usage patterns and their temporal dynamics by employing a mixed-method dataset obtained through Android logging, iOS data donation, and mobile experience sampling methods. This dataset captures both the quantity and quality of smartphone use among a large, quota-targeted sample of German adults (n = 2032). The findings provide a comprehensive view of smartphone use, examining both overall trends and daily rhythms. They reveal that smartphone usage is typified by frequent, short interactions, with younger users displaying more fragmented patterns compared to older counterparts, alongside variations in the gratifications derived across age groups. These findings lay the groundwork for further theorization about the causes, nature, and consequences of the observed usage patterns, while also offering essential contextual and methodological insights for researchers employing intensive longitudinal approaches to evaluate smartphone usage.",
-        "url": "https://doi.org/10.31235/osf.io/k249t",
-        "subjects": "Sociology",
-        "subjects_osf": "Communication, Sociology"
-      },
-      {
         "doi": "10.31235/osf.io/kef29",
         "title": "Hoarding without hoarders: unpacking the emergence of opportunity hoarding within schools",
         "authors": "Joao Souto-Maior",
@@ -179,16 +169,6 @@
         "created": "2024-09-04",
         "abstract": "Previous studies in the Nordic context report a positive association between a stronger labor market attachment and entry into parenthood (i.e., first birth), but the association is stronger for men than for women, and it is modified by educational attainment and life-course stage. This study asks whether and how the relationship between employment status and entry into parenthood has changed for women and men born in Finland in the 1970s, 1980s, and early 1990s. We first examine how the life-course situations in which women and men make decisions on entering parenthood have changed across cohorts. We use total population register data and event history methods and compare cohorts that differ, for example, in terms of the macroeconomic conditions they encountered during their young adulthood. Our results show that employment uncertainty, measured as unemployment, has not increased across cohorts. Women and men who are (still) childless are increasingly combining studies and paid employment. The positive association between a stronger labor market attachment and entry into parenthood has remained unchanged, while a cohort trend towards delayed or foregone entry into parenthood occurs regardless of labor market status. To tackle Finland’s exceptionally low fertility rates at the policy level, we emphasize the need to design policies that better target women and men in different life situations.",
         "url": "https://doi.org/10.31235/osf.io/nhku9",
-        "subjects": "Sociology",
-        "subjects_osf": "Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/r8fhm",
-        "title": "What drives acceptance and propagation of online misinformation? An integrative re-examination of key enabling factors",
-        "authors": "Prasanta Bhattacharya, Joseph John Pyne Simons, Charmaine Tan Huan Yuen, Boon-Kiat Quek",
-        "created": "2024-09-02",
-        "abstract": "Misinformation has become a critical challenge for organizations and societies, threatening to disrupt key social, economic and public health goals. With the pervasiveness of social media, and the advent of novel AI technologies, the scale and complexity of misinformation has reached unprecedented levels. Consequently, an important focus of social science research in this area has been to understand why individuals are susceptible to consuming and sharing misinformation online, and what can be done to mitigate its adverse effects. In this study, we re-examine and synthesize key findings on the psychological, social and technological drivers of misinformation from the past decade to emphasize important gaps and avenues for future research on the topic. Based on our integrative review, we highlight four important directions for researchers and policy makers to consider. First, it will be useful to expand the definition of misinformation beyond notions of information quality and facticity, and incorporate its potential for manipulation and harm. Second, there is an urgent need to invest in more causal studies that can establish (or falsify) the harmful impacts of online misinformation in critical domains such as politics, health and marketing. Third, we need to better understand non-cognitive and motivational pathways of misinformation spread i.e., how/why misinformation proliferates as a result of social processes, both at an interpersonal (e.g., due to self-presentational motives) and societal level (e.g., due to declining trust in mainstream institutions, and increasing social polarization). Lastly, future studies should reinvestigate current findings in the context of emerging digital populations and platforms that currently remain understudied. Drawing on these findings, we highlight key areas for improving policies and technologies to mitigate the potential harms of misinformation.",
-        "url": "https://doi.org/10.31235/osf.io/r8fhm",
         "subjects": "Sociology",
         "subjects_osf": "Sociology"
       },
@@ -223,39 +203,12 @@
         "subjects": "(Unspecified)"
       },
       {
-        "doi": "10.31235/osf.io/s459p",
-        "title": "Addressing Access with Artificial Intelligence: Overcoming the Limitations of Deep Learning to Broaden Remote Care Today",
-        "authors": "Barry Solaiman",
-        "created": "2024-09-01",
-        "abstract": "This Article considers how health technologies using Al can be used to expand access to care today within existing regulatory conﬁnes in the United States. Embedded within that discussion are legal and ethical considerations that are important to the facilitation of such technologies for providing care. There will be regulatory changes in the years to come, and it is beneﬁcial to highlight where the law currently stands. In this regard, this Article provides a modest overview of remote care solutions and a guide to three central legal considerations that arise in using AI for remote care. These considerations should form part of the criteria used to evaluate any exploratory discussions for new health devices.",
-        "url": "https://doi.org/10.31235/osf.io/s459p",
-        "subjects": "(Unspecified)"
-      },
-      {
         "doi": "10.31235/osf.io/sw68h",
         "title": "It isn't about health, and it sure doesn't care: A qualitative exploration of healthcare workers’ experience of the policy of vaccination mandates in Ontario, Canada",
         "authors": "Claudia Chaufan, Natalie Hemsing, Rachael Moncrieffe",
         "created": "2024-09-03",
         "abstract": "Background: When COVID-19 vaccines became available, healthcare workers (HCWs) were prioritized for vaccination. Despite debate, vaccine mandates were implemented in most healthcare settings across Canada, including Ontario, with many still in effect. Goal: This study examines Ontario HCWs' perspectives on vaccine mandates, focusing on their decision-making experiences, the mandates' impact on their lives and livelihoods, and their views on the effects of mandates on patient care. Methods: An online cross-sectional survey was conducted among Ontario HCWs of diverse vaccination status, professions, ages, socioeconomic status, races/ethnicities, and genders. Recruitment was through professional networks and snowball sampling. We performed a thematic analysis of responses to one open-ended question and to open-ended options in closed questions. Quantitative results are reported separately. Results: Out of 468 participants, 225 responded to the open-ended question, and 111 provided answers to open-ended options in closed questions. Most respondents were unvaccinated, had been terminated for non-compliance with vaccination mandates, experienced personal losses, and reported negative views on mandates and their impacts on patient care. Six themes emerged: 1) policies conflicting with scientific evidence and professional practice; 2) conflicts with medical ethics; 3) unaccounted for or dismissed personal hardships; 4) unacknowledged for or dismissed physical harms; 5) discrimination against unvaccinated individuals; and 6) negative impacts on patient care. Conclusions: The study indicates significant harm to HCWs and patients due to mandates, and advocates for the cessation of mandated vaccination in favor of evidence-based, ethical policies.",
         "url": "https://doi.org/10.31235/osf.io/sw68h",
-        "subjects": "(Unspecified)"
-      },
-      {
-        "doi": "10.31235/osf.io/vn25p",
-        "title": "Pre-Reading Assessment in Two Bilingual Contexts Examining Predictive Validity of the Urdu Phonological Tele-Assessment (U-PASS) Tool in Pakistan and Canada",
-        "authors": "Insiya Bhalloo, Monika Molnar",
-        "created": "2024-09-01",
-        "abstract": "Early assessment of reading abilities is important for ensuring long-term academic and career-related success. Pre-reading assessment tools can identify children at risk of future reading difficulties. However, most bilingual children do not have access to appropriate early reading assessments. This is due to the lack of language-appropriate assessment tools. The current longitudinal study examines the predictive validity of a linguistically- and culturally-responsive Urdu Phonological Tele-Assessment (U-PASS) tool, including subtests for phonological awareness and rapid automatized naming (RAN) — commonly-assessed reading precursors. Specifically, we investigate whether kindergarten-level Urdu phonological awareness and RAN skills predict the future Grade 1 Urdu reading accuracy and fluency skills of Urdu-English bilinguals in two bilingual contexts: Pakistan (where Urdu is spoken as a national language; n = 104; Experiment 1) and Canada (where Urdu is spoken as a heritage language; n = 50; Experiment 2). Hierarchical linear regression analyses demonstrate predictive validity of the U-PASS tool across the two country contexts. Particularly, Urdu phonological awareness emerged as a consistent longitudinal predictor of Urdu word/non-word reading accuracy and fluency, while RAN was a reliable predictor of the reading fluency measures. The U-PASS tool provides access to linguistically- and culturally-responsive early pre-reading assessment, and enables researchers, speech-language pathologists, and educators to examine pre-reading skills in the heritage-language of Urdu-speaking children globally.",
-        "url": "https://doi.org/10.31235/osf.io/vn25p",
-        "subjects": "(Unspecified)"
-      },
-      {
-        "doi": "10.31235/osf.io/y672c",
-        "title": "From Italy to the World: a comparison between the Registry of Italians Abroad (AIRE) and Facebook Advertising Platform data",
-        "authors": "Francesco Rampazzo",
-        "created": "2024-09-02",
-        "abstract": "To cite this book chapter, please use the following format: Rampazzo, Francesco. “Dall’Italia al Mondo: un confronto tra l’Anagrafe degli Italiani all’Estero (AIRE) e i dati di Facebook Advertising Platform.” In Rapporto Italiani nel Mondo 2023, 94-103. Fondazione Migrantes, 2023.",
-        "url": "https://doi.org/10.31235/osf.io/y672c",
         "subjects": "(Unspecified)"
       },
       {
