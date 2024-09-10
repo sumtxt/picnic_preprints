@@ -13,6 +13,7 @@ for(date in dates){
     total_pages <- get_osf_total_pages(call_osf_api(date=date))
     out_tmp <- list()
     for(page in 1:total_pages){
+        if(page==0) break
         out_tmp[[page]] <- get_osf_articles(call_osf_api(page=page, date=date))
         }
     out <- c(out, out_tmp)
