@@ -3,7 +3,7 @@ email: "hello@paper-picnic.com"
 author: "Moritz Marbach"
 description: "A weekly basket with the latest preprints in political science."
 baseurl: ""
-url: "https://www.moritz-marbach.com/paper_picnic"
+url: "https://preprint.paper-picnic.com/"
 github_username: "sumtxt"
 exclude: 
   - "Gemfile"
