@@ -1,26 +1,26 @@
 {
-  "update": "2024-09-10",
+  "update": "2024-09-13",
   "content": {
     "articles": [
       {
-        "doi": "10.31235/osf.io/dahb6",
-        "title": "Lies, Damned Lies and Statistics: Justice-Orientated Counter-Storytelling About Aid Flow to Gaza in 2023",
-        "authors": "Pathik Pathak, Chandni Jacob, Irene Ruiz Espejo, Jessica Boxall, Emily Bastable, Frankie Norton",
-        "created": "2024-09-03",
-        "abstract": "Background: The escalating hostilities with Israel that began on 7 October 2023 have intensified the already dire situation in Gaza, with power outages and severe shortages of medicines and health supplies crippling hospitals' ability to deliver life-saving care. Using Gaza as a case study, in this article we introduce the concept of “justice-orientated statistical counter-stories”. Methods: We argue that traditional statistics distort reality, hide disparities, and generally misrepresent social and environmental issues. We show that by making “adjustments” based on identifiable flaws in raw statistical datasets we can rectify this problem and offer an alternative view. We illustrate the principles of justice-oriented statistical counter-stories by examining the aid flow to Gaza in 2023 from major OECD countries. Results: Our justice-orientated analytical lens shows how the rankings for OECD countries shift significantly when we factor in donor nations’ GDP and military aid donations to Israel, who are propagating a war against the Palestinian people. Our paper also identifies some of the key methodological challenges in making such adjustments (issues of aggregated data, asymmetrical data periods and unavailable data). Conclusion: We conclude by emphasising the broader implications of “justice-orientated statistical counter-stories” for understanding not only aid flows, but global development and the representation of social and environmental issues.",
-        "url": "https://doi.org/10.31235/osf.io/dahb6",
-        "subjects": ["Politics", "Economics", "Sociology"],
-        "subjects_osf": "International and Area Studies, Political Science, Economics, Public Affairs, Public Policy and Public Administration, Sociology"
+        "doi": "10.31235/osf.io/azmpj",
+        "title": "New OMB's race and ethnicity standards will affect how Americans self-identify",
+        "authors": "René D. Flores, Edward Telles, Ilana Ventura",
+        "created": "2024-09-09",
+        "abstract": "In March 2024, the U.S. Office of Management and Budget (OMB) approved major changes to the ethnic and racial self-identification questions used by all federal agencies, including the U.S. Census Bureau. These modifications include merging the separate race and Hispanic ethnicity questions into a single combined question and adding a Middle Eastern and North African category. Government officials and researchers have requested evidence on how Americans might react to these changes. We conducted a survey experiment with a nationally representative sample of 7,350 adult Americans. Participants were randomly assigned to answer either the existing separate race and ethnicity questions or a combined question proposed by the OMB. We find that the combined question decreases the percentage of Americans identifying as White and as Some Other Race. We identify the key mechanism driving these effects: Hispanics decrease their identification in other categories when a Hispanic category is available in the combined question format. This results in statistically significant decreases in key minority populations, including Afro-Latinos and Indigenous Latinos.",
+        "url": "https://doi.org/10.31235/osf.io/azmpj",
+        "subjects": ["Politics", "Sociology"],
+        "subjects_osf": "Political Science, Sociology"
       },
       {
-        "doi": "10.31235/osf.io/dg5ps",
-        "title": "Group-specific linear trends and the triple-differences in time design",
-        "authors": "Anton Strezhnev",
-        "created": "2024-09-03",
-        "abstract": "Differences-in-differences designs for estimating causal effects rely on an assumption of ``parallel trends\" -- that in the absence of the intervention, treated units would have followed the same outcome trajectory as observed in control units. When parallel trends fails, researchers often turn to alternative strategies that relax this identifying assumption. One popular approach is the inclusion of a group-specific linear time trend in the commonly used two-way fixed effects (TWFE) estimator. In a setting with a single post-treatment and two pre-treatment periods it is well known that this is equivalent to a non-parametric ``triple-differences\" estimator which is valid under a ``parallel trends-in-trends\" assumption (Egami and Yamauchi, 2023). This paper analyzes the TWFE estimator with group-specific linear time trends in the more general setting with many pre- and post-treatment periods. It shows that this estimator can be interpreted as an average over triple-differences terms involving both pre-treatment and post-treatment observations. As a consequence, this estimator does not identify a convex average of post-treatment ATTs without additional effect homogeneity assumptions even when there is no staggering in treatment adoption. A straightforward solution is to make the TWFE specification fully dynamic with a separate parameter for each relative treatment time. However, identification requires that researchers omit at least two pre-treatment relative treatment time indicators to estimate a group-specific linear trend. The paper shows how to properly extend this estimator to the staggered adoption setting using the approach of Sun and Abraham (2021), correcting a perfect collinearity error in recent implementations of this method in Hassell and Holbein (2024). It concludes with a note of caution for researchers, showing through a replication of Kogan (2021) how inferences from group-specific time trend specifications can be extremely sensitive to arbitrary specification choices when parallel trends violations are present but do not follow an easily observed functional form.",
-        "url": "https://doi.org/10.31235/osf.io/dg5ps",
-        "subjects": ["Politics", "Economics"],
-        "subjects_osf": "Political Science, Economics"
+        "doi": "10.31235/osf.io/bjf6x",
+        "title": "It Is Possible to Evaluate Presidential Forecasts in Less than Millennia",
+        "authors": "George Berry",
+        "created": "2024-09-10",
+        "abstract": "There is a long-running debate on evaluating forecasts of rare events such as presidential elections. Recent scholarship has argued that forecasts cannot be evaluated on practical timelines and therefore do not provide reliable information. I argue the opposite: that a variety of statistical methods indicate that election forecasts can be evaluated in a timely manner, and that key forecasts that have survived many election cycles are likely to be informative.",
+        "url": "https://doi.org/10.31235/osf.io/bjf6x",
+        "subjects": ["Politics", "Sociology"],
+        "subjects_osf": "Political Science, Social Statistics, Sociology"
       },
       {
         "doi": "10.31235/osf.io/dngcj",
@@ -43,44 +43,34 @@
         "subjects_osf": "Political Science, Communication"
       },
       {
-        "doi": "10.31235/osf.io/r6mva",
-        "title": "Walking the Way of European Integration: Prospects for Galician Youth",
-        "authors": "Aldan Creo, Lucía Traygo, Paulo López Muñoz, Bruno Antonio Ortiz López, Miguel García-Miguel Diz, Luis Miguel Bouzo Álvarez, Saray Rodríguez Pérez, Víctor Davila, Julio Quintela Casal",
-        "created": "2024-09-04",
-        "abstract": "This paper explores the opportunities and challenges that the promotion of European integration among Galician youth currently faces. We first examine the obstacles that the region faces, which revolve around a lack of awareness, representation and pro-European civil society organizations, a limited knowledge of the English language and geographical isolation. However, Galicia is a region that enjoys unique opportunities, which we then explore, such as a lack of Euroscepticism, strong cultural ties with other European regions, the Camiño de Santiago, the region's key role in the maritime and artificial intelligence sectors, and low third-level education costs. We conclude by proposing a series of recommendations to better equip the region of Galicia with the tools and resources needed to promote Europeanism among young people. Through our recommendations, we aim to foster a sense of European identity and solidarity among young people in Galicia, which is essential for the further integration of Galicia into the European Union.",
-        "url": "https://doi.org/10.31235/osf.io/r6mva",
-        "subjects": ["Politics", "Sociology"],
-        "subjects_osf": "International and Area Studies, Political Science, Sociology"
+        "doi": "10.31235/osf.io/nb5gh",
+        "title": "Political Consumerism",
+        "authors": "Christopher Starke, Ole Kelm",
+        "created": "2024-09-10",
+        "abstract": "Political consumerism refers to a form of political participation in which consumers leverage market dynamics for political, ethical, or environmental ends. This can take several forms, such as boycotts, buycotts, discursive actions, and lifestyle changes. Empirical studies reveal regional and individual differences in the prevalence of such behaviors, often linked to factors like active engagement in organizations, strong political beliefs, education level, and interest in politics. Digital media has fuelled the rise in political consumerism. As online platforms facilitate information exchange and mobilization, they prompt novel political consumerism strategies. In this entry, we provide a primer on political consumerism, synthesize some empirical findings related to political communication research, and outline promising avenues for future research.",
+        "url": "https://doi.org/10.31235/osf.io/nb5gh",
+        "subjects": "Politics",
+        "subjects_osf": "Political Science, Communication"
       },
       {
-        "doi": "10.31235/osf.io/trn8u",
-        "title": "Environmental Policymaking with Political Learning",
-        "authors": "Benjamin Blumenthal",
-        "created": "2024-09-05",
-        "abstract": "Effectively tackling environmental problems requires the implementation of appropriate policies by politicians. I propose a model of electoral accountability in which voters learn about politicians' policy preferences and environmental policies' appropriateness by observing past policy choices and outcomes. Compared to a benevolent policymaker benchmark, I show that reputational concerns can lead to suboptimal policymaking, as a result of the interdependence between voters' learning about implemented policies and their induced preferences over politicians: when favourable policy outcomes lead voters to prefer policy persistence, the desire to appear responsive can stifle the implementation of the right environmental policy.",
-        "url": "https://doi.org/10.31235/osf.io/trn8u",
-        "subjects": ["Politics", "Economics"],
-        "subjects_osf": "Political Science, Economics"
+        "doi": "10.31235/osf.io/wtx7s",
+        "title": "A Theory of Policy Justification",
+        "authors": "Kun Heo, Dimitri Landa",
+        "created": "2024-09-11",
+        "abstract": "Effective accountability may require that officeholders be able to justify their policy choices to their constituents. We develop a game-theoretic model of policy justification in the context of a principal-agent relationship and analyze the equilibrium effects of justification as a strategic choice. Most notably, we show that the effect of justification on the incumbent's policy choice incentives is non-monotonic (U-shaped) in the leeway afforded to justification, reflecting the different ratios of false positives and false negatives that it creates.",
+        "url": "https://doi.org/10.31235/osf.io/wtx7s",
+        "subjects": "Politics",
+        "subjects_osf": "Political Science"
       },
       {
-        "doi": "10.31235/osf.io/c7vrw",
-        "title": "Information Architectures: A Framework for Understanding Socio-Technical Systems",
-        "authors": "Paul E. Smaldino, Adam Russell, Matthew Zefferman, Judith Donath, Jacob Foster, Douglas Guilbeault, Martin Hilbert, Elizabeth A. Hobson, Kristina Lerman, Helena Miton",
-        "created": "2024-09-04",
-        "abstract": "A sequence of technological inventions over several centuries has dramatically lowered the cost of producing and distributing information. Because culture and societies ride on a substrate of information, these changes have profoundly impacted how we live, work, and interact with each other. This paper explores the nature of information architectures (IAs)—the features that govern how information flows within human populations. IAs include physical and digital infrastructures, norms and institutions, and algorithmic technologies for filtering, producing, and disseminating information. IAs shape everyday lives and cultural practices; they can reinforce societal biases and discriminations and lead to prosocial outcomes as well as unintended social ills. IAs have culturally evolved rapidly with human usage, creating new affordances and new problems for the dynamics of social interaction. We explore the significant societal outcomes instigated by shifts in IAs and call for an enhanced understanding of the social implications of increasing IA complexity, the nature of competition among IAs, and the creation of mechanisms for coordination to guide the beneficial use of IAs. Navigating the challenges IAs pose requires creative experimentation, novel tools, and an understanding of societal norms and institutions. Given that the speed and influence of IAs are accelerating, research in this area is increasingly imperative to ensure that the nature of IAs aligns with a collectively desirable future.",
-        "url": "https://doi.org/10.31235/osf.io/c7vrw",
-        "subjects": ["Economics", "Sociology"],
-        "subjects_osf": "Other Social and Behavioral Sciences, Psychology, Economics, Library and Information Science, Anthropology, Communication, Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/dtxn4",
-        "title": "Time to Accumulate: The Great Migration and the Rise of the American South",
-        "authors": "Dongkyu Yang",
-        "created": "2024-09-04",
-        "abstract": "The idea that labor scarcity can induce economic development has been long hypothesized (Hicks, 1932; Habakkuk, 1962), but the evidence is scarce, especially on non-agricultural development. In this paper, I assess the role of the Second Great Migration (1940-1970) on the subsequent structural change in the American South between 1970 and 2010. Empirical results using shift-share instruments show that out-migration incentivized physical capital investment and capital-augmenting technical change, increasing capital and output per worker in both agriculture and manufacturing at least until 2010. Labor reallocated from agriculture to nonagriculture. I then develop and calibrate a dynamic spatial equilibrium model that allows substitution between factors of production, factor-biased technical change, and Heckscher–Ohlin forces in trade. The quantitative results indicate that the adjustments to the Second Great Migration could have contributed to 7% of the total decrease in agricultural employment between 1940 and 2010 in the South. The contribution analyses suggest that labor-capital substitution played a leading role in economic adjustment to the migration, with capital-biased technical change and the quasi-Rybczynski effect playing important supplementary roles.",
-        "url": "https://doi.org/10.31235/osf.io/dtxn4",
+        "doi": "10.31235/osf.io/gczeh",
+        "title": "Horizontal Education-Job Mismatch in a Medium-Sized Japanese Company",
+        "authors": "Tomotaka Hirao",
+        "created": "2024-09-09",
+        "abstract": "Although the existence and negative effects of education-job mismatch in the labor market are widely known and accepted, literature on this topic in the Japanese labor market is lacking owing to unique labor market specifics and data limitations, despite the importance of the issue. This study examines the effects of horizontal education-job mismatch on organizational commitment, job satisfaction, and future career vision among employees from a medium-sized company in Japan using longitudinal personnel microdata and employee satisfaction survey data. The empirical results of this study show that horizontal education-job mismatch in a medium-sized Japanese company has a negative impact on employees’ psychological adjustment, even after controlling for individual-specific effects. The findings suggest that horizontal education-job mismatch has the potential for substantial economic, organizational, and individual costs, which is consistent with previous research in various global contexts.",
+        "url": "https://doi.org/10.31235/osf.io/gczeh",
         "subjects": "Economics",
-        "subjects_osf": "Economics"
+        "subjects_osf": "Education Economics, Economics"
       },
       {
         "doi": "10.31235/osf.io/r9q8n",
@@ -93,104 +83,73 @@
         "subjects_osf": "Economics, Public Affairs, Public Policy and Public Administration, Sociology"
       },
       {
-        "doi": "10.31235/osf.io/su5gd",
-        "title": "Territorial determinants of the “spatial anchorage” of a soybean industry in Hauts-de-France region, France: the role of collective dynamics and proximity",
-        "authors": "Ceapraz Ion Lucian, Delhoume Catherine, Benkhettab Fatima Zohra",
-        "created": "2024-09-05",
-        "abstract": "Our work proposes to highlight the role of territorial determinants and more particularly those of socio-economic nature in the development of a territorial soy industry in the Hauts-de-France region, France. The approach consists of highlighting how and what are the conditions and the forms of the determinants of social capital to anchor a sustainable local soy industry. Thus, in our paper, these socio-economic determinants take the form of the collective dynamics of farmers which constitute a major factor in the establishment of soy culture in different territories of Hauts-de-France region. In this paper we have chosen a qualitative approach using a grid of semi-directive interviews with agricultural stakeholders, as part of the DOP Picardie project . The various players involved in the soya commodity chain were interviewed, with a comparative analysis of two study areas, Bourgogne Franche Comté and Marne. Our surveys and their interpretations yielded numerous results in the form of motivations, constraints, and recommendations for the sustainable establishment of soya sector in Hauts-de-France, as well as the identifying the socio-economic, agronomic, and regulatory factors that come together as collective actions to promote this sector.",
-        "url": "https://doi.org/10.31235/osf.io/su5gd",
-        "subjects": ["Economics", "Sociology"],
-        "subjects_osf": "Agricultural and Resource Economics, Economics, Sociology"
+        "doi": "10.31235/osf.io/v75aw",
+        "title": "Tariffs and Growth: Heterogeneity by Economic Structure",
+        "authors": "Mateo Hoyos",
+        "created": "2024-09-11",
+        "abstract": "This paper documents that the relationship between tariffs and growth varies significantly with economic structure. Using a panel of 161 countries from 1960 to 2019 and employing a local projections difference-in-differences strategy, I show that tariff reductions are associated with higher GDP per capita in manufacturer countries but lower GDP per capita in nonmanufacturer ones. I then reveal that these results are consistent with, and possibly explained by, heterogeneous changes in productivity, capital accumulation, and the manufacturing share of GDP. The heterogeneity is further confirmed by a comprehensive set of robustness checks. The findings suggest that the recent rise in protectionism in manufacturer countries might end up being harmful, and that existing calls for further liberalization in nonmanufacturers could have unintended consequences.",
+        "url": "https://doi.org/10.31235/osf.io/v75aw",
+        "subjects": "Economics",
+        "subjects_osf": "Economics"
       },
       {
-        "doi": "10.31235/osf.io/5evw9",
-        "title": "Legitimation as linchpin: On Raewyn Connell’s changing conceptualization of ‘hegemonic masculinity’",
-        "authors": "James W. Messeschmidt, Tristan Bridges",
-        "created": "2024-09-05",
-        "abstract": "The concept of hegemonic masculinity maintains a distinctive status within the social sciences and humanities. Yet there never has been an examination of Connell’s changing conceptualization of the term throughout her scholarship, and specifically when and why she integrated ‘legitimation’ into her definition of hegemonic masculinity. The authors address this oversight by providing a detailed retrospective on the concept from its embryonic conceptualizations to its eventual reformulation. Within this historical assessment, the authors further consider Connell’s broader feminist theory of gender and how legitimation of the hegemonic masculinity/emphasized femininity relationship is central to that theory. The concepts of hegemonic masculinity and emphasized femininity and the theory in which they are embedded developed in tandem over time. The paper emphasizes that during this dual development, legitimation of unequal gender relations became the theoretical linchpin for conceptualizing hegemonic masculinity and eventually its relationship to emphasized femininity as a part of Connell’s larger gender theory. The paper also demonstrates that over time Connell progressively changed the meaning of hegemonic masculinity in significant ways and concludes with a discussion of recent ‘legitimation processes’ that have appeared in the literature, and how each contributes unique ways of conceptualizing the legitimation of unequal gender relations.",
-        "url": "https://doi.org/10.31235/osf.io/5evw9",
+        "doi": "10.31235/osf.io/6eybr",
+        "title": "A regional study of the relationship between economic conditions, education and parity-specific fertility in Europe",
+        "authors": "INVEST Flagship, Jessica Nisén, Sebastian Klüsener, Johan Dahlberg, Lars Dommermuth, Aiva Jasilioniene, Michaela Kreyenfeld, Trude Lappegård, Peng Li, Pekka Martikainen",
+        "created": "2024-09-11",
+        "abstract": "There is a longstanding interest in the link between economic conditions and fertility levels. Most research measuring economic development has focused on national-level patterns and period total fertility levels. This study aims to extend existing knowledge by carrying out a sub-national regional analysis of the link between economic conditions and parity-specific fertility, paying particular attention on the role of education. For this we look at three cohort fertility outcomes by women’s level of education: the share of women who remain childless, the mean number of children per mother, and the mean number of children per woman. As data source we use harmonized register, census, and large-scale survey data from 15 European countries. We focus on women born in the late 1960s and measure their fertility at the end of their reproductive career. This information we combine with the regional GDP per capita of their region of residence at that time. Our findings show that, conditional on having become a mother, cohort fertility associates with economic development positively at the country level among high-educated women, but not among low-educated women. At the regional level within countries, the negative association between economic development and fertility among mothers is weaker among women with higher levels of education. In contrast, childlessness tends to be higher in countries and in sub-national regions characterized by higher GDP per capita levels. These findings suggest that continued childbearing by highly educated women plays an important role in offsetting high levels of childlessness in countries and regions with favourable economic conditions in Europe.",
+        "url": "https://doi.org/10.31235/osf.io/6eybr",
         "subjects": "Sociology",
         "subjects_osf": "Sociology"
       },
       {
-        "doi": "10.31235/osf.io/6ryzd",
-        "title": "The share of White students and the emergence of Black-White within-school inequalities: network-based foundations",
-        "authors": "Joao Souto-Maior",
-        "created": "2024-09-03",
-        "abstract": "This article investigates mechanism-based explanations for a well-known macro-level pattern in sociology of education, namely, that Black-White unequal access to advanced coursework is the highest in racially diverse and majority-White schools. The study proposes that school racial composition (defined as the share of Whites) could influence the emergence of Black-White course-taking inequalities through the combination of two factors: (a), the relevance of network-based resources for advanced enrollment; and (b), the known relationship between racial composition and network structure. Through an empirically informed agent-based model, this study provides support for the proposed theoretical pathway and shows that, when combined with empirically representative structural inequalities, this racial composition effect can help explaining the pattern of interest. Possible policy implications are discussed.",
-        "url": "https://doi.org/10.31235/osf.io/6ryzd",
+        "doi": "10.31235/osf.io/e35vn",
+        "title": "Toward Computational Literature Reviews: Analyzing Academic Theories through Supervised and Unsupervised Text-Analysis Methods",
+        "authors": "Jaren R. Haber, Heather A. Haveman, Yinuo Xu",
+        "created": "2024-09-10",
+        "abstract": "Literature reviews have become challenging as the number of publications has exploded. We develop a flexible method using computational text methods to review massive online collections of journals. We demonstrate this method by investigating engagement with organizational theories in journal articles archived on JSTOR. We focus on three prominent theories: organizational ecology, resource dependence, and organizational institutionalism. We develop comprehensive, period-specific dictionaries of each theory’s core concepts and apply them to articles in JSTOR’s sociology and management subject areas. We compare conceptual engagement to citations of foundational texts in Web of Science. We trace how these theories’ concepts evolved over time by capturing semantic similarity (within theories) and semantic distinctiveness (between theories). This computational method can simplify and accelerate literature reviews by allowing scholars to find which articles engage most strongly with concepts in specific theories and pinpointing which concepts articles engage with.",
+        "url": "https://doi.org/10.31235/osf.io/e35vn",
         "subjects": "Sociology",
         "subjects_osf": "Sociology"
       },
       {
-        "doi": "10.31235/osf.io/85djr",
-        "title": "Gender diversity in the deans of Brazilian universities: career temporal evolution, production of knowledge and of human resources",
-        "authors": "Carolina Andrea Nodari, Claudio Celso Soares de Oliveira, Marcia Barbosa",
-        "created": "2024-09-03",
-        "abstract": "Women are underrepresented in positions of power and leadership in higher education and the challenges faced by women in order to reach these senior positions in academia are complex and have received considerable attention in recent years. In this work, we quantify gender diversity in Brazilian academia using three types of indicators: production of knowledge, temporal evolution in the career, and training of human resources to study in detail the profile of the Deans of Research and Graduate Studies in 215 Higher Education Institutions in the year of 2019. Our analysis shows that around only 36% of positions were occupied by women, a percentage that is not consistent with the number of women professors in Brazilian higher education. Using the National Council for Scientific and Technological Development Lattes’ Platform databank, we show that men and women in dean positions publish roughly the same number of paper/scientific articles per year and present almost the same time elapsed in the career path, while women produce more human resources. The fact that women occupy only 1/3 of the positions of dean of research and graduation reveals that for women to reach the top, it is necessary that they adapt to the same metric intended for men while facing additional challenges indicating a persistent glass ceiling.",
-        "url": "https://doi.org/10.31235/osf.io/85djr",
-        "subjects": "Sociology",
-        "subjects_osf": "Feminist, Gender, and Sexuality Studies, Higher Education, Educational Administration and Supervision, Teacher Education and Professional Development, Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/c6agd",
-        "title": "Does Specialization Pay Off? Analyzing the Link Between Research Focus and Academic Career Success",
-        "authors": "Lisa Wunsch, Isabel Maria Habicht, Martin Schröder, Mark Lutter",
-        "created": "2024-09-03",
-        "abstract": "Sociological research on careers and organizations suggests that those with a wide range of skills (generalists) are disadvantaged due to the dispersion of their competencies, whereas those with a focused expertise in a specific area (specialists) benefit from a deeper understanding of their domain. This study tests the applicability of these findings to academia, assessing whether scholars with a specialized publication output are more likely to obtain tenure than those with a more generalist output. Using a combination of computational quantitative text analysis of 5497 journal abstracts published along with longitudinal career data covering CV and publication data of sociology professors in German academia, first, we find that a generalist research focus has a positive and statistically significant effect on attaining tenure. In addition, male sociologists derive greater benefits from a generalist publication strategy, whereas female sociologists experience greater advantages from specialization. Second, we disentangle the overall effect into ‘qualitative’ and ‘quantitative’ specialization. Our results show a slight but non-significant advantage for sociologists who focus primarily on publishing quantitative research. Furthermore, results reveal that women in particular profit from a quantitative specialization in sociology.",
-        "url": "https://doi.org/10.31235/osf.io/c6agd",
+        "doi": "10.31235/osf.io/sjtvw",
+        "title": "Legitimation work in privatized criminal justice: Softening, shrinking, and signaling",
+        "authors": "Brett Burkhardt",
+        "created": "2024-09-10",
+        "abstract": "How do private companies justify taking on criminal justice functions? Building on writing on legitimacy and privatization, this article describes three rhetorical practices intended to increase the legitimacy of private companies carrying out criminal justice functions: softening (obscuring the use of force); shrinking (demonstrating deference to the state); and signaling (proclaiming alignment with pro-social values). The article demonstrates the analytic utility of these categories by considering public-facing Environmental, Social, and Governance (ESG) reports produced by one prominent company in the private corrections industry (CoreCivic). The conceptual typology of legitimation work brings together several dynamics that are common in privatized criminal justice and provides an analytic toolkit for future study. A discussion considers how researchers can use this typology to examine legitimation work by other private firms and industries that engage the criminal justice system.",
+        "url": "https://doi.org/10.31235/osf.io/sjtvw",
         "subjects": "Sociology",
         "subjects_osf": "Sociology"
       },
       {
-        "doi": "10.31235/osf.io/kef29",
-        "title": "Hoarding without hoarders: unpacking the emergence of opportunity hoarding within schools",
-        "authors": "Joao Souto-Maior",
-        "created": "2024-09-03",
-        "abstract": "Sociologists increasingly highlight the role of opportunity hoarding in the formation of Black-White educational inequalities. Informed by this literature, this article unpacks the necessary and sufficient conditions under which the hoarding of educational resources emerges within schools. It develops a qualitatively informed agent-based model which captures Black and White students' competition for a valuable school resource: advanced coursework. In contrast to traditional accounts --- which explain the emergence of hoarding through the actions of Whites that keep valuable resources within White communities --– simulations, perhaps surprisingly, show hoarding to arise even when Whites do not play the role of hoarders of resources. Behind this result is the fact that a structural inequality (i.e., racial differences in social class), and not action-driven hoarding, is the necessary condition for hoarding to emerge. Findings, therefore, illustrate that common action-driven understandings of opportunity hoarding can overlook the structural foundations behind this important phenomenon. Possible policy implications are discussed.",
-        "url": "https://doi.org/10.31235/osf.io/kef29",
+        "doi": "10.31235/osf.io/t47c9",
+        "title": "Dime en qué zona vives y te diré cuántos derechos tienes: Análisis espacial de derechos humanos en la delegación de Xochimilco de la Ciudad de México",
+        "authors": "Ana Carolina Díaz Nava",
+        "created": "2024-09-11",
+        "abstract": "Esta investigación exploratoria examina la desigualdad socioespacial en la Delegación de Xochimilco en relación con el acceso a recursos para el ejercicio de los derechos humanos (DDHH). Utilizando un análisis socioespacial con metodologías cualitativas y cuantitativas, la investigación se apoya en un Sistema de Información Geográfica (SIG) y bases de datos oficiales para demostrar la desigualdad en el acceso a bienes y servicios necesarios conforme a los Derechos Económicos, Sociales, Culturales y Ambientales (DESCA). Se reveló que las áreas más afectadas en cuanto al acceso a estos bienes y servicios son los asentamientos humanos irregulares y las zonas vulnerables. La interdependencia de los derechos humanos implica que la carencia de un derecho limita el pleno ejercicio de los demás. La investigación surgió de la necesidad de entender cómo ha aumentado la desigualdad socioespacial en Ciudad de México, donde en 2008 el 44.4% de la población vivía en pobreza, cifra que subió a 46.2% en 2014 (Coneval, 2016). A través de la experiencia voluntaria en Xochimilco, se observaron las distintas realidades y dificultades en el acceso a recursos y servicios básicos entre comunidades cercanas. Este estudio destaca la desigualdad espacial en el ejercicio de derechos y la necesidad de vincular los DESCA con la distribución de recursos. Se utilizarán datos del INEGI y CONEVAL para generar indicadores y mostrar la desigualdad en Xochimilco.",
+        "url": "https://doi.org/10.31235/osf.io/t47c9",
         "subjects": "Sociology",
-        "subjects_osf": "Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/m7te9",
-        "title": "The Geography of Immigrants in Same-Sex Couples in the United States",
-        "authors": "Nathan I. Hoffmann, Kristopher Velasco",
-        "created": "2024-09-04",
-        "abstract": "Where do queer immigrants settle in the United States? The policy landscape for same-sex couples in the U.S. has changed rapidly in recent years, with immigrants being particularly affected. After the 2013 end of the Defense of Marriage Act, U.S. citizens could finally sponsor the visa of a same-sex partner, and number of immigrants in same-sex couples increased rapidly. But little is known about where these lesbian, gay, and bisexual (LGB) immigrants choose to settle and enjoy their new rights. Do they behave more similarly to their straight immigrant counterparts and locate based on job opportunities and cost of living? Or do they gravitate toward more queer-friendly cities and states, as U.S.-born LGB people do? How have these patterns changed over time, especially in response to local policy changes relevant to queer people and immigrants? Using American Community Survey data from 2008-2022 and original datasets, this paper implements descriptive analyses and quasi-Poisson models to study how settlement patterns of immigrants in same-sex couples in the U.S. respond to local and national policy changes as well as other local sociodemographic and economic factors. We find that the distribution of immigrants in same-sex couples is expanding across the U.S. over time. These settlement patterns generally look more similar to fellow U.S.-born LGB Americans: locations with higher concentrations are more progressive, have more robust LGBTQ+ civic life, and have higher incomes. Yet immigrants in same-sex couples also live in more racially and ethnically diverse areas compared to U.S.-born Americans in same-sex couples. Our findings contribute to a fuller understanding of this rapidly growing population and under which conditions they may behave more similarly to their fellow migrants, their fellow sexual minorities, or as a distinct population all their own.",
-        "url": "https://doi.org/10.31235/osf.io/m7te9",
-        "subjects": "Sociology",
-        "subjects_osf": "Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/nhku9",
-        "title": "Employment uncertainty and entry into parenthood – Trends among Finnish cohorts",
-        "authors": "INVEST Flagship, Marika Jalovaara, Leen Rahnu, Anneli Miettinen",
-        "created": "2024-09-04",
-        "abstract": "Previous studies in the Nordic context report a positive association between a stronger labor market attachment and entry into parenthood (i.e., first birth), but the association is stronger for men than for women, and it is modified by educational attainment and life-course stage. This study asks whether and how the relationship between employment status and entry into parenthood has changed for women and men born in Finland in the 1970s, 1980s, and early 1990s. We first examine how the life-course situations in which women and men make decisions on entering parenthood have changed across cohorts. We use total population register data and event history methods and compare cohorts that differ, for example, in terms of the macroeconomic conditions they encountered during their young adulthood. Our results show that employment uncertainty, measured as unemployment, has not increased across cohorts. Women and men who are (still) childless are increasingly combining studies and paid employment. The positive association between a stronger labor market attachment and entry into parenthood has remained unchanged, while a cohort trend towards delayed or foregone entry into parenthood occurs regardless of labor market status. To tackle Finland’s exceptionally low fertility rates at the policy level, we emphasize the need to design policies that better target women and men in different life situations.",
-        "url": "https://doi.org/10.31235/osf.io/nhku9",
-        "subjects": "Sociology",
-        "subjects_osf": "Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/v37b5",
-        "title": "Decomposing Sibling Correlations: Introducing a New Measure of Group-Specific Intergenerational Persistence in Socioeconomic Outcomes",
-        "authors": "Kristian Bernt Karlson, Jung In",
-        "created": "2024-09-04",
-        "abstract": "We introduce a novel approach for decomposing sibling correlations in socioeconomic attainment into group-specific components. These groups are defined at the family level, based on factors such as parental income, marital status, race, or the gender composition of siblings. Unlike existing studies that compare sibling correlations across different groups, our method accounts for differences in average outcomes between groups in the overall outcome distribution. This approach results in a group-specific measure of persistence in the overall outcome distribution, contrasting with the ‘within-group’ measure commonly used in the literature. Additionally, we propose a straightforward ‘counterfactual’ framework to identify which groups have a greater impact on trends or country differences in sibling correlations. We present three examples that demonstrate the utility of our method.",
-        "url": "https://doi.org/10.31235/osf.io/v37b5",
-        "subjects": "Sociology",
-        "subjects_osf": "Sociology"
+        "subjects_osf": "Civil Rights and Discrimination, Geography, Sociology"
       }
     ],
     "articles_hidden": [
       {
-        "doi": "10.31235/osf.io/a7hc4",
-        "title": "Imaginative Labor and Embodied Cognition: Economic Sociology as a Cognitive Science",
-        "authors": "Dustin S. Stoltz",
-        "created": "2024-09-03",
-        "abstract": "How do we imagine economic objects, processes, and actions? More importantly, if the future is inherently uncertain what limits the range of possible imaginings such that actors can agree and coordinate? Building on the work of Jens Beckert, I outline an approach to imagination and imaginative labor in economic sociology grounded on the insight that embodied cognition is central to the capacity for exploring possibilities for action and organizing abstract domains. To demonstrate this approach, I use examples from a field whose fictional expectations have a significant impact on the global political-economy: elite professional advisory firms. This is a field in the business of selling imaginative labor, both within the backstage work of recruiting and the frontstage work of selling.",
-        "url": "https://doi.org/10.31235/osf.io/a7hc4",
+        "doi": "10.31235/osf.io/2aext",
+        "title": "Populist Attitudes",
+        "authors": "Anne Schulz, Alexander Wuttke",
+        "created": "2024-09-10",
+        "abstract": "Populist attitudes represent the individual level support for populism. The study of populist attitudes is interdisciplinary with contributions from across the social sciences. Empirical research is dominated by survey research, including studies working on a measurement for populist attitudes. This research suggests that populist attitudes are shared by substantial minorities across different societies including in South America and Asia. Studies have explored predictors of populist attitudes, for example, personality traits, socio-demographic variables, and populist communication as well as on its consequences, such as the acceptance of democratic decisions and voting for populist parties. Thus far, evidence is mixed regarding the question of whether populism poses a threat to democracy or if it works as a democratic corrective. The entry offers further insights into the different research fields related to populist attitudes and discusses limitations and possible future research avenues.",
+        "url": "https://doi.org/10.31235/osf.io/2aext",
+        "subjects": "(Unspecified)"
+      },
+      {
+        "doi": "10.31235/osf.io/2qza6",
+        "title": "The Job Task Penalty for Motherhood",
+        "authors": "Wiebke Schulz, Gundula Zoch",
+        "created": "2024-09-12",
+        "abstract": "Motherhood is one of the most important sources of gendered labor market inequalities. Working mothers have less prestige, less authority than childless women and experience a substantial wage penalty. Scholars have highlighted the potential relevance of motherhood effects on job tasks in explaining motherhood penalties, yet little is known about how job tasks change due to motherhood. Using data from the German National Educational Panel Study and employing fixed-effects models, we study within-person changes in job tasks following childbirth. Deriving hypotheses from central explanations of motherhood penalties—work-family strain, human capital deterioration, compensating differentials—we examine changes in job tasks and how they vary with mothers’ working hours, length of time out, and occupational mobility. The findings show that mothers execute fewer analytic, complex, and interactive tasks; however, this penalty is mostly limited to mothers who reduce their working hours. The reduction in job tasks does not vary by occupational mobility nor by length of leave. Overall, these findings are consistent with explanations that focus on work-family strain, and provide additional evidence for the importance of improving job conditions and the care infrastructure to mitigate motherhood disadvantages in the labor market.",
+        "url": "https://doi.org/10.31235/osf.io/2qza6",
         "subjects": "(Unspecified)"
       },
       {
@@ -203,12 +162,30 @@
         "subjects": "(Unspecified)"
       },
       {
-        "doi": "10.31235/osf.io/sw68h",
-        "title": "It isn't about health, and it sure doesn't care: A qualitative exploration of healthcare workers’ experience of the policy of vaccination mandates in Ontario, Canada",
-        "authors": "Claudia Chaufan, Natalie Hemsing, Rachael Moncrieffe",
-        "created": "2024-09-03",
-        "abstract": "Background: When COVID-19 vaccines became available, healthcare workers (HCWs) were prioritized for vaccination. Despite debate, vaccine mandates were implemented in most healthcare settings across Canada, including Ontario, with many still in effect. Goal: This study examines Ontario HCWs' perspectives on vaccine mandates, focusing on their decision-making experiences, the mandates' impact on their lives and livelihoods, and their views on the effects of mandates on patient care. Methods: An online cross-sectional survey was conducted among Ontario HCWs of diverse vaccination status, professions, ages, socioeconomic status, races/ethnicities, and genders. Recruitment was through professional networks and snowball sampling. We performed a thematic analysis of responses to one open-ended question and to open-ended options in closed questions. Quantitative results are reported separately. Results: Out of 468 participants, 225 responded to the open-ended question, and 111 provided answers to open-ended options in closed questions. Most respondents were unvaccinated, had been terminated for non-compliance with vaccination mandates, experienced personal losses, and reported negative views on mandates and their impacts on patient care. Six themes emerged: 1) policies conflicting with scientific evidence and professional practice; 2) conflicts with medical ethics; 3) unaccounted for or dismissed personal hardships; 4) unacknowledged for or dismissed physical harms; 5) discrimination against unvaccinated individuals; and 6) negative impacts on patient care. Conclusions: The study indicates significant harm to HCWs and patients due to mandates, and advocates for the cessation of mandated vaccination in favor of evidence-based, ethical policies.",
-        "url": "https://doi.org/10.31235/osf.io/sw68h",
+        "doi": "10.31235/osf.io/vp3j2",
+        "title": "Simulating Subjects: The Promise and Peril of AI Stand-ins for Social Agents and Interactions",
+        "authors": "Austin Kozlowski, James Evans",
+        "created": "2024-09-09",
+        "abstract": "Large Language Models (LLMs), through their exposure to massive collections of online text, learn to reproduce the perspectives and linguistic styles of diverse social and cultural groups. This capability suggests a powerful social scientific application – the simulation of empirically realistic, culturally situated human subjects. Synthesizing recent research in artificial intelligence and computational social science, we outline a methodological foundation for simulating human subjects and their social interactions. We then identify nine characteristics of current models that are likely to impair realistic simulation human subjects, including atemporality, social acceptability bias, uniformity, and poverty of sensory experience. For each of these areas, we discuss promising approaches for overcoming their associated shortcomings. Given the rate of change of these models, we advocate for an ongoing methodological program on the simulation of human subjects that keeps pace with rapid technical progress.",
+        "url": "https://doi.org/10.31235/osf.io/vp3j2",
+        "subjects": "(Unspecified)"
+      },
+      {
+        "doi": "10.31235/osf.io/wvzae",
+        "title": "High-choice media environments",
+        "authors": "Laia Castro",
+        "created": "2024-09-11",
+        "abstract": "High-choice media environments (HCMEs) are defined as the growing supply of media outlets, platforms, devices and genres competing for audience attention. Scholars studying HCMEs from a political communication perspective have traditionally blamed media fragmentation for increased information gaps among citizens with differing levels of political interest, or diverging partisan alignments (Prior, 2005). More recent studies posit that distributed discovery (social media, news aggregators, search engines and messaging apps) and recommendation systems might be causing further information divides by reducing news attention, increasing knowledge resistance and decreasing awareness of others’ perspectives among certain online populations. Future studies should bring a more nuanced understanding of the development and implications of HCMEs by building on (a) news user repertoires (Strömbäck et al., 2018) or profiles research showing how a mix of news uses can contribute political learning, and also (b) systemic-equalizing approaches (Nir, 2012) that identify country-level factors favoring a more pervasive use of high-quality news.",
+        "url": "https://doi.org/10.31235/osf.io/wvzae",
+        "subjects": "(Unspecified)"
+      },
+      {
+        "doi": "10.31235/osf.io/wx4y6",
+        "title": "Online monitoring activism: Civic surveillance practices as a reaction to the rise of the far-right in the COVID-19 pandemic",
+        "authors": "Florian Primig, Julia Lück-Benz",
+        "created": "2024-09-10",
+        "abstract": "The rise of far-right movements during the COVID-19 pandemic has prompted a new form of individual digital activism: online monitoring activism (OMA). During the pandemic, online monitoring activists systematically collected, processed and published information from far-right Telegram channels and groups. Against the theoretical background of concepts like the monitory democracy and surveillance culture, we conducted eight semi-structured interviews with German online monitoring activists, investigating their motivations, roles, and the intricacies of their monitoring practices. Our findings reveal that online monitoring activists are driven by a sense of duty to counteract anti-democratic tendencies, which they perceive as inadequately addressed by institutional power. They gain localized and thematically specialized expertise that they share within loose networks of like-minded others. We highlight the activists’ liminal identity oscillating between virtuous citizenship and vigilantism, as well as the broader societal implications of their actions. On the one hand, they fulfill the role of active citizenship in the monitory democracy; on the other, they also reinforce the transparency imperative and the wish for far-reaching security and control inherent to surveillance culture. The transparency potential afforded by their adversaries’ online connective action and mobilizing efforts legitimizes their surveillance and demands surveillance. Further normative work is needed to critically examine the extent and desirability of increased social control introduced to liberal democracy by online monitoring activism.",
+        "url": "https://doi.org/10.31235/osf.io/wx4y6",
         "subjects": "(Unspecified)"
       },
       {
@@ -222,24 +199,14 @@
         "subjects_osf": "Public Affairs, Public Policy and Public Administration"
       },
       {
-        "doi": "10.31235/osf.io/5kvyj",
-        "title": "Newsroom",
-        "authors": "Wang Ngai Yeung, Tomás Dodds",
-        "created": "2024-09-05",
-        "abstract": "Of all the Journalism-related terms, “newsrooms” have undergone the most significant transformation. Historically, they were the physical place where journalists, editors, and media professionals worked together to produce news. However, new digital technologies have caused newsrooms to change in three significant ways. First, newsrooms have become trading zones where professionals with diverse backgrounds come together, including coders, designers, and social media experts who play a vital role in news production. Second, with the help of new IT technologies, the newsrooms' materiality and layout have also been transformed to allow more hotdesking and collaboration spaces for multimedia and multiplatform production. Third, newsroom infrastructures have grown beyond physical boundaries and now include the digital spaces necessary for news production and hybrid working. Virtual newsrooms have been established to facilitate collaboration amongst multiple organizations in analyzing big data. Taking everything into account, while newsrooms continue to serve as spaces for news creation, they have undergone such significant transformations that they are barely recognizable compared to their previous forms.",
-        "url": "https://doi.org/10.31235/osf.io/5kvyj",
+        "doi": "10.31235/osf.io/83whe",
+        "title": "Generative Artificial Intelligence (GenAI) in the research process – a survey of researchers’ practices and perceptions",
+        "authors": "Jens Peter Andersen, Lise Degn, Rachel Fishberg, Ebbe Krogh Graversen, Serge P.J.M. Horbach, Evanthia K. Schmidt, Jesper W. Schneider, Mads P. Sørensen",
+        "created": "2024-09-10",
+        "abstract": "This study explores the use of generative AI (GenAI) and research integrity assessments of use cases by researchers, including PhD students, at Danish universities. Conducted through a survey sent to all Danish researchers from January to February 2024, the study received 2,534 responses and evaluated 32 GenAI use cases across five research phases: idea generation, research design, data collection, data analysis, and writing/reporting. Respondents reported on their own and colleagues' GenAI usage. They also assessed whether the practices in the use cases were considered good research practice. Through an explorative factor analysis, we identified three clusters of perception: \"GenAI as a work horse,\" \"GenAI as a language assistant only\", and \"GenAI as a research accelerator\". The findings further show varied opinions on GenAI's research integrity implications. Language editing and data analysis were generally viewed positively, whereas experiment design and peer review tasks faced more criticism. Controversial areas included image creation/modification and synthetic data, with comments highlighting the need for critical and reflexive use of GenAI. Usage differed by main research area, with technical and quantitative sciences reporting slightly higher usage and more positive assessments. Junior researchers used GenAI more than senior colleagues, while no significant gender differences were observed.",
+        "url": "https://doi.org/10.31235/osf.io/83whe",
         "subjects": "(Other)",
-        "subjects_osf": "Communication"
-      },
-      {
-        "doi": "10.31235/osf.io/6592m",
-        "title": "A national roadmap for improving the building quality of Australian housing stock",
-        "authors": "Lyrian Daniel, Michaela Lang, Cynthia Barlow, Peter Phibbs, Emma Baker, Ian Hamilton, Jen Arnold",
-        "created": "2024-09-04",
-        "abstract": "Housing that is in poor physical condition has direct negative health impacts for occupants, is more expensive to run and reduces Australia’s ability to mitigate and adapt to climate change. This research investigates what is needed to lift the quality of Australian housing to align with international standards so as to address problems associated with aged and ill-performing housing stock in both the owned and rented sectors. The research explores different strategies for improving housing through voluntary programs and mandatory legislation, and found: a national strategy to improve residential building quality should be developed mandatory disclosure of dwelling energy performance could improve how markets consider the performance of houses offered for sale or lease more appropriate accounting methods of the benefits provided by improved housing standards are needed. To improve the building quality of Australian housing stock, it is important to investigate how and why governments make policy about the quality of Australian housing stock. Change is difficult because of both the challenges of getting government attention and pressure from strong property industry lobbyists, but it is not impossible. One of the sharp lessons from the case studies is that having research evidence is not enough; change needs key elements such as building a convincing narrative to tell a plausible story of a social problem (including coverage of the evidence in the popular media) together with a ‘coalition of support’. A national strategy to improve residential building quality should be developed and include the following regulatory mechanisms: improved performance standards for new houses; mandatory disclosure of dwelling energy performance; and minimum housing standards for the rental sector.",
-        "url": "https://doi.org/10.31235/osf.io/6592m",
-        "subjects": "(Other)",
-        "subjects_osf": "Public Affairs, Public Policy and Public Administration"
+        "subjects_osf": "Library and Information Science, Science and Technology Studies"
       },
       {
         "doi": "10.31235/osf.io/h8zs6",
@@ -250,26 +217,6 @@
         "url": "https://doi.org/10.31235/osf.io/h8zs6",
         "subjects": "(Other)",
         "subjects_osf": "Communication"
-      },
-      {
-        "doi": "10.31235/osf.io/mxhd9",
-        "title": "Surveying blind and visually impaired people about the accessibility and usability of urban parks in Hungary",
-        "authors": "György Csomós, Jenő Zsolt Farkas",
-        "created": "2024-09-05",
-        "abstract": "For the programming period of 2021–2027, the European Union (EU) encourages and supports cities and towns across the community to take action to enlarge their green infrastructure and develop and improve urban green spaces. As the provision of equal opportunities is a horizontal principle of the EU, the needs of vulnerable and disabled people are crucial to consider in developments. Using survey data from 102 respondents in Hungary, this paper explores and assesses blind and visually impaired people’s perceptions of urban green spaces and factors that support or hinder them from accessing and using the park.",
-        "url": "https://doi.org/10.31235/osf.io/mxhd9",
-        "subjects": "(Other)",
-        "subjects_osf": "Geography, Urban Studies and Planning, Environmental Studies"
-      },
-      {
-        "doi": "10.31235/osf.io/s74k9",
-        "title": "Connecting with nature: The missing link between life satisfaction and health-related quality of life",
-        "authors": "Kate Sollis, Usitha Rajeevan, Lily van Eeden, Kate Lee, Lucy Keniger, Brenda Lin, Pauline Marsh, Emily Flies",
-        "created": "2024-09-05",
-        "abstract": "Nature connection is an important leverage point for both human wellbeing and planetary health. While previous research has identified associations between nature connection and wellbeing, there has been little examination of how different wellbeing measures are associated with nature connection, and how this correlation varies by population groups. We seek to fill this gap through a survey of 4006 individuals in Australia. We find a strong association between nature connection and two measures of wellbeing: life satisfaction, and health-related quality-of-life. The association between nature connection and life satisfaction was similar to that of income and life satisfaction. The association between nature connection and wellbeing was found to be particularly strong for younger people, and those who speak a language other than English at home. Through developing a measure examining one’s life satisfaction relative to their health-related quality-of-life, we find that those with higher levels of nature connection tend to have greater life satisfaction than health-related quality-of-life. These findings highlight the important role policy can play in enhancing nature connection to improve wellbeing, such as expanding green space development and providing individuals with more opportunities to meaningfully connect with nature. Keywords: Nature connection, wellbeing, life satisfaction, health-related quality-of-life",
-        "url": "https://doi.org/10.31235/osf.io/s74k9",
-        "subjects": "(Other)",
-        "subjects_osf": "Geography, Other Social and Behavioral Sciences, Psychology, Environmental Studies, Social Statistics"
       },
       {
         "doi": "10.31235/osf.io/zsqhn",
