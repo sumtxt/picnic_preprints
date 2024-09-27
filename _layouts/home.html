@@ -2,7 +2,7 @@
 <html lang="en">
 {% include head.html %}
 
-<body>
+<body class="d-flex flex-column min-vh-100">
 
   {% assign provider_count = site.data.osf_providers.main | size %}
   {% assign provider_count_other = site.data.osf_providers.other | size %}
@@ -42,8 +42,8 @@
     </div>
   </div>
  
-{% include foot.html %}
-  
 </body>
 
+{% include foot.html %}
+  
 </html>
