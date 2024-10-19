@@ -9,7 +9,7 @@ call_osf_api <- function(date, page=1){
     param <- list(
 #        "filter[provider]"="socarxiv",
         "filter[subjects]"="5a8c80f7c698300375c76d84", 
-        "filter[date_created]"=date,
+        "filter[date_published]"=date,
         "fields[preprints]"="title,description,date_created,contributors,subjects",
         "embed"="contributors",
         "fields[users]"="full_name", 
