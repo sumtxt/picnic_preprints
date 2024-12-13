@@ -1,378 +1,250 @@
 {
-  "update": "2024-12-06",
+  "update": "2024-12-13",
   "content": {
     "articles": [
       {
-        "doi": "10.31235/osf.io/fq52c",
-        "title": "From Manipulation to Empowerment: Reclaiming the Ethics of Influence",
-        "authors": "Adrian Alexander",
-        "created": "2024-11-27",
-        "abstract": "The rise of psychological and technological tools to influence public behaviour has reshaped societal dynamics, often amplifying division and mistrust. While these tools are frequently weaponised to exploit cognitive biases and deepen polarisation, this paper argues that their potential for ethical application can foster unity, empathy and collective progress. Drawing on principles from social psychology and real-world case studies, it explores how cognitive biases like social proof and the availability heuristic, when ethically applied, can inspire cooperation and shared goals. The dual-use nature of technology - highlighted through algorithms, artificial intelligence and bots - is critically analysed, revealing both risks and opportunities. Practical frameworks for designing influence campaigns rooted in transparency, inclusivity and empathy are proposed, alongside safeguards to prevent manipulation. By reclaiming these tools for ethical purposes, this paper calls on leaders, technologists and citizens to actively shape a more empathetic and connected society, harnessing the power of influence to unite rather than divide.",
-        "url": "https://doi.org/10.31235/osf.io/fq52c",
-        "subjects": ["Politics", "Sociology"],
-        "subjects_osf": "Other Social and Behavioral Sciences, Psychology, Political Science, Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/v7a8w",
-        "title": "Online Violence Against Women in Politics: Canada in a Comparative Perspective",
-        "authors": "Gabrielle Bardall, Chris Tenove",
-        "created": "2024-12-04",
-        "abstract": "This chapter explores how Canada fits key global patterns of gender-based violence in politics (GBV-P) using digital technologies. We present research on the causes, forms, and consequences of online violence against women in politics, drawing primarily on Bardall’s findings from ten country case studies and Tenove et al’s research on the Canadian context. This comparative research enables us to consider key questions: How might online GBV-P be conceptualized and studied across diverse contexts, and what are the challenges in doing so? Are some global patterns more or less prevalent in Canada? What are the implications of these findings for action in Canada and globally in addressing the role of digital technologies in gender-based violence in politics?",
-        "url": "https://doi.org/10.31235/osf.io/v7a8w",
+        "doi": "10.31235/osf.io/4zmjb",
+        "title": "AI Governance in the Spotlight: An Empirical Analysis of Dutch Political Parties' Strategies for the 2023 Elections",
+        "authors": "Sophie Morosoli, Kimon Kieslich, Valeria Resendez, Max van Drunen",
+        "created": "2024-12-05",
+        "abstract": "AI-based technologies are having an increasing impact on society, which naturally raises the question of how this technology will be addressed politically. Thereby, political actors have a dual role to play: They can provide investment to enhance the efficiency and usage of these systems in different societal areas while also bearing the responsibility of safeguarding citizens from potential harm. Hereby, the degree of politicization of the topic, i.e. if a topic is part of the public and political debate, has an immense influence on the political approach to tackle the issue. The more a topic is politicized, the more urgency political parties experience to develop concrete governance approaches. Yet, existing research has not analysed party programs in terms of both discourse around artificial intelligence and policy recommendations within an election context. This study focuses on the Netherlands and considers and provides an empirical analysis to answer the following question: How do parties discuss AI in their political programs for the 2023 election in the Netherlands? We conducted a manual content analysis of all party manifestos for the 2023 elections in the Netherlands. Our analysis shows that most parties are not laying a big emphasis on AI. And if so, most of the policy proposals are rather reactive to issues that happened in the past rather than taking a prospective governance approach. We critically discuss the low level of politicisation of AI with a focus on practical governance issues that emerge as a result.",
+        "url": "https://doi.org/10.31235/osf.io/4zmjb",
         "subjects": "Politics",
         "subjects_osf": "Political Science, Communication"
       },
       {
-        "doi": "10.31235/osf.io/5jmbk",
-        "title": "Effect of strengths-based care: Community Led Support",
-        "authors": "Jonathan Prunty, Jinbao Zhang, Madalina Toma, Robin Miller, Julien Forder",
-        "created": "2024-12-02",
-        "abstract": "Strengths-based models of care are increasingly popular with policymakers, but evidence of their effectiveness is currently limited. This study examines the impact that a strengths-based care programme – Community Led Support (CLS) – has had on new and existing clients in England. Specifically, we used a difference-in-difference approach to estimate the treatment effect of CLS on care provision, reviews, and expenditure, using the Short and Long Term (SALT) dataset published by NHS Digital (2016 to 2021). Within local authorities that implemented CLS, we found evidence of changing care pathways for new clients, including a ten percentage-point reduction in funded care provision – though evidence for increased signposting to alternative services in this dataset was mixed. For existing clients, we found evidence of general improvements in the quality of practice, as indicated by higher ratios of planned to unplanned care reviews. These improvements were also realised without concomitant increases in expenditure rates. We believe these results can contribute toward an evidence base for CLS, and for strengths-based practice more generally.",
-        "url": "https://doi.org/10.31235/osf.io/5jmbk",
-        "subjects": "Economics",
-        "subjects_osf": "Economics, Social Work"
+        "doi": "10.31235/osf.io/cjqm2",
+        "title": "Online Violence Against Women in Politics: Canada in a Comparative Perspective",
+        "authors": "Gabrielle Bardall, Chris Tenove",
+        "created": "2024-12-06",
+        "abstract": "This chapter explores how Canada fits key global patterns of gender-based violence in politics (GBV-P) using digital technologies. We present research on the causes, forms, and consequences of online violence against women in politics, drawing primarily on Bardall’s findings from ten country case studies and Tenove et al’s research on the Canadian context. This comparative research enables us to consider key questions: How might online GBV-P be conceptualized and studied across diverse contexts, and what are the challenges in doing so? Are some global patterns more or less prevalent in Canada? What are the implications of these findings for action in Canada and globally in addressing the role of digital technologies in gender-based violence in politics?",
+        "url": "https://doi.org/10.31235/osf.io/cjqm2",
+        "subjects": "Politics",
+        "subjects_osf": "Political Science, Communication"
       },
       {
-        "doi": "10.31235/osf.io/b8jgn",
-        "title": "Long-Term Trends in Income and Wealth Inequality in Southern Italy. The Kingdom of Naples (Apulia), Sixteenth to Eighteenth Centuries",
-        "authors": "Guido Alfani, Sergio Sardone, Carolyn Fisher",
-        "created": "2024-12-03",
-        "abstract": "This paper uses new archival sources to study the long-term tendencies in economic inequality in preindustrial southern Italy (Kingdom of Naples). The paper reconstructs long-term trends in wealth inequality for the period 1550-1800 for a sample of communities in the region Apulia and produces estimates of overall inequality levels across the region. These estimates are compared with those which have recently been published for other Italian and European regions or states. The article also reconstructs the total income distribution for the mid-eighteenth century, then comparing wealth and income inequality. Overall, the evidence for the Kingdom of Naples suggests a tendency for economic inequality to grow continuously over the early modern period. As this was mostly a period of economic stagnation or decline for the Kingdom, the article provides further insights to the debate on the long-run relationship between economic growth and inequality change. (Stone Center on Socio-Economic Inequality Working Paper)",
-        "url": "https://doi.org/10.31235/osf.io/b8jgn",
-        "subjects": "Economics",
-        "subjects_osf": "Economics"
-      },
-      {
-        "doi": "10.31235/osf.io/bygma",
-        "title": "An Exploratory Analysis of Remittances, Financial Development, and Economic Growth Using Autoregressive Distributed Lag (ARDL) Model for Nigeria",
-        "authors": "Matthew Chima Amadi, JOHN CHIWUZULUM ODOZI",
-        "created": "2024-12-01",
-        "abstract": "The increasing flow of remittances and the growth of Nigeria's diaspora population are attracting policy discussions and debates. Many scholars view the mobilization of remittances as a more resilient channel for development financing compared to other traditional sources. The study explores the role of remittances in economic growth and the financial development pathway empirically. We used autoregressive distributed lag (ARDL) and Granger causality techniques and time series data covering the period from 1996 to 2020. From the table, we found a statistically significant negative long-run relationship between remittances and economic growth. However, in the short run, a significant positive relationship was found to exist between remittances and financial development reflecting a complementary relationship. Our findings also showed that foreign direct investment (FDI) and gross domestic formation(GCF) were statistically significant in their relationship with financial development in the long run. From the pairwise Granger test, a unidirectional causality from remittance inflows (Rem) to financial development was established while bidirectional causality between foreign direct investment (FDI) and gross capital formation (GCF). The study concludes that a certain degree of financial development might stifle long-term economic progress, and the combined effect of financial development and remittances should be of concern to policymakers. Given the study's finding of a negative contribution of remittances to economic growth in the long run, a significant policy consequence is that efforts to encourage remittances and those to improve the financial system should be undertaken concurrently.",
-        "url": "https://doi.org/10.31235/osf.io/bygma",
-        "subjects": "Economics",
-        "subjects_osf": "Agricultural and Resource Economics, Economics"
-      },
-      {
-        "doi": "10.31235/osf.io/j76ds",
-        "title": "The Influence of Inheritances on Wealth Inequality in Rich Countries",
-        "authors": "Salvatore Morelli, Brian Nolan, Juan C. Palomino, Philippe Van Kerm, Carolyn Fisher",
-        "created": "2024-12-02",
-        "abstract": "This paper uses survey data from Germany, Spain, France, Italy, Great Britain and the United States to analyze how inheritances impact wealth inequality in a range of rich countries. Adopting an influence function regression approach, the paper calculates the counterfactual effects of small increases in the share of recipients of different-sized wealth transfers in each country. Results suggest that while a marginal increase in inheritance recipients generally contracts wealth inequality measures – confirming a common finding in the literature that inter-generational transfers tend to reduce relative wealth inequality – an increase in recipients of ‘large’ inheritances has the opposite effect. We determine what ‘large’ means in this context by point-estimating the thresholds above which transfers become disequalising. Such thresholds are then put in perspective against the inheritance tax schedules in place in the six countries analyzed. No unique pattern emerges. While the thresholds are very close to tax exemption thresholds in Britain and Germany, they are somewhat higher in France and Spain and they are much lower in Italy and the United States. (Stone Center on Socio-Economic Inequality Working Paper)",
-        "url": "https://doi.org/10.31235/osf.io/j76ds",
-        "subjects": "Economics",
-        "subjects_osf": "Economics"
-      },
-      {
-        "doi": "10.31235/osf.io/wavdn",
-        "title": "Decomposing Recruitment Elasticity in Job Matching",
-        "authors": "Ryo Kambayashi, Kohei Kawaguchi, Suguru Otani",
-        "created": "2024-12-04",
-        "abstract": "The wage elasticity of recruitment is a key indicator of employer market power in the labor market. This study estimates and decomposes this elasticity using data from Japan’s largest private job-matching intermediary. On average, our findings reveal that recruitment elasticity is not significantly different from zero. However, this average masks important heterogeneity: workers earning above the median wage exhibit positive elasticity, while those earning below the median show an insignificant but negative elasticity. Further analysis suggests that the negative elasticity among lower-wage workers stems from their reluctance to inquire about higher-wage vacancies. Additionally, we uncover several notable patterns: there are minimal systematic differences in elasticity between on-the-job and off-the-job searches; workers tend to choose similar job types and locations during the inquiry and application stages; and the matched wage is largely determined by the lower bound of the posted wage range.",
-        "url": "https://doi.org/10.31235/osf.io/wavdn",
-        "subjects": "Economics",
-        "subjects_osf": "Economics"
-      },
-      {
-        "doi": "10.31235/osf.io/3suam",
-        "title": "Cost analysis associated with biological risk type occupational accidents reported in a High-Complexity Hospital during the period from January to August 2024",
-        "authors": "Martín Sánchez Forero, Sofía Santos Simancas, María Camila Rodríguez, Francisco Palencia-Sánchez",
-        "created": "2024-11-28",
-        "abstract": "Objective To characterize and describe the healthcare costs for occupational accidents involving biological risk in a High-Level Hospital in Bogotá, Colombia, in the period of January-August of 2024. Methodology A database containing information on all reported occupational accidents at a High-Level Hospital from January to August 2024 was used. The data was filtered based on the \"nature of the injury\", including only occupational accidents involving biological risk. Subsequently, billing records for the healthcare costs of each identified case were requested, allowing for an analysis and characterization of the expenses. Results It was found that most of these types of occupational accidents occurred in female workers, among nursing assistants. Older age was associated with a higher average healthcare cost, and it was also observed that men had healthcare costs 1.5 times higher than those of women. This latter finding is not considered representative due to selection bias. Conclusion It was observed that there was a greater report of OA in the female population than in the male population, associated with a greater number of female workers in the Hospital. The positions with more OA reported are those of nursing assistants and nurses, with a higher risk of presenting biological accidents due to greater exposure. There is a wide heterogeneity of care costs due to various interventions performed in hospital care. There is a directly proportional relationship between the cost of care and the age range of the worker. On average men have a higher cost of care than women, however this is not representative due to sample selection bias.",
-        "url": "https://doi.org/10.31235/osf.io/3suam",
-        "subjects": "Sociology",
-        "subjects_osf": "Health and Physical Education, Public Affairs, Public Policy and Public Administration, Social Statistics, Organization Development, Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/7chaq",
-        "title": "Lived experience participation and influence in homelessness and housing policy, service design and practice",
-        "authors": "Robyn Martin, Jessica Stubbings, Cassandra Corrone, Morgan Cataldo, Christina David, Kathy Edwards, Linda Fisk, Michele Jarldorn, Aunty Doreen Lovett, Amber Maihi",
-        "created": "2024-12-04",
-        "abstract": "Over the last two decades, governments and service providers have come to expect that people with lived experience of homelessness should participate in and influence homelessness policy design and practice. This research examined the evidence for, and experiences of, people with lived experience participating in and influencing housing and homelessness policy, service design and practice. People with lived experience felt their participation and influence was often far from meaningful. They spoke of being unheard and of their concerns not being taken seriously. The research identified a number of principles organisations can implement so that people with lived experience can participate meaningfully.",
-        "url": "https://doi.org/10.31235/osf.io/7chaq",
-        "subjects": "Sociology",
-        "subjects_osf": "Urban Studies and Planning, Social Work, Public Affairs, Public Policy and Public Administration, Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/ar8c9",
-        "title": "Did They Start Out Homeless? Arrival Situations of Persons Experiencing Unsheltered Homelessness in Los Angeles County",
-        "authors": "Betsy Alafoginis, Ross E. Mitchell",
-        "created": "2024-12-03",
-        "abstract": "This study highlights how better demographic measurement more accurately informs public policymakers. In this era of renewed and more vigorous efforts to clear people experiencing unsheltered homelessness (unsheltered PEH) from city sidewalks, parks, and elsewhere, elected officials and other stakeholders need to clearly understand the dynamics of their unsheltered PEH populations. To advance understanding, this study investigated in-migration of unsheltered PEH in conjunction with the Los Angeles Continuum of Care’s 2024 HUD-mandated Point-in-Time count. In response to the measurement work of Mitchell (2024), the Los Angeles Homeless Services Authority’s 2024 Demographic Survey of unsheltered PEH instrument included a new item distinguishing between perceptions of a place where one has lived versus stayed, which revealed whether in-migration of individuals and families coming to the area immediately experienced homelessness or became unhoused after relocation. This analysis of over one-thousand survey participants self-identified as having migrated into Los Angeles County (a quarter of the total sample of unsheltered PEH) also explored whether there were associations with first-time homelessness or with being accompanied by household members. Responses to this complex survey were analyzed using Stata 17 MP. Key findings include that most survey participants reported either arriving homeless and unsheltered or first staying in either their own or a friend’s or family member’s home. More than half of all in-migration was initially to housed situations (more so for first-time homelessness), not into homelessness. Lone adults were more likely to experience homelessness immediately while accompanied adults were most likely to first stay in someone else’s home.",
-        "url": "https://doi.org/10.31235/osf.io/ar8c9",
-        "subjects": "Sociology",
-        "subjects_osf": "Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/bynw4",
-        "title": "The Social Stratification of the Effect of Parental Investment on Grit: A Case of South Korea",
-        "authors": "Eugene Hwang",
-        "created": "2024-12-01",
-        "abstract": "Theory and empirical evidence suggest that parents often allocate their investments unevenly among their children, resulting in disparities within families. This study explores two key questions: (1) Do parents reinforce or compensate for differences in their children’s grit, a critical indicator of socioemotional development? and (2) Do these parental responses vary according to family socioeconomic status (SES)? Drawing on data from the Korean Children and Youth Panel Survey, this study examines cohorts of elementary (4th grade) and middle (7th grade) school students to shed light on the mechanisms that perpetuate inequalities in socioemotional skills within a society characterized by intense educational competition. The sibling fixed-effects models reveal three key findings. First, parental investment in children’s socioemotional development predominantly takes the form of reinforcement rather than compensation. Second, reinforcing parenting behaviors are more pronounced among middle-school children than elementary-school children, reflecting shifts in parental strategies during adolescence. Third, these reinforcement patterns are more prevalent in high-SES families, particularly those with highly educated parents. These findings highlight the role of family background in shaping access to socioemotional resources and have significant implications for understanding the reproduction of inequality through educational and developmental pathways.",
-        "url": "https://doi.org/10.31235/osf.io/bynw4",
-        "subjects": "Sociology",
-        "subjects_osf": "Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/d8apf",
-        "title": "Explaining Discrimination",
-        "authors": "Billie Martiniello, Daniel Auer, Didier Ruedin",
-        "created": "2024-12-04",
-        "abstract": "Experiments on ethnic or racial discrimination often use names to signal origin in market situations under the assumption that non-ethnic name signals do not systematically affect the outcome. Using survey data, we demonstrate significant variation in perceived trustworthiness and professionalism of names within origins. Linking this to a large-scale name-matched field experiment, we show that the variation in name perception predicts discriminatory behavior: Prospective tenants in Switzerland with names exogenously rated as less trustworthy or less professional receive fewer invitations to an apartment viewing. These marketrelevant characteristics explain, to a large extent, group differences in measured discrimination. Ethnic minority names that score high on either trustworthiness or professionalism are not discriminated against, while names scoring low on these are discriminated against (relative to the majority name). In line with intergroup contact theory, we also show that, regardless of their origin, more common names face less discrimination. Our results reveal that discriminatory behavior is much more nuanced than a simple in-group/out-group dichotomy would suggest.",
-        "url": "https://doi.org/10.31235/osf.io/d8apf",
-        "subjects": "Sociology",
-        "subjects_osf": "Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/das3v",
-        "title": "Forms of Capital, Social Change and the Weight of the Past. The Effective Agents of the Swiss Field of Power 1910-2015",
-        "authors": "Thierry Rossier, Jacob Aagaard Lunding",
-        "created": "2024-12-02",
-        "abstract": "In this article we delve into the elites’ evolving forms of power to study the relationship between social change and capital accumulation. Drawing on Pierre Bourdieu's notion of the field of power and relying on the identification of the field’s effective agents in Switzerland, we investigate the changing relations among the most important forms of capital. We use prosopographical data spanning six historical periods from 1910 to 2015 and thanks to multiple correspondence analysis we uncover the changing structure of the field of power. We show the dominance of economic and organisational network powers throughout history. While both forms of power opposed before World War 2, they could be accumulated together between the 1950s and the 1980s but opposed again in the recent period. The article contributes to 'big picture' sociology, offering historical accounts of broad social trends and provides evidence of a recent return to past inequality logics.",
-        "url": "https://doi.org/10.31235/osf.io/das3v",
-        "subjects": "Sociology",
-        "subjects_osf": "Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/eruw5",
-        "title": "‘Escape’ from Home? The Moderating Role of Sexual Orientation on the Association Between Social Origin and Educational Attainment.",
-        "authors": "David Kasprowski, Diederik Boertien",
-        "created": "2024-11-29",
-        "abstract": "Previous research has documented that sexual orientation relates to educational attainment, and that it might do so differently for men and women. In this paper, we investigate to what extent sexual orientation moderates the relationship between social origin and educational attainment and whether the educational premium among LGB people might be concentrated among individuals from lower socioeconomic backgrounds. We propose, elaborate, and provide a theoretical underpinning for the ‘Queer Habitus’ hypothesis which states that having an LGB identity can lead to weaker family-of-origin ties and disrupt people’s class habitus. These factors can lead LGB people from lower socioeconomic backgrounds to pursue higher levels of education as compared to their heterosexual counterparts. Empirically, the paper takes advantage of the oversampling of LGB individuals in the 2019 wave of the nationally representative probability-based German Socio-Economic Panel study (SOEP; N = 15,746; LGB = 589). The findings challenge the idea that educational premiums are limited to gay men by showing that both LGB men and LGB women have higher educational attainment than their straight counterparts in Germany. Further, this educational ‘advantage’ is moderated by social origin. The higher education of LGB people is concentrated among those with disadvantaged social origin compared to straight individuals from similar social backgrounds. Overall, this lends support to the ‘Queer Habitus’ hypothesis which argues that the disruption of the heterosexual habitus by an LGB identity causes a weaker association of the social origin on educational attainment.",
-        "url": "https://doi.org/10.31235/osf.io/eruw5",
-        "subjects": "Sociology",
-        "subjects_osf": "Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/hwued",
-        "title": "Framing the Immigrant in Labor Unions and the Military in the United States",
-        "authors": "Sofya Aptekar, Shannon Gleeson",
-        "created": "2024-11-30",
-        "abstract": "US institutions: labor unions and the US military, both powerful players in setting the terms of immigration debates and policies in the United States. How do unions and the military frame the role of immigrants within their institutions and in US society? We draw on qualitative content analysis of materials produced by AFL-CIO and the US military between 2000 and 2020. Despite significant differences in these institutions, we find that they share the following three core themes in their framing of immigrants: (1) immigrants as potential threats, (2) immigrants as essential workers, and (3) immigrants as a source of diversity. We synthesize existing research on labor unions and the military to contextualize these commonalities, engaging theory on diversity ideology and organizational discourses. We conclude by discussing the implications of these discursive patterns on immigrants and US immigration policies.",
-        "url": "https://doi.org/10.31235/osf.io/hwued",
-        "subjects": "Sociology",
-        "subjects_osf": "Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/kmvse",
-        "title": "Horizontal Stratification of Higher Education and Gender Earnings Gap in the Early Labor Market",
-        "authors": "Inchan Hwang",
-        "created": "2024-12-01",
-        "abstract": "This study investigates whether higher education—often regarded as an equalizing force that reduces group inequalities—can effectively address gender wage gaps. Despite the narrowing of gender disparities in access to higher education in Korea, this study examines whether obtaining a university degree reduces gender wage inequality. It focuses on the effects of college selectivity and field of study, analyzing how horizontal stratification in higher education influences the gender wage gap in the early labor market. Furthermore, it compares results from traditional linear regression with debiased machine learning, which accounts for selection bias and high-dimensional data. Using data from the Graduate Occupational Mobility Survey (GOMS), the analysis reveals that linear regression estimates a consistent gender wage gap of roughly 10% across all levels of higher education. In contrast, double machine learning identifies a 15% wage gap for graduates of two-year colleges and around 10% for those with four-year degrees. By field of study, linear regression reports consistent gaps, while double machine learning identifies a 6% gap in the humanities, 10-12% in education, natural sciences, and social sciences, and 14% in engineering. This study underscores that accounting for selection bias and high-dimensional data reveals nuanced insights, uncovering significant gender wage gaps among two-year college graduates and notably larger gaps in engineering compared to other fields.",
-        "url": "https://doi.org/10.31235/osf.io/kmvse",
-        "subjects": "Sociology",
-        "subjects_osf": "Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/p9na4",
-        "title": "Towards a Unified Conceptualization of Social Capital",
-        "authors": "Paulina Erices-Ocampo, Miranda J. Lubbers, jimi adams",
-        "created": "2024-12-03",
-        "abstract": "Social capital is among the most broadly used concepts in social science. Despite its shared understanding as beneficial resources available from the connections between people, authors vary widely in their conceptualizations of social capital. To extract clarity from these disparate perspectives, we offer a systematic framework for conceptualizing social capital, which identifies three primary theoretical dimensions of scholars’ conceptualizations of social capital: (1) where beneficial resources reside, ranging from within individuals to the relationships between individuals, (2) beneficial network structure, differentiating closure from brokerage arrangements, and (3) the level to which rewards accrue, distinguishing individual from collective benefits. We illustrate how combining these dimensions produces a unifying perspective that fosters reintegrating social capital’s disconnected conceptualizations. Finally, we draw on this framework to both reconcile seeming contradictions and gaps in social capital scholarship and provide a principled means for prioritizing questions for future developments of social capital.",
-        "url": "https://doi.org/10.31235/osf.io/p9na4",
-        "subjects": "Sociology",
-        "subjects_osf": "Other Social and Behavioral Sciences, Anthropology, Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/qrj3u",
-        "title": "Connecting Spaces: Gender, Video Games and Computing in the Early Teens",
-        "authors": "Jennifer Ashlock, Miodrag Stojnic, Zeynep Tufekci",
-        "created": "2024-11-30",
-        "abstract": "Informed by evidence that computing attitudes may be uniquely constructed in informal contexts and that the early teens are a key period for academic decision-making, we investigate lines of practice that connect computing skills, attitudes, and videogames. We compare the relationship between computer skill, computer efficacy, and activities associated with gaming using a data set of 3,868 children in middle school. The time that children spend gaming has very modest association with skill and efficacy. Accounting for the frequency with which children modify games, engage in social gaming activities, and the salience of gamer identity explains the gender gap in computer skill and significantly narrows the gender gap in computer efficacy. We find support for the argument that computer skill and efficacy are dependent on children connecting often isolated social contexts, a socially embedded characteristic of the digital divide.",
-        "url": "https://doi.org/10.31235/osf.io/qrj3u",
-        "subjects": "Sociology",
-        "subjects_osf": "Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/t6s57",
-        "title": "A Meta-Analysis of Environmental Communication Research: Exploring Sustainable Development, Public Involvement, and the Critique of Technological Triumphalism",
-        "authors": "Shailendra Boora, Meljo Thomas Karakunnel",
+        "doi": "10.31235/osf.io/wks2m",
+        "title": "Unintended Consequences of Transnational Repressions: How Exile Organizations Gain Support in Response to Criminalization by Autocratic Homelands",
+        "authors": "Emil Kamalov, Ivetta Sergeeva",
         "created": "2024-12-05",
-        "abstract": "In the context of environmental challenges and overreliance on technology, the current study explores how environmental communication (EC) research tackles sustainable development, public engagement, and critiques infinite economic growth and technological dependence. Accordingly, this study is guided by the question: How has EC research evolved in engaging with sustainable development, public involvement and critiquing infinite economic growth and technological triumphalism? Guided by the question of how EC research has developed over time, this analysis particularly focuses on three distinct time periods—1967-2000, 2001-2015, and 2016-2021—to accurately trace the progression and shifts in the field. A comprehensive bibliometric analysis, utilizing Python scripting for keyword co-occurrence network diagrams was used to ensure a rigorous examination of the literature. The study's findings highlight the crucial roles of sustainable development, public education, and engagement in EC research, emphasizing the need for an interdisciplinary approach that recognizes the intricate interplay between environmental, social, technological, and political factors. This research contributes to advancing EC by advocating for more comprehensive, inclusive, and action-oriented approaches, paving the way for more effective communication strategies and better environmental outcomes.",
-        "url": "https://doi.org/10.31235/osf.io/t6s57",
-        "subjects": "Sociology",
-        "subjects_osf": "Environmental Studies, Communication, Sociology"
+        "abstract": "Autocrats often use legal repression to criminalize opposition organizations, targeting both domestic and exile groups to suppress dissent. While such measures may weaken cooperation with these organizations domestically, these organizations can simultaneously gain increased support from migrant communities. This study explores whether autocrats achieve their intended outcomes by legally repressing exile organizations through criminalization. Utilizing a conjoint experiment with 5,996 Russian emigrants residing in 89 countries who left their homeland following the 2022 invasion of Ukraine, we investigate how attributes such as criminalization, anonymity of donations, and transparency influence their cooperation with exile organizations in a geopolitically shaped environment. Our findings show that criminalization can backfire: Russian exiles perceive it as a marker of political authenticity and effectiveness, providing crucial cues in an environment with limited information and fostering solidarity. Consequently, criminalization can facilitate collective action and the coordination of extraterritorial opposition, signaling which organizations are genuinely committed to opposing the regime. However, geopolitical alliances matter, as cooperation is hindered where perceived risks are high, particularly in host countries allied with the autocrat. Technological solutions, such as anonymous donations, significantly mitigate these risks and boost support, while transparency is key to engaging the most politically active donors. This study contributes to understanding the limits of autocratic transnational control and demonstrates how exile organizations can leverage low-cost measures to foster diaspora’s resilience and address problems of collective action and coordination.",
+        "url": "https://doi.org/10.31235/osf.io/wks2m",
+        "subjects": ["Politics", "Sociology"],
+        "subjects_osf": "Political Science, Sociology"
       },
       {
-        "doi": "10.31235/osf.io/xky43",
-        "title": "Partner's Education and Mortality in Finland: A Study of Married and Cohabiting Unions among Cohorts Born Between 1932 and 1970",
-        "authors": "INVEST Flagship, Cecilia Potente, Lydia Palumbo, Marika Jalovaara",
-        "created": "2024-12-05",
-        "abstract": "The increasing share of women achieving higher education in the second half of the twentieth century in Western countries has led to changes in the educational distribution of couples in the population. The consequences of the educational expansion for health, and especially mortality, have not received enough attention. We use Finnish full population register data and focus on married and cohabiting couples in 1987–2020, born up to 1970, to examine how the partner’s education is associated with individual-level mortality risk. Accelerated failure time models show that the individual and the partner’s educational level significantly relate to individuals' death risk. Overall, the higher the education level of both an individual and their partner, the lower the individual's mortality rate (p&lt;0.05), with men presenting stronger associations than those of women. Additionally, the type of couple to which individuals belong has a distinct association with their mortality. Homogamous highly-educated couples have the highest survival advantage, while low-educated couples have the greatest disadvantage. Heterogamous couples, where one partner is low-educated and another highly educated, are in between. These results are similar for marriage and cohabitation, and across cohorts. The latter finding highlights the importance of both men’s and women’s education for mortality outcomes. While both men and women show these trends, women present much lower differences in mortality than men. These results indicate that there is a clear resource multiplication mechanism influencing the relationship between partners' education and mortality for men, while for women, the mechanisms seem to fall between resource multiplication and substitution. Consequently, low-educated men partnered with low-educated women emerge as the most vulnerable group in terms of mortality risk.",
-        "url": "https://doi.org/10.31235/osf.io/xky43",
+        "doi": "10.31235/osf.io/7wnsz",
+        "title": "Enforcing Colonial Rule: Blood Tax and Head Tax in French West Africa",
+        "authors": "Denis Cogneau, Zhexun Mo, Carolyn Fisher",
+        "created": "2024-12-09",
+        "abstract": "We examine the enforcement of two pillars of colonial rule in French West Africa, military conscription and head tax collection, using novel district-level data from 1919 to 1949. Colonial states are often characterized as either omnipotent Leviathans or administration on the cheap. Our findings reveal their notable coerciveness in achieving key objectives. Military recruitment targets were consistently met, even amid individual avoidance and poor health conditions, by drawing on a pool of eligible fit young men. Tax compliance was similarly high, with approximately 80% of the liable population meeting obligations. Spikes in head tax rates significantly increased tax-related protests, likely prompting caution among colonial administrators. The tax burden was adjusted according to perceived district affluence, and tax moderation was applied in times of crisis. However, local shocks such as droughts or cash crop price collapses were largely ignored. These results underscore the capacity of colonial states to enforce their authority despite limited policy responsiveness, offering new insights into the political economy of colonial governance. (Stone Center on Socio-Economic Inequality Working Paper)",
+        "url": "https://doi.org/10.31235/osf.io/7wnsz",
+        "subjects": "Economics",
+        "subjects_osf": "Economics"
+      },
+      {
+        "doi": "10.31235/osf.io/wknhs",
+        "title": "The Green Six: Towards a Parsimonious Measure of Green Workplace Behavior",
+        "authors": "Adrian Dominik Wojcik, Aldona Glińska-Neweś, Dominika Jurgiel, Taciano L. Milfont, Paweł Brzustewicz, Beta Glinka, Alicja Łuka, Dawid Szostek",
+        "created": "2024-12-06",
+        "abstract": "The advancement of research on employee pro-environmental behaviors (PEBs) is hindered by inconsistent terminology, fragmented behavior taxonomies, and incoherent measurement methods. Our research focuses on the concept of employee green behaviors (EGB) and seeks to empirically validate a set of EGB items derived from the Green Five Taxonomy. Through three surveys of full-time office workers in Poland (Ntotal = 2,985), the study identifies six distinct categories of EGB: reducing, recycling, reusing, prioritizing environmental concerns, counterproductive green behavior, and other behaviors beyond the 3R (reduce, reuse, recycle) framework. These findings refine the initial taxonomy and offer a consolidated measurement tool.",
+        "url": "https://doi.org/10.31235/osf.io/wknhs",
+        "subjects": "Economics",
+        "subjects_osf": "Psychology, Economics, Organization Development"
+      },
+      {
+        "doi": "10.31235/osf.io/yx7as",
+        "title": "No-Exit Brexit: Japanese Affiliate Exit and Divestment in Post-Brexit UK",
+        "authors": "Michael Ryan, Ayumu Tanaka",
+        "created": "2024-12-11",
+        "abstract": "This paper examines Brexit's impact on Japanese foreign direct investment (FDI) in the UK, with a specific focus on affiliate exit and divestment. Utilizing Toyo Keizai Inc.'s Overseas Japanese Companies Data spanning 2010--2020, the study employs a difference-in-differences (DiD) estimation approach and synthetic DiD approach to compare Japanese affiliates' exit and divestment in the UK to affiliates located in other EU nations. Contrary to widespread expectations of a mass exodus of Japanese firms from the UK post-Brexit, the study reveals no statistically significant impact of Brexit on either Japanese affiliate exit or divestment. This finding challenges a prevailing narrative surrounding Brexit's detrimental effects on foreign investment in the UK. The observed resilience of Japanese affiliates is likely attributable to FDI hysteresis effects, arising from the substantial fixed and sunk costs inherent in FDI. These costs create a strong incentive for firms to maintain existing operations even in the face of political and economic uncertainty.",
+        "url": "https://doi.org/10.31235/osf.io/yx7as",
+        "subjects": "Economics",
+        "subjects_osf": "Economics"
+      },
+      {
+        "doi": "10.31235/osf.io/4scpe",
+        "title": "More Alike in Rags or Riches? Cohort Change in the Influence of Family Background Across the Earnings Distribution",
+        "authors": "Arne Mastekaasa, Nicolai T. Borgen, Are Skeie Hermansen, Gunn Elisabeth Birkelund",
+        "created": "2024-12-08",
+        "abstract": "Rising economic inequality across rich countries has raised questions about whether family background increasingly determines children’s economic success. However, prior research has not addressed whether family background is of differential importance for children who end up in the top, middle, or bottom of the earnings spectrum and whether this has changed across birth cohorts. Using administrative data from Norway, we study cohort trends in sibling correlations across children’s earnings distribution for men and women born from the early 1950s up to 1980. By decomposing sibling correlations, we assess the extent to which these trends are accounted for by observed parental socioeconomic characteristics relative to unobserved family background factors. Our results reveal a modest rise in the influence of family background on average earnings and in the middle of the earnings distribution for both genders, but this trend hides important variation across the distribution. For men, we find a strong increase in the influence of family background on children’s risk of falling to the bottom of the earnings distribution, while sibling correlations for attainment of top earnings have declined over time. Moreover, unobserved family background factors are increasingly important for predicting men’s adult economic disadvantage. For women, sibling correlations have risen across cohorts except at the top of the earnings distribution, and the relative role of observed parental socioeconomic characteristics has increased. These results underscore the complexity of intergenerational trends in the influence of family background, indicating that rising economic inequality does not uniformly lead to reduced mobility but varies significantly across different earnings levels and between genders",
+        "url": "https://doi.org/10.31235/osf.io/4scpe",
         "subjects": "Sociology",
         "subjects_osf": "Sociology"
+      },
+      {
+        "doi": "10.31235/osf.io/72r38",
+        "title": "Colorblind Ethnocentrism: How Ancestry and Race Continue to Define Western National Identities",
+        "authors": "Mireia Triguero Roura",
+        "created": "2024-12-06",
+        "abstract": "Research on national identity in Western Europe and the United States has found that people in these countries de-emphasize the ethnic components of national membership, such as having ancestry in the country, and favor civic components such as political participation. However, sociologists whose research center immigrants' experiences in these countries find that they are never fully perceived as \"national\" because of their ancestry. Using a pre-registered, nationally representative, novel conjoint experiment fielded in 5 different countries, I find that natives' understanding of who belongs in the nation might be understood as \"colorblind ethnocentrism\": while people espouse civic normative understandings of the nation, they draw symbolic boundaries of national belonging based on ancestry. Moreover, when respondents do express a normative preference for ancestry in survey measures, it translates to a revealed preference for white and Christian members of the nation. Finally, in Europe (outside the UK), people imagine the nation as White, while this is not the case in the US and the UK overall. These findings help us understand why nativist discourse can easily take hold in liberal democracies, despite people's explicit disavowal of such discourse.",
+        "url": "https://doi.org/10.31235/osf.io/72r38",
+        "subjects": "Sociology",
+        "subjects_osf": "Sociology"
+      },
+      {
+        "doi": "10.31235/osf.io/acb8q",
+        "title": "Public Sector Preference under Unbalanced Marketization: An Analysis of Labor Market Segmentation and University Graduates’ Sectoral Choices in China",
+        "authors": "Wei Tang",
+        "created": "2024-12-10",
+        "abstract": "This study employs large language models (LLMs), K-means clustering, and propensity score matching to thoroughly examine the impact of regional marketization on labor market segmentation and university graduates’ sectoral choices. The findings reveal that regional variations in marketization levels lead to heterogeneity in the ownership composition of the primary labor market, resulting in different labor market segmentation structures. In southeastern coastal and metropolitan regions, the abundance of high-quality private-sector job opportunities makes the traditional “public-private” dichotomy insufficient for accurately describing the two-tiered labor market, thus challenging prevailing academic assumptions. Due to variations in local marketization levels, university graduates across regions exhibit divergent preferences for public and private sector employment. Moreover, limited job availability creates a complex sectoral choice pattern. Specifically, in inland provinces and smaller cities, individuals with higher human capital are more likely to enter the public sector, while no significant correlation is found in southeastern coastal and metropolitan regions.",
+        "url": "https://doi.org/10.31235/osf.io/acb8q",
+        "subjects": "Sociology",
+        "subjects_osf": "Sociology"
+      },
+      {
+        "doi": "10.31235/osf.io/fdg8t",
+        "title": "Measuring Physical Activity in Older Adults through Data Donation: Consent Rates, Donation Success, &amp; Bias",
+        "authors": "Florian Keusch, Bella Struminskaya, Joris Mulder, Stein Jongerius",
+        "created": "2024-12-10",
+        "abstract": "Physical activity (PA) is a key predictor of many health outcomes, especially for aging populations. The accurate measurement of PA is key to identifying determinants of health and developing appropriate interventions. To measure PA, many studies use self-reports which are usually limited to global measures and can suffer from measurement error. More fine-grained day-reconstruction methods are burdensome for respondents and prone to recall error. As an alternative, researchers are providing study participants with wearable devices that passively track PA, which reduces reactivity and recall error. However, participants’ non-compliance and high device costs are problematic. Many older adults now have smartphones that track physical activity, and individuals can share these passively collected physical activity data with researchers. We test a data donation approach among older adults. Based on legal requirements (e.g., the EU General Data Protection Regulation), data controllers (i.e., social media platforms, health apps, etc.) must provide users access to all their data in a machine-readable format. We study (1) how willing and successful older adults are to donate their PA data from different smartphone apps; (2) what drives donation of PA data at the different stages of participation; and (3) what biases arises from selective data donation? We use a privacy-preserving data donation tool integrated in a probability-based online panel of the Dutch general population to collect PA data from various health apps. 2,086 members of the LISS panel aged 50 years and older completed a web survey in early 2024. All iPhone and Android smartphone owners were asked to download passively collected PA data from their devices (Apple Health, Google Location History, or Samsung Health) and donate them via the Port platform. Out of the 2,086 survey participants, 1,889 (91%) reported owning an iPhone or Android phone compatible for data donation, 606 (29%) reported being willing to donation their PA data, 354 (17%) started the data donation, and 256 (12%) successfully provided a data package. Gender, age, educational attainment, income, and smartphone ownership and usage behavior, privacy related attitudes, and type of health app from which the data were requested correlated with behavior at the different stages of study participation. Compared to the entire sample, older adults who successfully data donors reported higher levels of self-rated health, fewer health-related limitations, fewer difficulties performing everyday activities, and more physical activity. Our study shows that data donation from smartphones as part of a probability-based web survey of older adults is a feasible alternative for the measurement of PA. Nonparticipation correlates strongly with characteristics related to smartphone ownership and comfort with device use. However, substantive bias in health and PA outcomes persist for those who donated in comparison to all survey respondents.",
+        "url": "https://doi.org/10.31235/osf.io/fdg8t",
+        "subjects": "Sociology",
+        "subjects_osf": "Sociology"
+      },
+      {
+        "doi": "10.31235/osf.io/fdsep",
+        "title": "«Dass man das wiederherstellt, das Gleichgewicht». Zum Selbstverständnis der Heilpraktik",
+        "authors": "Lehrstuhl Sozialstrukturanalyse, Robert Schäfer, Lucas Güetli, Martin Jann",
+        "created": "2024-12-06",
+        "abstract": "Das vorliegende Working Paper untersucht das Selbstverständnis von Heilpraktiker:innen sowie die Rolle der Heilpraktik innerhalb des modernen Gesundheitssystems. Es wird ein kurzer Überblick über die institutionellen Rahmenbedingungen in Schweiz gegeben. Auf der empirischen Grundlage von 15 semi-standardisierten Interviews werden anschliessend drei zentrale Themenfelder identifiziert: (1) Heilpraktik als eine Berufung im Kontrast zur Lohnarbeit in anderen Pflegeberufen, (2) Exotismus und Nostalgie als Kritik an der modernen westlichen Medizin sowie (3) die Vorstellung, dass jede Person die Verantwortung für die eigene Gesundheit trägt. Entlang dieser drei Themenfelder wird in der Heilpraktik eine Kritik an der westlichen Moderne formuliert, welche sich als radikal Anderes zu dieser präsentiert, letztlich aber auf denselben Prinzipien beruht.",
+        "url": "https://doi.org/10.31235/osf.io/fdsep",
+        "subjects": "Sociology",
+        "subjects_osf": "Sociology"
+      },
+      {
+        "doi": "10.31235/osf.io/g9u8e",
+        "title": "Hundred years of French Film Policy (1925-2025). Power, Policy, and Aesthetic Values within State Intervention for film production in France.",
+        "authors": "Frédéric Gimello-Mesplomb",
+        "created": "2024-12-05",
+        "abstract": "This paper explores the evolution of French film policy from early cinema to the present, examining the complex interactions between state intervention, cultural production, and artistic creativity. Through a comprehensive historical analysis, the study traces the development of a unique French model of cinema support, characterized by robust state involvement, selective funding mechanisms, and a commitment to cultural diversity. The research demonstrates how the French state has progressively transformed its approach to cinema, from initial regulatory and taxation strategies to sophisticated support systems like the ‘Avance sur Recettes’ (Advance on Receipts). Key turning points include the Blum-Byrnes agreements of 1948, Jack Lang's cultural policies in the 1980s, and the ongoing challenges posed by digital technologies and global streaming platforms in the 2000s. The analysis reveals the tension between commercial imperatives and artistic quality, highlighting how state interventions have sought to preserve a distinctive French cinematic identity. By examining policy documents, parliamentary reports, and critical debates, the paper illuminates the complex negotiations between economic sustainability, cultural expression, and national prestige in French film policy. Ultimately, regarding the recent France 2030 Plan, the study argues that French cinema policy represents a unique model of cultural intervention, balancing economic pragmatism with a profound commitment to artistic innovation and cultural sovereignty.",
+        "url": "https://doi.org/10.31235/osf.io/g9u8e",
+        "subjects": "Sociology",
+        "subjects_osf": "American Studies, Film and Media Studies, Communication, Sociology"
+      },
+      {
+        "doi": "10.31235/osf.io/kydf4",
+        "title": "Assessing the Effect of Evidence-Based Mental Health TikTok Videos on Youth Emotional Support Competencies: A “Creator-Engaged” Approach",
+        "authors": "Matthew Motta, Yuning Liu, Kenzie Brenna, Shahem McLaurin, Katharine Speer, Elissa Scherer, Amanda Yarnell",
+        "created": "2024-12-05",
+        "abstract": "Previous research raises the possibility that exposing young people to videos from social media content creators that promote evidence-based mental health information may improve mental health outcomes. While previous field experimental research has increased the supply of evidence-based information on a platform like TikTok, less work considers how exposure to that information might influence mental health outcomes. In a large (N = 1,000) and demographically representative survey of young people in the US aged 14-22, we report the results of a pre-registered survey experiment that assesses the effects of evidence-based messaging on perceived and objective emotional support competencies. Our “creator-engaged” approach partnered with a TikTok influencer to create realistic control (pre-evidence-based content training) and treatment (post-training) videos that hold many design elements constant. We find that treatment exposure significantly increases both perceived and objective abilities to provide emotional support. Our results suggest that creator partnership programs can promote positive mental health outcomes on platforms like TikTok.",
+        "url": "https://doi.org/10.31235/osf.io/kydf4",
+        "subjects": "Sociology",
+        "subjects_osf": "Psychology, Communication, Sociology"
+      },
+      {
+        "doi": "10.31235/osf.io/pv2n5",
+        "title": "The Birth Cohorts Most Responsible for Carbon Emissions",
+        "authors": "Mathew Hauer, Dean Hardy, Emilio Zagheni, Andrew Jorgenson",
+        "created": "2024-12-07",
+        "abstract": "Rarely are those most impacted by climate change the same as those most responsible for global carbon emissions. Assignment of responsibility for carbon emissions typically differentiates emissions across space and time but not birth cohort. Including young birth cohorts complicates assessments as they have yet to emit as much as older cohorts. Using formal demographic methods, we develop an approach to estimate carbon emissions across space, across time, and across the life course, creating a unified carbon emissions identity, comparable to other well-known carbon identities. We estimate the birth cohorts born between 1850 and 2020 with the highest lifetime carbon emissions. We show that globally, cohorts born between 1970 and 1990 have the highest lifetime emissions under a moderate carbon emissions pathway and those born since 2000 under a high emissions pathway. Our results suggest that carbon emissions pathways play the strongest role in determining which cohorts will be associated with the highest lifetime carbon emissions, with lower pathways suggesting earlier cohorts and higher pathways suggesting later cohorts.",
+        "url": "https://doi.org/10.31235/osf.io/pv2n5",
+        "subjects": "Sociology",
+        "subjects_osf": "Environmental Studies, Social Statistics, Sociology"
+      },
+      {
+        "doi": "10.31235/osf.io/ru8xd",
+        "title": "Even In Ancient Roman Egypt, Urban Women had Lower Fertility than Rural Women",
+        "authors": "Mathew Hauer, Karin Brewster, Matthew Brooks",
+        "created": "2024-12-07",
+        "abstract": "Historical estimates of the total fertility rate (TFR) are relatively uncommon, owing to the onerous data requirements for direct calculation and the lack of digitized records. Recent advancements in indirect fertility estimation 1 allow for estimation of TFR using data as minimal as a population pyramid – relatively common data in historical contexts through census records and population registers. Here we use published data on the age structure of Roman Egypt circa AD 12 to AD 259 2 to estimate TFR and 90%ile credible interval in an ancient time period and place using a Bayesian approach. Furthermore, the population data is separated by urban and rural areas, allowing for an unprecedented glimpse into ancient fertility levels. We find that ancient Roman Egyptian women in urban areas had considerably lower fertility than women in rural areas -- urban TFR: 3.37 [2.26 – 4.55], and rural TFR: 8.57 [6.01 – 11.25]. Our findings suggest that the modern day urban/rural fertility differential dates back nearly 2000 years. As demonstrated here, the advancements in indirect estimation could be deployed to better understand historical and ancient fertility regimes, shedding light on societies far before the existence of modern vital statistics systems.",
+        "url": "https://doi.org/10.31235/osf.io/ru8xd",
+        "subjects": "Sociology",
+        "subjects_osf": "Social Statistics, Sociology"
+      },
+      {
+        "doi": "10.31235/osf.io/zy6h5",
+        "title": "Stratified Scars: Social inequality in the labor market consequences of upper secondary dropout",
+        "authors": "Kerstin Ostermann, Alexander Patzina, Katy Morris",
+        "created": "2024-12-11",
+        "abstract": "While the association between upper secondary dropout and negative labor market consequences is well-documented, the causal link and the social stratification in this effect are less clear. Using geo-referenced administrative data from Germany and a conditional instrumental variable approach that exploits distances between place of residence and large firms, we find negative income consequences for dropping out of vocational training but show that the penalty is entirely concentrated among individuals from disadvantaged backgrounds. We further show that these stratified scars partially reflect unequal vocational re-enrolment rates and unequal employment outcomes among dropouts who do not re-enroll. Our results indicate a great potential of policies targeting higher graduation rates to reduce social inequality in labor markets. Furthermore, our study suggests that social origins are important moderators of linkage strength between school and work even in institutional settings with strong links between credentials and the labor market.",
+        "url": "https://doi.org/10.31235/osf.io/zy6h5",
+        "subjects": "Sociology",
+        "subjects_osf": "Geography, Sociology"
       }
     ],
     "articles_hidden": [
       {
-        "doi": "10.31235/osf.io/439yr",
-        "title": "Survey on the effectiveness of the rent brake in Munich",
-        "authors": "Felicitas Sommer, Rebekka Schade, David Prokosch, Isabela Coelho, Anna-Carolina Haensch, Frauke Kreuter",
-        "created": "2024-12-02",
-        "abstract": "This study explores the effectiveness of Germany’s rent control regulation in the context of Munich's housing crisis. The rent brake, aimed at preventing excessive rents in tense housing markets, was implemented in 2015 in Germany but has faced challenges in practical application. This research evaluates the number of tenants eligible to use the rent brake, investigates how eligibility of the rent break varies depending on housing conditions and landlord types and identifies factors hindering its application. A sample of 10,000 individuals from Munich's registration database, covering residents who moved after 2019, was drawn, resulting in 356 complete responses for analysis. The survey assessed demographics, rental conditions, and knowledge of the rent brake, with findings weighted by city district and household size. The study reveals that while 13% minimum and up to 38% of tenants could potentially apply the rent brake, only 2% of respondents had successfully secured a rent reduction. This low uptake is attributed to limited awareness—only 38% of participants knew about the rent brake—and fears of landlord retaliation, such as potential termination or strained relationships. The study concludes that the tenant-dependent enforcement undermines the effectiveness of the rent breake. Enhanced information access, tenant support systems, and institutional measures are needed to strengthen the regulation's impact and promote fair housing practices.",
-        "url": "https://doi.org/10.31235/osf.io/439yr",
+        "doi": "10.31235/osf.io/5e3jc",
+        "title": "Sensing, drawing and making sense. Enlivening ethnographic fieldnotes.",
+        "authors": "Carla Besora Barti",
+        "created": "2024-12-06",
+        "abstract": "Written ethnographic field notes may fall short of describing the complexity and subtlety of human interaction and experience when exploring intimacy and pleasure. In the frame of a feminist research project that investigates women's 'unruly' intimacy as they age, I used drawings as part of my field notes to enrich and diversify the material collected. This essay focuses on a selection of drawings to explore the potential of this medium as a living practice that can ‘look along’ instead of just ‘looking at’.",
+        "url": "https://doi.org/10.31235/osf.io/5e3jc",
         "subjects": "(Unspecified)"
       },
       {
-        "doi": "10.31235/osf.io/9bd2z",
-        "title": "The Behavior of Spanish Conquerors and Colonizers in America Is a Root Cause of Political Instability in Argentina",
-        "authors": "Carmelo José Felice, Gabriel Alfredo Ruiz",
-        "created": "2024-11-28",
-        "abstract": "The political stability of Argentina is a striking phenomenon in the scientific realm. This work factually demonstrates that one of the origins of instability is the contempt of the Spanish in America for the authority of the Spanish Crown, a behavior born during the stage of conquest and colonization of America. The validation process consists of a historical analysis that is summarized in propositionally logical statements, which allow the deduction and confirmation of the initial hypothesis. For the demonstration, violations of Royal edicts are analyzed, including the prohibition of slave labor and the obligations to only buy products from Spain, to treat the indigenous people well, and to consider them free men with rights to their territories. In all cases, the violations did not have significant punishments, probably due to the practical impossibility of controlling offenders from a distance, in a historical context where efficient means of communication did not exist. This lack of punishment gave rise to a contempt for authority, a custom that was passed down from generation to generation and is currently manifested as the contempt of all citizens for laws and regulations issued by any authority. This behavior partially explains the current political instability in Argentina.",
-        "url": "https://doi.org/10.31235/osf.io/9bd2z",
+        "doi": "10.31235/osf.io/7w2dn",
+        "title": "Tackling Traditional: Tamil Gender Ideologies and their Socioeconomic Correlates",
+        "authors": "Keera Allendorf, Susan Short, Nancy Luke, Hongwei Xu",
+        "created": "2024-12-06",
+        "abstract": "Modernization theory posed gender ideology as a unidimensional continuum ranging from “traditional” to egalitarian with egalitarianism increasing as societies progress. Recent research replaces a unidimensional view with multidimensionality, but other modernization remnants remain. We tackle such remnants by examining gender ideologies and their socioeconomic correlates in Tamil Nadu, an Indian context often labeled “traditional.” Using latent class analysis of 10 gender attitudes from the South Indian Community Health Study (SICHS), we identify six gender ideologies. Two ideologies are consistently egalitarian or essentialist, two are mixed, and two are characterized by ambivalent agreement. Attitudes toward mobility are a crucial divider; moderate support for equal mobility distinguishes “consistent egalitarians” from “seclusionist egalitarians” and “agreeable seclusionists” from the “highly agreeable.” These agreeable ideologies likely reflect acquiescence bias, but may also signal polite resistance to feminist scripts. The gender ideologies are correlated with gender, religion, and education, but have little to no association with caste, age, and class. These findings extend the multidimensionality of gender ideology to an Indian context and hint at the power of global and local cultural scripts. More broadly, they demonstrate the value – and challenges – of building a more global understanding of gender ideology freer of modernization remnants.",
+        "url": "https://doi.org/10.31235/osf.io/7w2dn",
         "subjects": "(Unspecified)"
       },
       {
-        "doi": "10.31235/osf.io/cmqu8",
-        "title": "Catalyzing Inclusivity in Higher Education and Beyond: Insights from Action-Orientated Allyship Workshops",
-        "authors": "Anju R Gupta, Payal Bhattad",
-        "created": "2024-11-25",
-        "abstract": "Action-orientated allyship can play a pivotal role in higher education. This paper outlines the objectives and outcomes of allyship three workshops a) Faculty Allies, b) STEM Allies: Ambassadors for Change for students, and c) Allyship Think Tank for stakeholders of partnering non-profit organization for women. It was hypothesized that participating stakeholders recognize their own privileges and biases and evaluate their role-based power to effect organizational change. The paper provides details of implementation of each workshop including specific goals and learning outcomes, recruitment strategies, demographics of participants, and their feedback on workshop environment, aspects, and implementation strategy. The objectives of the workshops were designed to a) apply outcome-based principles of diversity, equity, and inclusion, b) reflect on one’s identities and power to change, c) characterize cognitive biases, d) articulate various roles of allies, and e) practice intervention skills and strategies. The active learning based pedagogical approach of the workshops involved group discussion, role plays, self-reflection, and dialogue in a safe environment allowing participants to share and learn from each other’s lived experiences and perspectives. Quantitative and qualitative assessment suggested that the participants found the workshop, its facilitation and environment, and overall content to be remarkably effective. The paper also discusses strategies to use the research and advocacy conducted by Think Tanks to inform the content and structure of workshops, thereby, creating a feedback loop to ensure the workshop curriculum represent the most current and comprehensive understanding of allyship.",
-        "url": "https://doi.org/10.31235/osf.io/cmqu8",
+        "doi": "10.31235/osf.io/93rdf",
+        "title": "Organizing Organizational Theory: Current Foundations, Future Directions",
+        "authors": "Jose Eos Trinidad",
+        "created": "2024-12-06",
+        "abstract": "This review synthesizes various organizational perspectives into seven clusters with the acronym SCRIPTS: structure, culture, relations, institutions, professions, transformation, and social conflict. These contemporary theories highlight how various organizational factors affect individual and organizational performance, change, innovation, wellbeing, and inequality. In organizational theory, structure focuses on formal elements like rules, roles, routines, and rewards while culture refers to informal elements like climate, identity, and sensemaking. Relations refer to effects of interpersonal and interorganizational networks while institutions refer to norms that influence isomorphism and dynamism. Professions feature psychological factors affecting performance and sociological factors shaping work and occupations. Transformation refers to episodic and continuous changes while social conflict foregrounds power, inequalities, and competition over resources. I map how these perspectives are connected with each other and also suggest future directions in the field by intersecting organizational theory with studies of new technologies, historic organizations, global interconnections, marginalized populations, political institutions, and larger societal consequences.",
+        "url": "https://doi.org/10.31235/osf.io/93rdf",
         "subjects": "(Unspecified)"
       },
       {
-        "doi": "10.31235/osf.io/dtpfz",
-        "title": "AI as a New Public Intellectual?",
-        "authors": "Branislav RADELJIC",
+        "doi": "10.31235/osf.io/fkcbd",
+        "title": "Prompt engineering meets ‘definition of the situation’ and identity theory: Using ChatGPT to study social media datasets from a qualitative symbolic interactionist perspective",
+        "authors": "J. Patrick Williams, Samuel Judah, Rolf Lyneborg Lund, Yu Xie",
+        "created": "2024-12-11",
+        "abstract": "This research note examines the potential of ChatGPT’s large language model for qualitative symbolic interactionist analysis of social media datasets. Using a small sample of 15 posts on mental health issues from the social media platform Reddit, we explore how large language models interpret, organize, and communicate information based on researchers’ prompts. Prompting itself is a process in which researchers provide both a definition of the situation and of relevant identities for a GPT to assume, which directly shape its interpretive capacity and output. We compare ChatGPT-4o, the latest personal subscription version available at the time of writing, and Microsoft AutoGen, a more powerful API version capable of organizing multiple GPT agents to complete research tasks semi-autonomously. We describe and evaluate the structure and content of each model’s output, including how they engage with data thematically, empirically, and conceptually. We also highlight differences in depth and coherence of their analyses. We show how changes to prompts influenced the GPTs’ interpretative actions, yielding both expected and novel analytical insights. Our preliminary findings suggest that GPTs hold promise for advancing qualitative analysis of big data, albeit with some limitations in analytic depth and occasional hallucination errors. The study contributes to nascent symbolic interactionist scholarship on nonhuman agents in qualitative research, positioning GPTs as semi-autonomous research collaborators.",
+        "url": "https://doi.org/10.31235/osf.io/fkcbd",
+        "subjects": "(Unspecified)"
+      },
+      {
+        "doi": "10.31235/osf.io/pekyg",
+        "title": "Mapping the Participation of Venture Capital in Education: An Investment Network Perspective",
+        "authors": "Sophia Deng, Jasmine Siswandjo, Klint Kanopka",
+        "created": "2024-12-07",
+        "abstract": "Over the past two decades, venture capital (VC) has played a critical role in shaping the educational technology (edtech) market. This study employs social network analysis (SNA) to examine investment data, offering a novel perspective on the relational structure and dynamics of edtech investment. We construct bipartite networks of investors and edtech companies before and after the introduction of the Chromebook to the US market and the onset of the COVID-19 pandemic. We investigate differences in the structure of these bipartite networks using exponential random graph models, distributions of network statistics, and comparisons between the collapsed single-mode actor and event networks. Using these tools, we make estimates of influence and structural features that predict the probability of edge formation, highlighting patterns that contribute to the understanding of the structural dynamics of the edtech market, the key players driving its evolution, and the way each respond to exogenous shocks in the educational space.",
+        "url": "https://doi.org/10.31235/osf.io/pekyg",
+        "subjects": "(Unspecified)"
+      },
+      {
+        "doi": "10.31235/osf.io/tsk3q",
+        "title": "What types of survey questions are prone to interviewer effects? Evidence based on 31,000 ICCs from 28 countries.",
+        "authors": "Ádám Stefkovics, Kinga Batiz, Blanka Zsófia Grubits, Anna Sára Ligeti",
+        "created": "2024-12-09",
+        "abstract": "Interviewer effects are a common challenge in face-to-face surveys. Understanding the conditions that make interviewer variance more likely to occur is essential in tackling sources of bias. Earlier evidence suggests that certain features of the survey instrument provide more ground for interviewer influence. For instance, attitudinal, sensitive, complex or open-ended questions invite more interviewer variance. In this paper, we aim to validate earlier results, previously derived from single-country studies, by using the large cross-national sample of the European Social Survey. We compare 31,270 intraclass-correlations (ICCs) derived from 1004 survey questions from 28 countries using data from 10 waves of the ESS. The questions were manually coded based on several characteristics. These features of survey questions were then used as predictors of ICCs in multilevel models. The results show that question characteristics account for a significant portion of the variation in ICCs, with certain types, such as attitude and non-factual questions, items appearing later in the survey, and those using showcards, being especially susceptible to interviewer effects. Our findings have important implications for both interviewer training and questionnaire design.",
+        "url": "https://doi.org/10.31235/osf.io/tsk3q",
+        "subjects": "(Unspecified)"
+      },
+      {
+        "doi": "10.31235/osf.io/tv36h",
+        "title": "Five Decades of Marital Sorting in France and the United States – The Role of Educational Expansion and the Changing Gender Imbalance in Education",
+        "authors": "Julia Leesch, Jan Skopek",
+        "created": "2024-12-10",
+        "abstract": "Over the past half-century, higher education expansion and changing gender imbalances in education have reshaped the educational composition of the partner market. Nonetheless, the impact of these concurrent trends on educational sorting in unions and marriages remains unclear. Using data from France (1962–2011) and US (1960–2015), we examine how (a) educational expansion and (b) the changing gender-education association contributed to changing sorting outcomes in marital and non-marital different-sex unions. Counterfactual decomposition techniques revealed two main trends. First, the changing gender-education association – apart from educational upgrading – has promoted rising hypogamy (she is more educated than he) and declining hypergamy (he is more educated than she). Second, educational expansion is associated with rising proportions of homogamous, hypogamous, and hypergamous unions involving more educated individuals and declines in these union types with less educated women and men. However, the impact of these changes on overall homogamy and heterogamy trends differs across countries. For example, while the increasing supply of highly educated individuals has promoted hypogamy in France it has offset hypogamy in the United States. Our findings contribute to ongoing debates about the structural effects of educational expansion and the reversing gender imbalance in education on the formation of different-sex unions.",
+        "url": "https://doi.org/10.31235/osf.io/tv36h",
+        "subjects": "(Unspecified)"
+      },
+      {
+        "doi": "10.31235/osf.io/vc428",
+        "title": "The Sources of Technological Complexity in Regions",
+        "authors": "Anthony Frigon",
+        "created": "2024-12-06",
+        "abstract": "This study investigates the origins and evolution of technological complexity in Canadian regions using patent records linked to firm-level ownership and geograph- ical data. Since 2000, larger Canadian cities have experienced a notable increase in levels of technological complexity. The analysis examines the determinants of this complexity, with a particular focus on the role of intra- and inter-firm collaborations across different geographical scales. The findings reveal the significant contributions of multilocational firms and intra-organizational collaborations to the development of more complex technologies in regions. Further analysis shows that the introduc- tion of complex technologies does not stem from novel recombinations of components but rather from combinations developed internationally by firms, often coupled with combinations originating within the host region.",
+        "url": "https://doi.org/10.31235/osf.io/vc428",
+        "subjects": "(Unspecified)"
+      },
+      {
+        "doi": "10.31235/osf.io/wx42c",
+        "title": "Organisation du Travail et Performance des Chefs de Projet Informatique: Une Analyse des Pratiques Managériales",
+        "authors": "Nicholas Dacre",
         "created": "2024-12-05",
-        "abstract": "In a dialogue with ChatGPT, I asked if it could be considered a public intellectual.",
-        "url": "https://doi.org/10.31235/osf.io/dtpfz",
-        "subjects": "(Unspecified)"
-      },
-      {
-        "doi": "10.31235/osf.io/dwn6z",
-        "title": "The End of the Age of Dualisation? A Comparative Analysis of Fifty Years of Labour Market Protection Reforms in Spain and Italy",
-        "authors": "Manuel Alvariño, Alessandro Arrigoni, Llorenç Soler Buades, Emanuele Ferragina",
-        "created": "2024-11-19",
-        "abstract": "We suggest that labour market dualisation can be part of a liberalisation process employing a two-step methodology. First, we develop an eight-fold taxonomy to classify labour market protection reforms – covering employment, unemployment and collective protection – based on how they affect (de)commodification levels for insiders and outsiders. Second, through a comparative historical analysis over fifty years (1970-2020), we examine reform trajectories in Spain and Italy, two prominent examples of labour market dualism. We reveal a process of ‘liberalisation through dualisation’ characterised by two phases: (1) a shift from a declining Fordist order to dualisation, which primarily weakened outsiders’ protection, and (2) ‘downward convergence’ of protection for insiders. Spain and Italy shared this path but differed in the timing and characteristics of the legislative process. More broadly, we offer a replicable and transparent methodology to qualitatively code policy change and its intensity.",
-        "url": "https://doi.org/10.31235/osf.io/dwn6z",
-        "subjects": "(Unspecified)"
-      },
-      {
-        "doi": "10.31235/osf.io/tx8jn",
-        "title": "AI-Augmented Cultural Sociology: Guidelines for LLM-assisted text analysis and an illustrative example",
-        "authors": "Rens Wilderom, Taylor Price, Tom Heitland",
-        "created": "2024-12-02",
-        "abstract": "The advent of large language models (LLMs) presents a promising opportunity for how we analyze text and, by extension, can study the role of culture and symbolic meanings in social life. Using an illustrative example focused on the concept of “personalized service” within Michelin-starred restaurants, this research note demonstrates how LLMs can reliably identify complex, multifaceted concepts similarly to a qualitative data analyst, but in a more scalable manner. We extend existing validation approaches, offering guidelines on the amount of manually coded data needed to evaluate LLM-generated outputs, drawing on sampling theory and a data simulation. We also discuss broader applications of LLMs in cultural sociology, such as investigations on established concepts (e.g., cultural consecration) and emerging concepts (e.g., future-oriented deliberation). This discussion underscores that AI-tools can significantly augment the empirical scope of research projects, building on rather than replacing traditional qualitative approaches. Our study ultimately advocates for an optimistic yet cautious engagement with AI-tools in social scientific inquiry, highlighting both their analytic potential and the need for ongoing reflection on their ethical implications.",
-        "url": "https://doi.org/10.31235/osf.io/tx8jn",
-        "subjects": "(Unspecified)"
-      },
-      {
-        "doi": "10.31235/osf.io/xr7hd",
-        "title": "How Ethnic Markers affect Candidate Choice: A Conjoint Experiment among Swedish-Speaking Finns",
-        "authors": "Staffan Himmelroos, Henrik Serup Christensen, Isak Vento",
-        "created": "2024-12-03",
-        "abstract": "This study examines the impact of ethnic markers on candidate choice in Finland's multi-party, personalized electoral system. Despite extensive research on ethnic voting, there is limited understanding of how ethnic voters in established democracies navigate political systems which include an ethnic minority party. Focusing on Finland, which has a successful ethno-linguistic minority party (the Swedish People's Party) and an electoral system with a personalized vote, we analyze how ethnic markers such as party affiliation, home language and candidate names influence voter decisions. Using a conjoint survey experiment conducted in May 2024 among Swedish-speaking Finnish citizens, we assessed the importance of various ethnic attributes on candidate choice. The findings reveal that while multiple ethnic markers affect candidate choice, the most significant factor is whether a candidate is nominated by an ethnic party. This research contributes to the broader understanding of ethnic voting dynamics in diverse electoral contexts.",
-        "url": "https://doi.org/10.31235/osf.io/xr7hd",
-        "subjects": "(Unspecified)"
-      },
-      {
-        "doi": "10.31235/osf.io/y3skm",
-        "title": "More than Justifications. An analysis of information needs in explanations and motivations to disable personalization.",
-        "authors": "Valeria Resendez, Kimon Kieslich, Natali Helberger, Claes de Vreese",
-        "created": "2024-12-04",
-        "abstract": "There is consensus that algorithmic news recommenders should be explainable to inform news readers of potential risks. However, debates continue over which information users need and which stakeholders should access this information. As the debate continues, researchers also call for more control over algorithmic news recommenders' systems, for example by turning off personalized recommendations. Despite this call, it is unclear the extent to which news readers will use this feature. To add nuance to the discussion, we analyzed 586 responses to two open-ended questions: I) what information needs to contribute to trustworthiness perceptions of new recommendations, and ii) whether people want the ability to turn off personalization. Our results indicate that most participants found knowing the sources of news items important for trusting a recommendation system. Additionally, more than half of the participants were inclined to disable personalization. The most common reasons to turn off personalization included concerns about bias or filter bubbles and a preference to consume generalized news. These findings suggest that news readers have different information needs for explanations when interacting with an algorithmic news recommender and that many news readers prefer to disable the usage of personalized news recommendations.",
-        "url": "https://doi.org/10.31235/osf.io/y3skm",
-        "subjects": "(Unspecified)"
-      },
-      {
-        "doi": "10.31235/osf.io/y9nvs",
-        "title": "Perceptions of common pool resource management in the Tana River, Norway: An exploratory analysis",
-        "authors": "Marius Warg Næss, Guro Lovise Hole Fisktjønmo, Bård-Jørgen Bårdsen, morten falkegård, Martin Svenning",
-        "created": "2024-12-03",
-        "abstract": "The sustainable management of common resources such as wild Atlantic salmon in the Tana River, Norway, is a significant challenge, as it involves a public goods dilemma where individual interests can conflict with collective interests. This study explores local perceptions of common pool resource management in the Tana River using vignettes characterising hypothetical rivers with declining or sustainable fish stock levels. Participants were asked about ideal catch redistribution levels, beliefs about actual contributions, and factors necessary for successful common pool resource management. An allocation game was also played to measure actual cooperation. The results show that while participants believe around 35-50% of the catch should be redistributed, they expect actual contributions to be lower at 15-30%. In the allocation game, the modal proportion that participants gave away was 0% of the stake. Participants also rated the likelihood of various outcomes if a common storage facility was introduced, with those from Karasjok having a more pessimistic outlook than those from Tana. Substantial agreement was found for monitoring, shared traditions, and co-management in both municipalities. Almost all participants indicated disagreements over river use, with tourism and specific fishing gear being the main points of contention. The study discusses the role of traditional ecological knowledge in management, highlighting the limitations of traditional ecological knowledge when designing effective conservation schemes.",
-        "url": "https://doi.org/10.31235/osf.io/y9nvs",
-        "subjects": "(Unspecified)"
-      },
-      {
-        "doi": "10.31235/osf.io/zsxdg",
-        "title": "A Semi-Automated Directory System for the UK Local News Landscape: Supporting Policy and Research",
-        "authors": "Simona Bisiani, Joe Mitchell, Agnes Gulyas, Bahareh Heravi",
-        "created": "2024-12-03",
-        "abstract": "The UK local news landscape faces significant challenges, with declines in outlets, staffing, and relevance due to market pressures, digital disruption, and media consolidation. This crisis is compounded by the lack of a comprehensive, up-to-date directory of local news outlets, hindering research and policy interventions. Existing directories are often incomplete, outdated, and fail to capture the diversity of the local media landscape. To address this, the Public Interest News Foundation (PINF) has developed a semi-automated system leveraging open-source intelligence (OSINT) and computational workflows to maintain a comprehensive and current directory of local news outlets across print, digital, radio, and television in the UK. This system tracks closures, launches, ownership changes, and geographic coverage. Notable events are flagged for manual review. This research and review pipeline, combining computational analysis with human review, significantly reduces manual labor while enhancing data accuracy. Overall, the system offers a model for future initiatives aimed at tracking the health of local news ecosystems. The implications of this system for media pluralism, policy interventions, and the sustainability of local journalism are discussed, alongside suggestions for future research.",
-        "url": "https://doi.org/10.31235/osf.io/zsxdg",
-        "subjects": "(Unspecified)"
-      },
-      {
-        "doi": "10.31235/osf.io/4nt8z",
-        "title": "Are We All Musicians Now? Authenticity, Musicianship, and AI Music Generator Suno",
-        "authors": "Selim Tan",
-        "created": "2024-12-02",
-        "abstract": "This paper analyzes the authenticity of the music and the musicianship behind Suno, an artificial intelligence (AI) music generator. The developers launched Suno’s initial release on December 20, 2023, and the latest version, v4, on November 19, 2024. Behind this digital platform are AI experts and musicians based in Cambridge, MA. Suno does not participate in conventional composing, songwriting, performing, or recording practices. Instead, it generates music based on user prompts in a text/audio/image/video-to-music interface. Suno aims to democratize music production by enabling anyone to become a “musician.” However, the absence of a conventional “real” artist or author (auteur) responsible for these music productions raises questions about how various agents will perceive the music’s authenticity. Through observations and conceptual reflections, this paper explores the possibilities of authenticating Suno’s productions, their implications for music scenes, and the potentially changing nature of musicianship. Finally, this paper argues that AI-based music can achieve authenticity without conventional musicianship, allowing for the emergence of a new, albeit contested, form of musicianship.",
-        "url": "https://doi.org/10.31235/osf.io/4nt8z",
+        "abstract": "Cette étude examine les relations entre les caractéristiques du métier de chef de projet et la réussite des projets, en privilégiant l'identification des facteurs déterminants de l'efficience, de l'efficacité et de la performance. Cette recherche mobilise des entretiens semi-directifs menés auprès de chefs de projet informatique. Les résultats mettent en évidence le rôle prépondérant de la diversité des compétences, de l'identité des tâches, de l'autonomie et du retour d'expérience dans la réussite des projets, tandis que la portée des tâches apparaît comme un facteur secondaire dans le contexte informatique orienté résultats. L'autonomie constitue un levier essentiel pour favoriser l'innovation et l'adaptabilité, tandis que le retour d'expérience structuré s'avère indispensable pour aligner les efforts sur les objectifs organisationnels. La diversité des compétences est corrélée à un engagement accru, une prise de décision stratégique plus pertinente et une gestion des risques optimisée. Cette étude apporte une nouvelle perspective sur l'organisation du travail dans l'environnement dynamique et complexe de la gestion de projet informatique, tout en proposant des préconisations concrètes pour la conception des postes de chef de projet, permettant ainsi d'optimiser la performance et la motivation des équipes. Cette recherche propose également aux décideurs des axes d'amélioration concrets pour valoriser l'organisation du travail dans le secteur informatique. Il conviendrait, dans le cadre de futures recherches, d'étendre le périmètre d'étude à différents secteurs d'activité et territoires, ainsi que de mener des études longitudinales, permettant ainsi d'approfondir notre compréhension des liens entre l'organisation des postes et la performance des projets dans des contextes diversifiés.",
+        "url": "https://doi.org/10.31235/osf.io/wx42c",
         "subjects": "(Other)",
-        "subjects_osf": "Music"
-      },
-      {
-        "doi": "10.31235/osf.io/dghka",
-        "title": "Going Above and Beyond: Procedural Justice, Wellbeing, and Organizational Citizenship Behavior Among New Prison Officers",
-        "authors": "Julia Yesberg, Liam Fenn, Elise Sargeant",
-        "created": "2024-12-03",
-        "abstract": "This study explores the relationship between procedural justice, mental wellbeing, and organizational citizenship behavior among new prison officers recruited through the Unlocked Graduates Leadership Development Programme in England and Wales. We found a direct association between supervisory procedural justice and organizational citizenship behavior, and an indirect association between organizational justice and organizational citizenship behavior, through mental wellbeing. These findings suggest that while prison officers directly reciprocate the fair treatment received by supervisors by engaging in discretionary actions benefiting the organization, fair treatment by the organization has more of an indirect effect via influencing officer wellbeing. Our results highlight the importance of both supervisors and organizations treating their staff with procedural justice; not only does fair treatment increase mental wellbeing, but it encourages behaviors that extend beyond formal job requirements. Cultivating such behaviors among new prison officers may ultimately improve practices, cultures, and outcomes for people in custody within prisons.",
-        "url": "https://doi.org/10.31235/osf.io/dghka",
-        "subjects": "(Other)",
-        "subjects_osf": "Legal Studies"
-      },
-      {
-        "doi": "10.31235/osf.io/g3zb4",
-        "title": "Visioning ecologically diverse and harmonious futures of Korea in Good Anthropocene",
-        "authors": "HyeJin Kim, Garry Peterson, Hyeonjeong Kim, Sanha Kim, Laura Pereira, Youngcheol Cho, SoEun Ahn, Paula A. Harrison, Junsoo Kim, Kyung Ah Koo",
-        "created": "2024-12-01",
-        "abstract": "Korea's rapid economic development has positioned it as a key player in Asia's economy and globally, albeit with significant environmental and societal consequences. The Demilitarized Zone (DMZ), serving as a buffer between North and South Korea, holds immense historical, cultural, and ecological value and conservation and transformation potential. This study presents visioning-based exploration of ecologically diverse and peaceful futures of the Korean peninsula with its DMZ as a potential global commons. Through a visioning workshop, stakeholders used the Nature Futures Framework and Seeds of Good Anthropocene to develop four visions that reflect diverse value and meanings of nature for sustainable and wellbeing-oriented futures. The co-developed visions emphasize the importance of harmonizing human activities with nature, envisioning the DMZ as a space for peaceful coexistence and ecological restoration. They offer citizens’ perspectives on sustainable and inclusive futures with existing initiatives as levers and inter-sectoral and inter-disciplinary collaboration as mediums. This visioning highlights the role of science-policy-society interface, diverse stakeholder engagement, integration of history and culture, and convergence of ideas across generations. This paper reflects on the lessons from this process and the implications for the future development of scenarios that can identify policy options and societal transformations to catalyse nature-positive futures in Korea and beyond.",
-        "url": "https://doi.org/10.31235/osf.io/g3zb4",
-        "subjects": "(Other)",
-        "subjects_osf": "Military, War, and Peace, International and Area Studies, Environmental Studies"
-      },
-      {
-        "doi": "10.31235/osf.io/kjtp9",
-        "title": "Wildlife Perceptions in an Urban Jungle: A Comparison between Otters, Monitor Lizards, Macaques and Pythons",
-        "authors": "Manisha Saigal, Philip JOHNS",
-        "created": "2024-11-29",
-        "abstract": "Understanding human-wildlife interactions is crucial for effective urban wildlife management and conservation. This study compared Singapore residents' perceptions and awareness of scenario-based etiquette towards four prominent urban wildlife species: smooth‐coated otters (Lutrogale perspicillata), long-tailed macaques (Macaca fascicularis), Malayan water monitor lizards (Varanus salvator) and reticulated pythons (Malayopython reticulatus). Using online surveys (n=399), we investigated how demographic factors and exposure to each species influence perceptions. Our results show significant differences in perceptions and etiquette responses towards each species. Respondents had the highest affinity towards otters, perceived greater property damage from mammals than reptiles, and feared terrestrial more than semi-aquatic species. Respondents’ age, parental status, frequency of park visits, involvement in wildlife programs and frequency of seeing each species significantly influenced perceptions, suggesting a need to engage older people and parents more to improve wildlife perceptions. Notably, the frequency of direct encounters with wildlife only explained 1% of variation in perceptions, suggesting that exposure or familiarity alone do not ensure coexistence with wildlife. Our findings emphasise the need for more public education on wildlife etiquette, especially regarding macaques. We found that wildlife education lowered perceptions of property damage but not fear, suggesting that addressing misconceptions and negative perceptions requires fostering positive emotional connections with wildlife. Our analysis highlights the interplay between urban aesthetics, cultural perceptions, wildlife education, and human and animal behaviour in shaping human-wildlife interactions. Most saliently, our study demonstrates the importance of species-specific approaches to improve relationships between humans and wildlife.",
-        "url": "https://doi.org/10.31235/osf.io/kjtp9",
-        "subjects": "(Other)",
-        "subjects_osf": "Other Social and Behavioral Sciences, Urban Studies and Planning, Environmental Studies"
-      },
-      {
-        "doi": "10.31235/osf.io/nxw26",
-        "title": "Mapping Crewed Exploration and Settlement of Outer Space: Introducing a New Database",
-        "authors": "Darshan Vigneswaran",
-        "created": "2024-12-02",
-        "abstract": "Around the world, a growing number of governments, private companies, and international organizations are actively working to establish a sustained human presence in outer space. Despite the growing importance of CES in both policy and academic debates, empirical data necessary for studying this sector remain fragmented and inconsistent. To address this gap, this article introduces the Crewed Exploration and Settlement Database. This tool is designed to enhance the empirical depth and methodological rigor of the social scientific study of crewed exploration and settlement.",
-        "url": "https://doi.org/10.31235/osf.io/nxw26",
-        "subjects": "(Other)",
-        "subjects_osf": "Geography, International and Area Studies, Science and Technology Studies"
-      },
-      {
-        "doi": "10.31235/osf.io/pf523",
-        "title": "Mitigating Hostility in Digital Journalism: Digital Hostility as Ossifier of Field Boundaries",
-        "authors": "Gregory P Perreault",
-        "created": "2024-12-03",
-        "abstract": "The rising prevalence of white nationalism necessitates an evaluation of the tactics of journalists employ to manage digital hostility. Through the lens of Bourdieu’s field theory, the present study reflects a two-step interview procedure with 31 North American journalists, followed by participant observation and long-form depth interviews with four North American audience editors. The study argues that managing hostility is rooted in the habitus of North American journalists, with audience editors in particular offering layered mitigation tactics that work like second nature. Yet this mitigation hardens field boundaries and discourages journalists from digital connection with audiences.",
-        "url": "https://doi.org/10.31235/osf.io/pf523",
-        "subjects": "(Other)",
-        "subjects_osf": "Communication"
-      },
-      {
-        "doi": "10.31235/osf.io/x8jyz",
-        "title": "EU Waste Management Challenges: A Case Study of Phaten Plastic Recycling",
-        "authors": "Giulio Santiapichi, Zelena Akcija",
-        "created": "2024-11-25",
-        "abstract": "This paper examines the dynamics of EU Environmental policy enforcement and the issue of ensuring compliance from foreign companies operating in the EU's waste management sector. The analysis will discuss the impact of China's 2017 ban on importing plastic waste for the EU, particularly looking at its implications for the EU waste management sector. The paper will suggest that China's ban ultimately dismantled the EU waste management framework, forcing it to begin treating low-quality plastics domestically. Through highlighting inconsistencies in the EU's environmental regulations, the study will suggest that the current domestic treatment of low-quality plastics in the EU has triggered instances of environmental and health damage to vulnerable local communities. The case study of Phaten Plastic recycling will underscore a critical instance of non-compliance to EU Environmental standards, yet this will serve to outline regulatory issues with ensuring that waste management companies comply with the EU’s environmental regulations. The paper will ultimately advocate for the need of a more robust EU accountability framework, in order to deter waste management companies from causing environmental damage to local environments and communities and adhere to Eu environmental standards.",
-        "url": "https://doi.org/10.31235/osf.io/x8jyz",
-        "subjects": "(Other)",
-        "subjects_osf": "European Law, Legal Studies, Environmental Studies, Public Affairs, Public Policy and Public Administration"
-      },
-      {
-        "doi": "10.31235/osf.io/z5ahj",
-        "title": "Computational Scapegoats: From Mimetic to Alienated Desire in the Production of Large Language Models",
-        "authors": "Liam Magee",
-        "created": "2024-11-30",
-        "abstract": "The prevailing paradigm for training models to perform intelligence is mimetic: the copying of human patterns to produce unsurprising or low perplexity samples of language and other media. At its limits the imitative paradigm appears destined to produce theoretical as much as practical contradictions. For example, the very desire to build an AI appears connected to human traits that seem difficult to replicate, as it stems from an organisation of subjectivity that includes a sense of lack or deficiency which, in its reproduction, would defeat certain stated purposes of AI such as the realisation of general or super intelligence. To explore such dilemmas, this article begins by exploring Girard’s idea of mimetic desire, itself philosophically influential within parts of the AI community, and how this relates to the production of an artificial subjectivity. It then switches to examine how AI is framed fetishistically – as an object upon which human desire is projected and invested. Finally, it works through theorisations of alienation, and posits an interpretation of AI as both alien and alienated as a useful conceptual alternative to the pure pursuit of human-like computational agents. The article concludes with speculation about the possibility of symbiotic pedagogy: the side-by-side juxtaposition of human and machine learning, without expectation of mimetic convergence between the two.",
-        "url": "https://doi.org/10.31235/osf.io/z5ahj",
-        "subjects": "(Other)",
-        "subjects_osf": "Philosophy, Science and Technology Studies"
+        "subjects_osf": "Leadership Studies, Organization Development"
       }
     ]
   }
