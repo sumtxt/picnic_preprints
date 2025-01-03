@@ -1,147 +1,155 @@
 {
-  "update": "2024-12-27",
+  "update": "2025-01-03",
   "content": {
     "articles": [
       {
-        "doi": "10.31235/osf.io/hdjfc",
-        "title": "Legal and constitutional reflections on the Conference on the Future of Europe",
-        "authors": "REGROUP project, Federico Fabbrini",
-        "created": "2024-12-20",
-        "abstract": "The Conference on the Future of Europe is an innovative deliberative process that European Union (EU) institutions established to reflect on the future of the EU through bottom-up engagement with the citizens. The Conference took off, with delays due to the COVID-19 pandemic, on 9 May 2021, and came to a close a year later on 9 May 2022, when the war in Ukraine was already raging. The Conference ended with a final report that laid out 49 proposals and 326 detailed recommendations for reforming EU policies and institutions. The Conference’s final outcome clearly identified the existing weaknesses of the EU and unequivocally mapped a path to address them, including by recommending treaty changes in a number of key areas related to the governance and the resilience of the EU. The follow-up to the Conference, however, has so far been underwhelming; while a number of institutions and member states have openly called for amending the treaties, other actors have dragged their feet. As a result, the reform process has stalled, and whether the prospect of enlargement may revive it remains to be seen. If the EU can mobilise the political will to change the EU treaties, however, the recommendations of the Conference can serve as a valuable blueprint for needed constitutional adjustments.",
-        "url": "https://doi.org/10.31235/osf.io/hdjfc",
+        "doi": "10.31235/osf.io/vjuah",
+        "title": "Trust in Civil Servants:A Cross-National Dataset for Public Policy Research,1986–2022",
+        "authors": "Yuehong Cassandra Tai, Frederick Solt",
+        "created": "2024-12-31",
+        "abstract": "Trust in civil servants is essential for effective governance, enabling policy implementation, public service delivery, and compliance. However, the lack of comparable cross-national data on trust in bureaucracy has limited our ability to systematically examine these relationships. To address this gap, we develop the Trust in Civil Servants (TCS) dataset using an advanced latent-variable modeling technique, using 132 national and cross-national surveys from 98 countries (1986-2022). Our measures reveal variations in trust both within and between countries. We find that economic performance and public security enhance trust in the short term, whereas government quality and effectiveness have more enduring, long-term impacts on trust in civil service. The TCS dataset opens new avenues for examining connections between trust, governance quality, and complex policy challenges across different contexts.",
+        "url": "https://doi.org/10.31235/osf.io/vjuah",
         "subjects": "Politics",
-        "subjects_osf": "Law and Politics, Political Science"
+        "subjects_osf": "Political Science"
       },
       {
-        "doi": "10.31235/osf.io/zhyjv",
-        "title": "Congressional Witnesses Matter: Proving Witness Testimony Impact Using Large Language Models",
-        "authors": "Collin Coil, Caroline L. Bruckner, Nicholas Chen, Elizabeth Keith, Karen O'Connor",
-        "created": "2024-12-20",
-        "abstract": "Inspired by anecdotal evidence of congressional witness testimony impact, we analyze a dataset of 661 testimonies from hearings between 2007 and 2017 associated with the legislative history of the Patient Protection and Affordable Care Act (PL 111-148) to demonstrate that witness testimony impacts legislative, administrative, and judicial outcomes. We analyze 76,138 pages of legislative documents, administrative guidance, and judicial proceedings, which we designate as the “Legislative History and Impact Corpus” (LHIC). We fine tune a large language model (LLM) to conduct a comprehensive search for high-semantic similarity sentence pairings or strong associations between witness testimony and outcomes. The direct references and high-similarity statements we identify prove that congressional witness testimony does impact outcomes across the legislative and judicial branches. We identify testimony from witnesses serving myriad functions impacting legislative and judicial outcomes, and these impacts were reflected irrespective of political party or role in Congress and at multiple points during judicial challenges. Additionally, we found (1) instances where witness testimony has impacts outside of the legislative process; and (2) long-term relationships between witnesses and Congress influence legislative outcomes. While our findings may be obvious to those who have ever worked on Capitol Hill or testified before Congress, these findings are not well-documented in the existing political science literature. Ours is one of the first papers to use LLMs to investigate congressional hearings, and these tools expand the potential for political textual analysis.",
-        "url": "https://doi.org/10.31235/osf.io/zhyjv",
-        "subjects": "Politics",
-        "subjects_osf": "Legislation, Political Science"
-      },
-      {
-        "doi": "10.31235/osf.io/avjue",
-        "title": "A National Model for Estimating US Public Land Visitation",
-        "authors": "Nathaniel Merrill, Samantha G. Winder, Dieta Hanson, Spencer A Wood, Eric White",
-        "created": "2024-12-19",
-        "abstract": "Public land management relies on accurate visitor counts in order to understand and mitigate environmental impacts and to quantify the value of ecosystem services provided by natural areas. We build and test predictive visitation models suitable for publicly-managed parks, open space and other protected lands based on multiple sources of digital mobility data including posts to social media, recreation report platforms, and a cellular device location dataset from a commercial vendor. Using observational visitation data series from the United States’ National Park Service, Forest Service and Fish and Wildlife Service, we quantify the accuracy of statistical models to predict on-the-ground visitation using individual and combined sources of locational data. We find the predictive models performed best in settings where some on-site visitation data can be integrated into the models. On-site visitation data helps to account for meaningful differences in modeled relationships both within and across the three agencies considered. We find variation in the usefulness of the digital mobility data sources, with models combining multiple data sources outperforming those using a single source, including those based solely on cellular device locations. We discuss the practical implications of these findings as well as paths forward to improve visitation estimation on public lands by incorporating digital mobility data.",
-        "url": "https://doi.org/10.31235/osf.io/avjue",
-        "subjects": "Economics",
-        "subjects_osf": "Geography, Agricultural and Resource Economics, Economics"
-      },
-      {
-        "doi": "10.31235/osf.io/jp3ev",
-        "title": "Project NeoWave: A Comparative Analysis of Conservatism and Gender Dynamics Impacting Women and Families in the USA and India Since 2010, with Policy Recommendations",
-        "authors": "Shivansh Gupta, Meaghan Blight",
-        "created": "2024-12-18",
-        "abstract": "This study systematically examines the impact of conservative ideologies on gender dynamics, focusing on women and families in the USA and India since 2010. By employing both qualitative and quantitative analysis, the research delves into the socio-political landscapes of both countries to identify how conservative movements, policies, and cultural norms have influenced gender roles and expectations. Data were collected through an extensive literature review and policy analysis. The research provides a detailed definition of conservatism in both India and the USA, noting its promotion of profit and output and the associated gender roles and systemic oppression. It also acknowledges that the definition of conservatism can vary based on different perspectives. The historical context of conservatism is explored, examining its evolution in India and the USA and identifying factors such as religion, post-colonialism, male dominance, economic conditions, biological perspectives, and cultural influences contributing to its popularity. The study highlights significant events and their impacts on gender equality and rights, as well as the current state of conservatism in both countries. The research investigates the theoretical framework of gender roles and expectations under conservative ideologies, presenting arguments for and against conservatism's impact on gender dynamics. In India, the focus is on the BJP's policies and their effects on women's political representation, economic opportunities, and social norms. In the USA, the analysis centres on the Republican Party's influence during the Trump administration and its implications for gender roles and societal norms. Central to the study is Project NeoWave, the fifth wave of feminism, which addresses gender minority development. The research details the emergence and characteristics of this movement, discussing the influence of radical feminism and its associated critiques. It explores new ideas such as nuanced rights for women, the concept of new domesticity, and systemic changes aimed at altering men's mindsets towards equality. A comparative analysis identifies critical similarities and differences in conservatism's economic, political, social, and cultural impacts on gender dynamics in both countries. This includes examining employment opportunities, wage gaps, political representation, societal expectations, and the influence of religion and traditional values. The research evaluates existing policies and mitigation efforts for gender and minority development, highlighting successful initiatives and proposing future recommendations. By integrating Project NeoWave’s progressive principles with conservative values, the study aims to formulate effective policies that support gender and minority development. This research advances the discourse on conservatism’s role in shaping gender dynamics, offering valuable insights for policymakers, scholars, and advocates. By establishing a comprehensive framework for understanding these dynamics, the study contributes to developing tailored strategies for fostering a more equitable society.",
-        "url": "https://doi.org/10.31235/osf.io/jp3ev",
-        "subjects": ["Economics", "Sociology"],
-        "subjects_osf": "Law and Gender, Feminist, Gender, and Sexuality Studies, Home Economics, Psychology, Economics, Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/pwm2e",
-        "title": "The GC Wealth Project Data Warehouse v.1.2 - Documentation",
-        "authors": "Salvatore Morelli, Twisha Asher, Frincasco Di Biase, Franziska Disslbacher, Ignacio Flores, Luca Giangregorio, Adam Rego Johnson, Max Longmuir, Giacomo Rella, Manuel Schechtl",
+        "doi": "10.31235/osf.io/52mzh",
+        "title": "Introduction to Evolutionary Period Theory（EPT）",
+        "authors": "姚齐源, 宋晓丽",
         "created": "2024-12-26",
-        "abstract": "The GC Wealth Project has launched an updated version of its data warehouse. Key improvements include new data concepts, refinements to the structure of existing databases, and expanded coverage of regions, countries, and time periods. Updates have been made to the sections on Wealth Topography, Wealth Inequality Trends, and Estate, Inheritance, and Gift Taxes (EIG). Furthermore, a new section dedicated to Inheritance Trends is scheduled for release in the coming months. (Stone Center on Socio-Economic Inequality Working Paper)",
-        "url": "https://doi.org/10.31235/osf.io/pwm2e",
+        "abstract": "The world is currently facing a major challenge: is there a terminal model or universal model that all countries can follow generally? Solving this difficult problem requires finding new problem-solving tools, and the Evolution Period Theory(EPT) proposed by the two authors is such an exploration. The Evolutionary Period Theory is a theory that reveals the evolution process of human economy, or two types of dissipation processes (i.e. the self dissipation and the mutual dissipation), based on improving of the theory of dissipative structure by the authors.Both of these processes need to be periodically promoted within the controliing by institutions and openness.At present, the most developed countries in the world have gone through four periods of agriculture, industry, service, and cultural, and are about to enter the network period. In this process of progress, institutions and openness themselves also undergo periodically changes. Therefore, there is no such thing as a universal model, only a universal period. As an application, this article compares and analyzes the Washington Consensus and the Beijing Consensus, reveals their common problem of attaching important that “development is the key principle“, and proposing a new approach that“ progress is the key principle” .",
+        "url": "https://doi.org/10.31235/osf.io/52mzh",
         "subjects": "Economics",
         "subjects_osf": "Economics"
       },
       {
-        "doi": "10.31235/osf.io/5jgcx",
-        "title": "Father Absence or Absent Father?: A Study of the Change of the Perceived Expectations Toward Fathers in Hong Kong",
-        "authors": "Ka Yan CHUNG, Henry Ma",
+        "doi": "10.31235/osf.io/fq4tn",
+        "title": "From Opposition to Opportunity: Enhancing the Acceptance of Carbon Taxes Through Effective Policy Design",
+        "authors": "Hamid Bulut, Robin\tSamuel",
+        "created": "2024-12-30",
+        "abstract": "An increasing number of countries are considering implementing domestic carbon taxes to achieve the carbon-reduction targets set in the Paris Agreement. However, introducing such taxes presents significant challenges for policymakers worldwide. Despite their effectiveness, carbon taxes remain the least popular policy instrument. Furthermore, few studies focus on public support for carbon taxation in low- and middle-income countries, a crucial area of research given the global significance of their emissions. Therefore, we conducted a pre-registered full factorial survey experiment involving more than 13,000 evaluations of policy designs in China, Germany, India, and the UK to address the most prevalent barriers to the popularity of carbon taxes, as discussed in academic research, policy analysis, and public discourse: perceived effectiveness, average household costs, the types of revenue recycling schemes implemented, and the extent of international cooperation. Our findings revealed striking differences in how the countries responded to carbon tax policies. The key findings included the following: cost transparency unexpectedly reduced support, whereas communicating the effectiveness of the policy increased it; preferences for revenue recycling schemes varied significantly across the four countries, highlighting the need for tailored approaches; and, surprisingly, international cooperation increased support only in Germany, challenging assumptions about global climate policy. These findings have profound implications for policymakers, suggesting that an effective carbon tax design must be carefully calibrated in the national context. This study provides a roadmap for designing carbon tax policies that are environmentally effective and politically viable for diverse global economies.",
+        "url": "https://doi.org/10.31235/osf.io/fq4tn",
+        "subjects": ["Economics", "Sociology"],
+        "subjects_osf": "Environmental Studies, Economics, Sociology"
+      },
+      {
+        "doi": "10.31235/osf.io/nftv3",
+        "title": "Patenting Propensity in Italy: A Machine Learning Approach to Regional Clustering",
+        "authors": "Angelo Leogrande, Carlo Drago, Giulio Mallardi, Alberto Costantiello, Nicola Magaletti",
         "created": "2024-12-23",
-        "abstract": "This study explores the perceived expectations towards fathers in Hong Kong, focusing on understanding the changes in these expectations, examining the possible impacts of the changed expectation, and exploring the contributing factors of those changed expectations. As society and family structures evolve, so do the roles of fathers, leading to changes in perceived expectations. The concept of “Absent Father” demonstrates that the emotional dissatisfaction of children is a significant factor in Father Absence. The study highlights the importance of addressing both the physical and mental aspects of father involvement. Further research is needed to better understand the impact of this issue on Hong Kong families and to develop effective strategies to support the development of positive and healthy father figures.",
-        "url": "https://doi.org/10.31235/osf.io/5jgcx",
+        "abstract": "This article focuses on the propensity to patent across Italian regions, considering data from ISTAT-BES between 2004 and 2019 to contribute to analyzing regional gaps and determinants of innovative performances. Results show how the North-South gap in innovative performance has persisted over time, confirming the relevance of research intensity, digital infrastructure, and cultural employment on patenting activity. These relations have been analyzed using the panel data econometric model. It allows singling out crucial positive drivers like R&amp;D investment or strongly negative factors, such as limited mobility of graduates. More precisely, given the novelty of approaches applied in the used model, the following contributions are represented: first, the fine grain of regional differentiation, from which the sub-national innovation system will be observed. It also puts forward a set of actionable policy recommendations that would contribute to more substantial inclusive innovation, particularly emphasizing less-performing regions. By focusing on such dynamics, this study will indirectly address how regional characteristics and policies shape innovation and technological competitiveness in Italy. Therefore, it contributes to the debate on regional systems of innovation and their possible role in economic development in Europe since the economic, institutional, and technological conditions are differentiated between various areas in Italy.",
+        "url": "https://doi.org/10.31235/osf.io/nftv3",
+        "subjects": "Economics",
+        "subjects_osf": "Economics"
+      },
+      {
+        "doi": "10.31235/osf.io/pe9tm",
+        "title": "Current Economic Trends and Inflationary Pressures in Bangladesh",
+        "authors": "Md Monzur Morshed",
+        "created": "2024-12-28",
+        "abstract": "Bangladesh is a developing country with a population of over 160 million people and a GDP of $437.42 billion USD (2023). The country is reeling from inflation that is forecast to be about 9-10% this year. The increase stems mainly from global disruptions, dependence on imports and a weakening currency. Although the government has endeavored to contain inflation with more restrictive monetary policies and subsidies, these are not inclusive due to budget constraints and slow growth of the economy. Structural reforms are also required to promote local production as opposed to relying on imports. If global circumstances improve, inflation may fall back to something similar to 5-6%. A well-coordinated strategy is key to managing inflation, fostering growth, and ensuring long-term stability.",
+        "url": "https://doi.org/10.31235/osf.io/pe9tm",
+        "subjects": "Economics",
+        "subjects_osf": "Economics"
+      },
+      {
+        "doi": "10.31235/osf.io/8aym6",
+        "title": "NEET persistence: Analysis of heterogeneity in the state dependence of the NEET situation",
+        "authors": "INVEST Flagship, Outi Sirniö, Laura Jernström, Niko Eskelinen, Timo Kauppinen",
+        "created": "2024-12-30",
+        "abstract": "The vulnerable status of young people and their inadequate integration during entry into the labor market has been shown to increase the risk of several unfavorable outcomes in adulthood. In this study, we provide a longitudinal perspective to the labor market integration of young people by analyzing the dynamics of being a young Not in Employment, Education or Training (NEET). We focus on entry to and persistence of the NEET situation across time, namely genuine state dependence, by using correlated dynamic random-effects logit models to study the effect of the past on the current NEET situation. We analyze longitudinal individual-level data covering the full population living in Finland with a follow-up from age 18 till age 29 from 1995 till 2020. Our findings suggest clear state dependence in the NEET situation: being NEET in the previous year is associated with almost a 3-percentage-point increase in the probability of being NEET in the current year. We find that the state dependence of the NEET situation is moderately elevated for males and for those with lower parental educational attainment and considerably elevated for those with foreign origin or history of mental health issues or with child protection services.",
+        "url": "https://doi.org/10.31235/osf.io/8aym6",
         "subjects": "Sociology",
         "subjects_osf": "Sociology"
       },
       {
-        "doi": "10.31235/osf.io/62mvg",
-        "title": "Name uniqueness and the rise of individualism in Imperial China (540-1880 CE)",
-        "authors": "Zhaolun Fan, Valentin Thouzeau, Ying Zhong, Coralie Chevallier, Nicolas Baumard",
-        "created": "2024-12-22",
-        "abstract": "Individualism, characterized by autonomy, independence and self-expression is typically seen as a modern and Western phenomenon. Cultural historians, however, have pointed out that its roots extend much further into the past. In this paper, we delve deeper in time to quantify the rise of individualism in history. Using data from the China Biographical Database (CBDB, N = 641,568) spanning 1,500 years of Chinese history (540-1880 CE), we observe a long-term increase in name uniqueness, a common proxy for individualism. Our analysis reveals that this general increase parallels the economic development and modernization of China throughout the Imperial period. Consistent with this, the economically advanced Yangtze River Delta exhibits consistently higher levels of name uniqueness compared to less developed regions. Finally, we observe a decline in name uniqueness during the late Qing dynasty, coinciding with a period of economic crisis. These results suggest that the rise of individualism is tied to economic development and modernization, transcending cultural and geographic boundaries. Our findings contribute to a more nuanced understanding of cultural evolution in China and challenge long-held assumptions about the immutability of Chinese culture. This research provides new insights into the complex relationship between economic development, cultural change, and the emergence of individualistic values in non-Western contexts.",
-        "url": "https://doi.org/10.31235/osf.io/62mvg",
+        "doi": "10.31235/osf.io/phuqt",
+        "title": "What do LLMs remember? A linguistic-sociological framework for studying and using language technology",
+        "authors": "Haley Lepp, AJ Alvero",
+        "created": "2024-12-31",
+        "abstract": "Language technologies, especially those related to AI and machine learning, have grown increasingly popular as objects and methods of study for sociologists. We contend that to understand these objects and their place in our social world, we must attend to a linguistic sociology. In the context of large language models, for example, language -text, specifically- acts as both the input and output interface between person and machine. Yet text is itself a language technology, and carries with it affordances and constraints that remember long histories of social relations. Quilting together literature from sociology, computational linguistics, science and technology studies, and linguistic anthropology, we ask: what do language technologies remember, and how can sociologists take these memories into account? To answer this question, we offer a three-part analytical framework to examine how the memories of language technologies are both constructed by and constructing our social world. Drawing on two examples of use of language technologies in college admissions and in scientific peer review, we apply our framework to demonstrate how language technologies can mediate social actions, processes, and relations.",
+        "url": "https://doi.org/10.31235/osf.io/phuqt",
         "subjects": "Sociology",
-        "subjects_osf": "Psychology, Anthropology, Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/c9dpk",
-        "title": "Too Many Tools? The Consequences of Cultural Repertoire Diversity among Expectant Mothers",
-        "authors": "Sarah Garrett",
-        "created": "2024-12-20",
-        "abstract": "Many components of cultural repertoire theory have proven difficult to operationalize. This has hindered research on the effects of individual cultural resources and about the accuracy of repertoire theory’s key premises. This paper draws on original longitudinal survey data to investigate the effects of cultural repertoire diversity on individual wellbeing. Using a novel measure of the variety of interpretive frames known by expectant mothers, I find that women with more diverse cultural repertoires experience worse postpartum wellbeing than do their counterparts, controlling for relevant covariates. This contradicts hypotheses derived from repertoire theory. Accompanying qualitative data suggest that uncertainty-based anxiety and distress underlie the effect and reveal new insights about the social context of repertoire development. This paper overcomes a long-standing barrier to understanding how culture affects social life, identifies a previously unrecognized socio-cultural influence on postpartum wellbeing, and suggests new directions for the study of culture.",
-        "url": "https://doi.org/10.31235/osf.io/c9dpk",
-        "subjects": "Sociology",
-        "subjects_osf": "Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/rcny3",
-        "title": "Divergent Decision-Making in Context: Neighborhood Context Shapes Effects of Physical Disorder and Spatial Knowledge on Burglars’ Location Choice",
-        "authors": "Liang Cai, Guangwen Song, Yanji Zhang",
-        "created": "2024-12-22",
-        "abstract": "Objectives Although the social disorganization tradition emphasizes the role of neighborhood context in shaping delinquent behaviors and neighborhood crime, researchers have rarely considered the influence of neighborhood context on criminals’ decision of where to offend. This study explicitly examines how concentrated disadvantage in both the origin and destination neighborhoods structures burglars’ preference for street physical disorder and spatial familiarity. Methods We measure observed and perceived physical disorder from 107,858 street view images using computer vision algorithms. Geo-referenced mobile phone flows between 1,642 census units are used to approximate offenders’ potential spatial knowledge about target neighborhoods. Discrete choice models are estimated separately for burglars from disadvantaged and non-disadvantaged neighborhoods (N=1,972). Results While burglars residing in non-disadvantaged neighborhoods are not sensitive to physical disorder in non-disadvantaged target neighborhoods, they strongly avoid disadvantaged neighborhoods with disorder. Conversely, residents of neighborhoods with concentrated disadvantage swiftly act upon street disorder in better-off neighborhoods but not in disadvantaged neighborhoods. These tendencies to react to the presence of physical disorder on the street are also contingent on burglars’ potential familiarity with the target environment. Conclusions We highlight the importance of larger neighborhood structural characteristics and their interactions with spatial knowledge and environmental conditions such as visual signs of disorder, in criminal decision making. Physical disorder is not uniformly indicative of decay across neighborhoods and offenders. This divergent decision-making may also partially explain spatial heterogeneity of crime. Moreover, spatial knowledge is most effective in triggering or deterring actions in places that are categorically different from offenders’ residential spaces.",
-        "url": "https://doi.org/10.31235/osf.io/rcny3",
-        "subjects": "Sociology",
-        "subjects_osf": "Geography, Urban Studies and Planning, Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/tvp8b",
-        "title": "Conditional Risks, Contextual Rewards: Spatial inequality and job search time at labour market entry",
-        "authors": "Katy Morris",
-        "created": "2024-12-20",
-        "abstract": "While there is a strong educational gradient to the risk of experiencing long periods of unemployment and insecurity at the beginning of the career, recent evidence suggests local labour market circumstances can moderate the degree of risk associated with low educational achievement. We test the wider applicability of this finding by exploring the effect of spatial variation in labour demand on initial job search time in the contrasting institutional settings of Germany and the United Kingdom. Survival analysis of Understanding Society and Socio-Economic Panel data 1998–2015 shows this form of spatial inequality moderates the size of the job search time penalty associated with low educational attainment (and the size of the returns associated with higher attainment) in a similar way in both countries. Young people in places of high labour demand in Germany and the UK obtain employment with relative ease irrespective of the qualifications they hold. However, educational attainment assumes greater consequence as local labour demand declines. On average, low qualified young people in places of weak demand experience 2-3 month longer periods of labour market lockout and 8-10 month longer periods of labour market insecurity than peers located in places of strong demand, and considerably longer periods of lockout and insecurity than their better qualified peers in the same weak labour markets. These findings draw attention to the contextual nature of the risks associated with low educational attainment and the rewards to higher levels of attainment, at least in terms of job search time.",
-        "url": "https://doi.org/10.31235/osf.io/tvp8b",
-        "subjects": "Sociology",
-        "subjects_osf": "Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/um6tz",
-        "title": "Experts’ discourses of children in the context of datafication of education",
-        "authors": "Pekka Mertala, Janne Fagerlund, Lauri Palsa",
-        "created": "2024-12-20",
-        "abstract": "This study investigates expert discourses on children in the context of the datafication of education in Finland. Drawing on interviews with 25 experts from education policy, educational technology, and data justice sectors, the present research identifies four key discourses: the “agentic child” as an active participant in data practices; the “juridical child” requiring protection under data laws; the “citizen-child” prepared for future societal roles through data literacy; and the “learning child” benefiting from personalized, data-driven pedagogy. These discourses reveal a complex, multifaceted conceptualization of children, shaped by ethical, legal, and pedagogical considerations, highlighting the interplay between childhood agency, rights, and education in a data-driven society.",
-        "url": "https://doi.org/10.31235/osf.io/um6tz",
-        "subjects": "Sociology",
-        "subjects_osf": "Educational Administration and Supervision, Linguistics, Communication, Sociology"
-      },
-      {
-        "doi": "10.31235/osf.io/zha8f",
-        "title": "Unearthing the Sociology of Urban Gardening: The Social and Political Life of the German “Schrebergarten”",
-        "authors": "Sinisa Hadziabdic, Sebastian Kohl",
-        "created": "2024-12-20",
-        "abstract": "As environmental awareness grows and global supply chains become increasingly fragile, urban gardening has seen a surge in public demand. While allotments as a horticultural source of individual well-being have been widely studied in social psychology, their significance for societal cohesion has not yet been sociologically theorized and empirically investigated. Focusing on Germany, a country with a long tradition of urban allotments commonly known as “Schrebergarten,” we conceptualize urban gardens as multifaceted social units characterized by both material and associational dynamics. Since becoming institutionalized by 19th-century conservative social reformers, they have been conceived as loci of family retreat, depoliticization in quasi-homeownership, private insurance against food price inflation, and embourgeoisement of the working classes. Drawing on unique panel data (1990-2013), we challenge the petty bourgeois image of the Schrebergarten, showing that it brings together heterogeneous strata of educated left-wing citizens with ecological concerns, particularly in urban areas and East Germany, with no evidence of political embourgeoisement. If anything, the Schrebergarten increases secular social and political engagement beyond family life, facilitating social integration, especially for foreign citizens. Overall, the Schrebergarten disappoints most of the socio-political expectations classically ascribed to it and should rather be considered as a site of socialization and politicization.",
-        "url": "https://doi.org/10.31235/osf.io/zha8f",
-        "subjects": "Sociology",
-        "subjects_osf": "Sociology"
+        "subjects_osf": "Science and Technology Studies, Linguistics, Sociology"
       }
     ],
     "articles_hidden": [
       {
-        "doi": "10.31235/osf.io/ve4um",
-        "title": "How does pseudoscience differ from science? A pair-wise bibliometric analysis",
-        "authors": "José Luis Ortega",
-        "created": "2024-12-20",
-        "abstract": "This study aims to observe what differences there are between pseudoscientific and scientific disciplines according to different bibliometric parameters such as citation, funding acknowledgments, composition of journals’ editorial boards, authorship, integrity, and social impact. An experimental model has been designed to pairwise compare the performance of three pseudoscientific communities as treatment groups (Chiropractics, Psychoanalysis and Integrative medicine) against a control group of three similar scientific fields (Physical therapy, Clinical psychology and General medicine). 83k articles from scholarly journals associated with these disciplines were extracted from Scopus. To avoid a size factor, journals from each pairwise group (control vs. treatment) were selected with similar impact measures (i.e., CiteScore). The findings reveal that pseudosciences tend to be more isolated and more resistant to external ideas and contributors. There is a geographical/cultural pattern in the distribution of authors and organization types. Whereas Chiropractics and Psychoanalysis are Western disciplines, Integrative medicine is strongly supported by Asian governments (China, India, South Korea). In all the cases, there is an important presence of non-scholarly entities involved in pseudoscientific studies, in front of a great presence of governmental and university actors in scientific disciplines.",
-        "url": "https://doi.org/10.31235/osf.io/ve4um",
+        "doi": "10.31235/osf.io/8sj6k",
+        "title": "Employment, non-employment and health",
+        "authors": "Melanie J Bartley",
+        "created": "2024-12-28",
+        "abstract": "The 1980s and 1990s were a period of improving life expectancy in the population of Great Britain, combined with a sharp increase in the proportion of men who were economically inactive due to ill-health. In order to address this apparent contradiction, this paper examines a series of health measures in two independent, stratified random samples of men aged 20-59, taken from cross-sectional population surveys of England in 1984 and 2001. It compares, in each year, levels of health according to these measures amongst the employed with those in the unemployed and permanently sick. It finds that for many conditions there was a particularly large improvement among men who were economically inactive and unemployed, greater than that in the employed. By 2001, health in unemployed men in several respects was superior to that of the employed. The results are discussed in terms of their relevance to understanding some paradoxes in the British labour market in the early 1980s, such as the relationship between unemployment and wage inflation.",
+        "url": "https://doi.org/10.31235/osf.io/8sj6k",
         "subjects": "(Unspecified)"
       },
       {
-        "doi": "10.31235/osf.io/hk63c",
-        "title": "Emerging Researchers Network (ERN) of the University of Copenhagen School of Archaeology",
-        "authors": "Mikkel Nørtoft, Zandra Fagernäs, Asta Salicath Halvorsen, Miren Iraeta-Orbegozo, Tuuli Kasso, Liam Thomas Lanigan, Aurore Monnereau, Margaréta Hanna Pintér, Laura C. Viñas-Caron",
-        "created": "2024-12-19",
-        "abstract": "The Emerging Researchers Network (ERN) was established in 2023 as an extension of the University of Copenhagen's School of Archaeology (SoA), which aims to break down structural barriers between faculties, including the Faculties of Humanities, Health and Medical Sciences, and Theology, and actively promote interdisciplinarity. In this context, ERN aims to foster collaboration among early-career researchers (ECRs) across the university's different faculties and departments. Its key objectives include creating an open and supportive community for predoctoral, PhD, and postdoctoral researchers; facilitating networking and collaboration; and increasing the impact of archaeological research through outreach activities. ERN, like SoA, seeks to raise the visibility of archaeological research at UCPH and contribute to the future of the field by making it more inclusive and dynamic.",
-        "url": "https://doi.org/10.31235/osf.io/hk63c",
+        "doi": "10.31235/osf.io/t57z3",
+        "title": "Human Energy: A metascience for evolutionary flourishing",
+        "authors": "Michael Jacob",
+        "created": "2024-12-30",
+        "abstract": "What enables humanity to flourish? Surely, it is more than our biological survival as individuals, or even as a species. As a modern science, biology does not typically address the social, ethical and religious dimensions of human flourishing. Here I propose a transdisciplinary scientific framework for flourishing, rooted in evolvability: the capacity to increase the probability of an evolutionary outcome. I define human energy as a fuel for our evolvability as a species, reflecting a natural extension of biological processes that utilize dynamically structured, latent energy to anticipate the future. These processes of creative energy leverage serendipitous interactions within biochemical, neural, and social networks to constellate innovative pathways. As a result of this creative energy, organisms are more than literally “alive” (surviving) but are “meta-alive,” (flourishing and evolvable). Nonetheless, purely biological descriptions and investigations are insufficient to describe, let alone explain flourishing at the level of humanity. Humans imagine the future. We are nourished not only from metabolism, but through the energy of the arts, literature, and religion (the humanities). Mirroring prior major evolutionary transitions, human energy enables transcendence: moving from the biology of the individual to novel forms at a collective level. Human energy manifests this through imagination, compassion and what the poet Keats’ called, negative capability, a radical stance of not-knowing. Making sense of these energetic transitions requires a new metascience, a transdisciplinary bridge between the biological sciences and the humanities.",
+        "url": "https://doi.org/10.31235/osf.io/t57z3",
+        "subjects": "(Unspecified)"
+      },
+      {
+        "doi": "10.31235/osf.io/x3k2f",
+        "title": "A Social Science Analysis of Health Policies, Treatment Barriers, and Community Engagement of HIV/AIDS",
+        "authors": "William Wang",
+        "created": "2024-12-23",
+        "abstract": "This research explores the enduring global health challenges posed by HIV (Human Immunodeficiency Virus) and its progression to AIDS (Acquired Immunodeficiency Syndrome). It provides an in-depth review of the epidemiology, pathogenesis, treatment, prevention strategies, psychosocial impacts, health policies, and persistent barriers associated with the HIV/AIDS epidemic. The study examines global prevalence and incidence patterns, with a focus on the disproportionate impact in sub-Saharan Africa and key demographics such as men who have sex with men (MSM), intravenous drug users (IDUs), and marginalized youth. It highlights gender and age-specific prevalence disparities and discusses how these intersect with socio-behavioral determinants of health. Mechanisms of HIV infection are analyzed, detailing how the virus depletes CD4 T-cells, leading to immune system compromise. Modes of transmission, including sexual contact, vertical transmission, and blood exposure, are evaluated alongside risk-enhancing factors such as substance use and insufficient awareness. Advances in treatment are a key focus, with antiretroviral therapy (ART) highlighted as the cornerstone of HIV management. The potential of emerging therapies, such as long-acting injectables and gene-editing technologies, is discussed in the context of achieving functional cures. Challenges to treatment adherence and access are critically examined. Prevention strategies are explored through a dual lens: behavioral interventions like condom use and sexual health education, and biomedical measures including pre-exposure prophylaxis (PrEP) and post-exposure prophylaxis (PEP). Structural interventions and policy initiatives addressing social determinants of health are assessed, emphasizing the role of community-based programs in reducing transmission and improving outcomes. The psychosocial dimensions of HIV/AIDS are analyzed, with particular attention to stigma, discrimination, and their impacts on mental health and treatment compliance. The importance of support networks and community engagement in fostering resilience and adherence is underscored. Finally, the paper evaluates national and international policy responses, detailing the contributions of organizations such as WHO and UNAIDS. Persistent challenges, including healthcare disparities, drug resistance, and gaps in research, are addressed, alongside calls for culturally sensitive, equitable care approaches and sustained funding. This research synthesizes current knowledge, identifies critical gaps, and outlines future directions to enhance prevention, treatment, and policy frameworks, ultimately aiming to improve outcomes for individuals and communities affected by HIV/AIDS.",
+        "url": "https://doi.org/10.31235/osf.io/x3k2f",
+        "subjects": "(Unspecified)"
+      },
+      {
+        "doi": "10.31235/osf.io/4u2z7",
+        "title": "Do News Audiences Appreciate Details about a Study’s Preprint Status? Message Perceptions and Amount of Detail Matter",
+        "authors": "Chelsea L. Ratcliff, Alice Fleerackers, Rebekah Wicke, Andy J. King, Jakob D. Jensen",
+        "created": "2024-12-30",
+        "abstract": "This study examined whether disclosing a study’s preprint status in a news report affects audience perceptions and behavioural intensions. In an online experiment, 433 US adults read a news report describing research as a “preprint”—along with either a brief or expanded explanation—or as simply a “study.” For those who perceived the disclosure, even the brief description enhanced perceived credibility of the journalism, which in turn positively affected behavioral intentions. These effects were enhanced for the expanded description. Perceiving the science as uncertain negatively mediated the effect of preprint disclosure, but only among Republicans.",
+        "url": "https://doi.org/10.31235/osf.io/4u2z7",
         "subjects": "(Other)",
-        "subjects_osf": "Other Arts and Humanities, Digital Humanities, Art and Design, Higher Education, Animal Studies, Anthropology"
+        "subjects_osf": "Communication"
+      },
+      {
+        "doi": "10.31235/osf.io/d6p5z",
+        "title": "Understanding factors that impact vehicle travel times on urban road networks using machine learning approaches",
+        "authors": "Guimin Zhu, Kathleen Stewart, Peiqi Zhang",
+        "created": "2024-12-31",
+        "abstract": "While travelers may have the same origin and destination for their trips, these trips may be associated with different travel times. Understanding what factors contribute to different travel times contributes to better transportation planning and driver experience improvement. Big mobile device data offers new opportunities to understand travelers’ driving behaviors by providing high-resolution trip trajectory data. In this study we analyzed factors including driver behaviors, built environment and road characteristics, and external factors (e.g., traffic incidents and weather), for their contributions to travel times for two different travel contexts, commuting in an urban environment and rural trips involving a vacation destination, using machine learning approaches including time-series clustering and Random Forest regression models. We found that specific driver route choices (i.e., the different routes that drivers followed including the use of highways or local roads), and individualized travel speed behaviors including speeding contributed to variations in travel times. Vehicle profiles (i.e., types of vehicle drivers used) and road incidents had different impacts for different trip contexts. These results are useful for urban and transportation planners seeking mitigations that reduce travel time along heavily traveled driving routes and contribute to determining more accurate travel time predictions.",
+        "url": "https://doi.org/10.31235/osf.io/d6p5z",
+        "subjects": "(Other)",
+        "subjects_osf": "Geography"
+      },
+      {
+        "doi": "10.31235/osf.io/ft6c7",
+        "title": "A case history and geography of chronic pain and paraesthesia: reflections on the co-production of functional neurological symptoms",
+        "authors": "Gail Davies",
+        "created": "2024-12-26",
+        "abstract": "Many medical appointments involve encounters with patients who report physical symptoms, including experiences of pain or altered sensations (paraesthesia), where health professionals cannot generate an explanation based on scans, blood tests, or other currently privileged forms of medical evidence. In these cases, the personal interruptions of illness are not easily resolved through the narrative of investigation followed by treatment. Other things are created in this absence, including patient anxiety and medical uncertainty, even patient isolation and health professional avoidance, which exacerbate the impact of symptoms. This paper recounts my own experience of receiving a negative scan for cauda equina syndrome and my subsequent search for a meaningful account of what was happening to my body. I use autoethnography to illustrate how these ‘medically unexplained’ symptoms were reinterpreted by health professionals and myself through different forms of encounter, evidence, and explanation, in ways that shifted interpretations and bodily sensations, but offered limited ideas for recovery. The account is personal, in the details of navigating the UK health services with ‘medically unexplained’ symptoms during an ongoing pandemic, and the way I found conversations around functional neurological symptoms helpful for making sense of corporeal experience. Concluding, I reflect on the importance of listening responsively to patient stories in the case of ‘medically unexplained’ or functional symptoms. Generating the possibility for patient participation in the co-production of health and care in this area is challenging but critically important given the close intersection between medical expectations, cultural assumptions, and patient experiences of ‘medically unexplained’ symptoms.",
+        "url": "https://doi.org/10.31235/osf.io/ft6c7",
+        "subjects": "(Other)",
+        "subjects_osf": "Health and Physical Education, Geography, Communication"
+      },
+      {
+        "doi": "10.31235/osf.io/xke8f",
+        "title": "Indus Valley Tamil Scripts",
+        "authors": "Chakravarthy Mathiazhagan",
+        "created": "2024-12-26",
+        "abstract": "An introduction to the ancient logosyllabic Indus Valley Tamil Scripts! This detailed book gives the correct decipherment of the Indus Valley Scripts, with hundreds of examples of seals and many tables of deciphered signs. You will be able to decipher and read hundreds of Indus seals in Tamil after reading this book. There is a dictionary of Indus signs with detailed explanations. The Indus language is ancient Tamil, and the deciphered words are given in Tamil. So, some working knowledge in Tamil is necessary to understand the contents of the seals. More details can be found on the Facebook page for this work at: www.fb.com/ivscripts. This is a free PDF copy of the book published through Notion Press, India.",
+        "url": "https://doi.org/10.31235/osf.io/xke8f",
+        "subjects": "(Other)",
+        "subjects_osf": "History, History of Art, Architecture, and Archaeology, Linguistics"
+      },
+      {
+        "doi": "10.31235/osf.io/xwr9q",
+        "title": "Alternative pathways to Social Work licensure: A critical review and social equity policy analysis",
+        "authors": "Jen Hirsch, Matthew DeCarlo, Alexandria Lewis, Cassandra Walker",
+        "created": "2024-12-30",
+        "abstract": "Purpose In August 2022, the Association of Social Work Boards released a long called for pass rate analysis that revealed significant disparities. While many states look to cease the requirement of the Bachelors, Masters, and Advanced Generalist exams in their licensure process, status quo bias leads to hesitancy to remove the requirement of the Clinical exam. Method A critical review was undertaken to identify possible alternatives to the current multiple-choice competency-based exam which yielded three assessment formats (oral exams, portfolios, and performance assessment/simulations) and two alternatives (jurisprudence exams and provisional licensure). Informed by an Afrocentric lens, we undertook a social and racial policy analysis to examine alternative pathways for licensure from the perspective of a social work board member. We centered our analysis on the impacts on (1) Black social workers, who currently have the highest pass-rate disparities; (2) social workers whose primary language is not English, and (3) social workers with disabilities who have anecdotally reported difficulty with getting testing accommodations. We rated each alternative on four social equity analysis criteria of procedural fairness, access, quality, and outcomes. These ratings were computed into an overall rating for each alternative from equitable to inequitable. Results We found jurisprudence exams and provisional licensure have the best possibility of being equitable pathways to licensure, with potential impacts on the regulation of supervision and continuing education. Conclusion Anti-racism and social justice as praxis require social work as a profession to divest from competency-based testing to eliminate racism in our own professional policies.",
+        "url": "https://doi.org/10.31235/osf.io/xwr9q",
+        "subjects": "(Other)",
+        "subjects_osf": "Social Work"
       }
     ]
   }
