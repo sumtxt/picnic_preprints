@@ -6,6 +6,8 @@ source("fun.R")
 now <- Sys.time()
 dates <- as.character(seq(as.Date(now) - 7, as.Date(now) - 1, by="days"))
 
+past_ids <- read.csv("./memory/osf_ids.csv")
+
 # Crawl OSF 
 out <- list()
 for(date in dates){
@@ -20,9 +22,19 @@ for(date in dates){
     }
 
 out <- do.call(rbind, out)
-
-# Remove past papers
 if(is.null(out)) quit(save="no")
+
+# Code ID/Version
+out$id_version <- basename(out$url)
+out$version <- as.integer(sub(".*_v([0-9]+)$", "\\1", out$id_version))
+out$id <- sub("_v[0-9]+$", "", out$id_version)
+out$id_version <- NULL 
+
+# If multiple versions, keep the latest
+out <- out[ave(out$version, out$id, FUN=function(x) x == max(x)) == TRUE, ]
+
+# Remove past paers
+out <- out[!(out$id %in% past_ids$id), ]
 
 # Cleanup data
 out$abstract <- strip_whitespace(out$abstract)
@@ -79,7 +91,7 @@ out_json <- render_json(out, date=as.Date(now))
 write(out_json, paste0("./output/osf.json"))
 
 # Update past urls
-write.table(out[,"url"], 
+write.table(out[,"id"], 
     file=paste0("./memory/osf_urls.csv"), 
     na="", 
     sep=";", 
