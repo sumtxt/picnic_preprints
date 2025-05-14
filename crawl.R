@@ -33,7 +33,7 @@ out$id_version <- NULL
 # If multiple versions, keep the latest
 out <- out[ave(out$version, out$id, FUN=function(x) x == max(x)) == TRUE, ]
 
-# Remove past paers
+# Remove past papers
 out <- out[!(out$id %in% past_ids$id), ]
 
 # Cleanup data
@@ -92,7 +92,7 @@ write(out_json, paste0("./output/osf.json"))
 
 # Update past urls
 write.table(out[,"id"], 
-    file=paste0("./memory/osf_urls.csv"), 
+    file=paste0("./memory/osf_ids.csv"), 
     na="", 
     sep=";", 
     append=TRUE, 
