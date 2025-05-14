@@ -74,6 +74,9 @@ out <- rbind(out[politics_flag, ],
         out[!politics_flag & !economics_flag & !sociology_flag & unspecified_flag, ], 
         out[!politics_flag & !economics_flag & !sociology_flag & !unspecified_flag, ])
 
+# Remove duplicates
+out <- remove_duplicates(out)
+
 # Output JSON
 out_json <- render_json(out, date=as.Date(now)) 
 write(out_json, paste0("./output/osf.json"))

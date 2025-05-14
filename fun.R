@@ -78,6 +78,19 @@ flag_in_list <- function(lst, flag){
     unlist(lapply(lst, function(x) sum(x %in% flag)>0 ))
     }
 
+# Remove duplicates
+remove_duplicates <- function(df="out") {
+    df$version <- as.numeric(gsub(".*v", "", df$doi))
+    
+    # subjects is not needed but it's a list-column and causes issues with ordering
+    group_cols <- setdiff(names(df), c("doi", "url", "created", "subjects", "version"))
+    
+    df_ordered <- df[do.call(order, c(df[group_cols], list(-df$version))), ]
+    df_filtered <- df_ordered[!duplicated(df_ordered[group_cols]), ]
+    df_filtered <- df_filtered[, !names(df_filtered) %in% "version"]
+
+    return(df_filtered)
+}
 
 # Crossref 
 
