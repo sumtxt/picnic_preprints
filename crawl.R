@@ -34,7 +34,7 @@ out$id_version <- NULL
 out <- out[ave(out$version, out$id, FUN=function(x) x == max(x)) == TRUE, ]
 
 # Remove past papers
-out <- out[!(out$id %in% past_ids$id), ]
+# out <- out[!(out$id %in% past_ids$id), ]
 
 # Cleanup data
 out$abstract <- strip_whitespace(out$abstract)
@@ -49,16 +49,15 @@ out_subjects$subjects_osf[out_subjects$subjects_osf==""] <- NA
 out$subjects <- ifelse(out$subjects=="", 
     "(Unspecified)", 
     out$subjects)
-out$subjects <- ifelse(out$subjects=="Political Science", 
-    "Politics",
-    out$subjects)
 
 out$subjects <- ifelse(out$subjects %in% 
-    c("Politics", "Economics", "Sociology", "(Unspecified)"), 
+    c("Political Science", "Public Affairs, Public Policy and Public Administration", 
+        "Economics", "Sociology", "(Unspecified)"), 
     out$subjects, 
     "(Other)")
 
-out$subjects <- factor(out$subjects, levels=c("Politics", "Economics", 
+out$subjects <- factor(out$subjects, levels=c("Political Science", 
+    "Public Affairs, Public Policy and Public Administration", "Economics", 
     "Sociology", "(Other)", "(Unspecified)"))
 
 # Collapse 
@@ -74,7 +73,7 @@ out <- merge(out, out_subjects, by="doi")
 # Flag to hide 
 out$hidden <- flag_in_list(out$subjects, c("(Other)", "(Unspecified)"))
 
-politics_flag <- flag_in_list(out$subjects, c("Politics"))
+politics_flag <- flag_in_list(out$subjects, c("Political Science", "Public Affairs, Public Policy and Public Administration"))
 economics_flag <- flag_in_list(out$subjects, c("Economics"))
 sociology_flag <- flag_in_list(out$subjects, c("Sociology"))
 other_flag <- flag_in_list(out$subjects, c("(Other)"))
